@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+	<navn>Fasterbrød</navn>
+	<ingredienser>
+		<ing>5 dl koldt vand</ing>
+		<ing>2 tsk salt</ing>
+		<ing>1/3 pk. gær</ing>
+		<ing>225 g durummel</ing>
+		<ing>400 g hvedemel</ing>
+	</ingredienser>
+	<metode>
+		<met>Ingredienserne røres sammen. ca. 225 g durum tilsættes - det skal være som grød.&#13;
+		Tilsæt ca. 400 g hvedemel og saml dejen. Den skal være lidt fugtig.</met>
+		<met>Stilles koldt (køleskab) m/film over i mindst 6 timer, men gerne natten over.</met>
+		<met>Formes til 2 brød, som efterhæver under viskestykke i 2-3 timer.</met>
+		<met>Bages v. 200 grader i 20-25 min.</met>
+	</metode>
+</DOC>

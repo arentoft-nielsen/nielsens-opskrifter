@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Squashkage med ostecreme</navn>
+  <ingredienser>
+    <ing>2 æg</ing>
+    <ing>175 gram brun farin</ing>
+    <ing>2 tsk vaniljesukker</ing>
+    <ing>250 gram hvedemel (evt. 100 g heraf fuldkornsmel)</ing>
+    <ing>1 tsk natron</ing>
+    <ing>1½ tsk bagepulver</ing>
+    <ing>3 tsk kanel</ing>
+    <ing>1 tsk kardemomme</ing>
+    <ing>1 dl rapsolie</ing>
+    <ing>250 gram revet squash (el. gulerod)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Ostecreme</subheader>
+    <ing>200 gram flødeost naturel</ing>
+    <ing>1 spsk citronsaft</ing>
+    <ing>100 gram flormelis</ing>
+    <ing>1-2 tsk vaniljesukker</ing>
+  </ingredienser2>
+  <metode>
+    <met>Tænd ovnen på 150 grader varmluft (eller 175 grader alm. ovn).</met>
+    <met>Pisk æg, brun farin og vaniljesukker. Bland hvedemel med krydderier og natron/bagepulver. Rør det i dejen sammen med olien.</met>
+    <met>Riv squashen og tilsæt. Du behøver ikke skrælle din squash, hvis skrællen er fin.</met>
+    <met>Smør et bagefad (rundt, ca. 28 cm). Hæld dejen heri.</met>
+    <met>Bag kagen ca. 30-35 minutter v. 150 grader varmluft. Kagen er færdig, når den er gennembagt. Kagen må stadig godt føles lidt klæg/svampet. Lad kagen afkøle.</met>
+    <met>Bland alle ingredienser til ostecremen, og pisk godt. Smag til med vaniljesukker. Citronsaft gør cremen tynd, så nøjes med lidt eller udelad.</met>
+    <met>Smør ostecremen på toppen af kagen. Opbevar kagen på køl, til den skal serveres.</met>
+  </metode>
+  <tips>
+    <tip>Ostecremen kan erstattes med almindelig hvid glasur eller et drys flormelis.</tip>
+  </tips>
+</DOC>

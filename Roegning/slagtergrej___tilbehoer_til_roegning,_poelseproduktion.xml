@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Slagtergrej / tilbehør til røgning, pølseproduktion</navn>
+  <ingredienser>
+    <ing>pølsetarme</ing>
+    <ing>kødnet</ing>
+    <ing>krydderiblandinger</ing>
+  </ingredienser>
+  <metode>
+    <met>Googl evt.: hausschlachtebedarf, hausschlachterbedarf.</met>
+    <met>Harrislee: http://www.n-ralfs.de/</met>
+  </metode>
+  <tips>
+    <tip>Onlinebutikker:</tip>
+    <tip>https://steffen-o.dk/</tip>
+    <tip>https://pmshop.dk/</tip>
+    <tip>https://www.danishoutdoor.dk/</tip>
+    <tip>https://grillbutikken.dk/</tip>
+    <tip>http://www.gewuerze-hausschlachterbedarf.de/</tip>
+    <tip>http://hausschlachtebedarf.de/</tip>
+    <tip>Opskrifter:</tip>
+    <tip>https://www.raeucherwiki.de/</tip>
+    <tip>http://www.wurst-rezept.de/</tip>
+  </tips>
+</DOC>

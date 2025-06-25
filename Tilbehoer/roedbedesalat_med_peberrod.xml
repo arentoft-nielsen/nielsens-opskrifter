@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rødbedesalat med peberrod</navn>
+  <ingredienser>
+    <ing>2-3 rødbeder alt efter størrelse.</ing>
+    <ing>25 g peberrod</ing>
+    <ing>1 æble</ing>
+    <ing>saft og skal af en halv citron</ing>
+    <ing>1 spsk. flydende honning</ing>
+    <ing>4 spsk. olivenolie</ing>
+    <ing>et nip salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Rør citronsaft, citronskal, honning og olivenolie sammen og smag til med fintrevet peberrod.</met>
+    <met>Skræl rødbederne og riv dem eller skær dem i tynde strimler.</met>
+    <met>Skær æblerne små tern.</met>
+    <met>Vend rødbede og æble med dressingen, krydr med salt og justér evt. med ekstra peberrod.</met>
+  </metode>
+</DOC>

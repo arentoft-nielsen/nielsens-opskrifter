@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brownie med appelsin</navn>
+  <ingredienser>
+    <ing>200 g smør</ing>
+    <ing>200 g god mørk chokolade</ing>
+    <ing>125 g mel</ing>
+    <ing>3 æg</ing>
+    <ing>265 g sukker</ing>
+    <ing>1/3 tsk salt</ing>
+    <ing>fintreven skal af 1 øko appelsin</ing>
+  </ingredienser>
+  <metode>
+    <met>Forvarm ovnen til 180 grader varmluft.</met>
+    <met>Smelt smørret i en gryde, sluk for varmen, kom straks den hakkede mørke chokolade i, og lad den smelte sammen med smørret. Køles lidt af.</met>
+    <met>Pisk mel, æg, sukker, salt og appelsinskal til luftig konsistens i en skål, og tilsæt langsomt smør- og chokoladeblandingen under omrøring.</met>
+    <met>Hæld browniedejen i en rund springform (20 cm) beklædt med bagepapir. Bag brownien i ca. 30-35 minutter. Kagen skal ikke overbages, ind mod midten må test med strikkepind gerne give lidt flydende resultat.</met>
+  </metode>
+  <tips>
+    <tip>8-10 personer</tip>
+    <tip>Husk at en brownie helst skal bages dagen før, så den har tid til at sætte sig og få den helt rigtige konsistens. Opbevar den på køl, indtil den skal skæres ud.</tip>
+  </tips>
+</DOC>

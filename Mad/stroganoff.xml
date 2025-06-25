@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Stroganoff</navn>
+  <ingredienser>
+    <ing>600 g skært oksekød, skåret i strimler</ing>
+    <ing>1 pk. bacon</ing>
+    <ing>250 g champignon, skåret i kvarte</ing>
+    <ing>2 løg, finthakkede</ing>
+    <ing>2 spsk koncentreret tomatpuré</ing>
+    <ing>3 laurbærblade</ing>
+    <ing>3 dl bouillon</ing>
+    <ing>1½ dl piskefløde</ing>
+    <ing>3 spsk sød paprika</ing>
+    <ing>2 spsk hvedemel</ing>
+    <ing>2 spsk smør</ing>
+    <ing>2 spsk olivenolie</ing>
+    <ing>salt</ing>
+    <ing>sort peber, friskkværnet</ing>
+  </ingredienser>
+  <metode>
+    <met>Dryp kødet af.</met>
+    <met>Rør paprika, mel, salt og peber sammen og vend kødstrimlerne heri.</met>
+    <met>Steg bacon sprød i en tykbundet gryde ved ikke alt for høj varme. Læg bacon til side og rist champignoner og løg i baconfedtet ved lidt højere varme og med lidt ekstra olivenolie. Når løgene er bløde og gyldne, og champignonerne er sprøde og saftige, lægges de til side på en tallerken.</met>
+    <met>Brun kødet på alle sider i gryden i olivenolie og smør.</met>
+    <met>Tilsæt tomatpuré, løg, bacon, champignoner, laurbærblade og først 1 dl bouillon.</met>
+    <met>Læg låg på og lad det simre i en times tid, tilføj mere bouillon, hvis retten bliver for tør.</met>
+    <met>Simretiden varierer lidt, i forhold til hvilket stykke kød man bruger, men retten er færdig, når kødet er mørt.</met>
+    <met>Tilsæt til sidst fløde og smag til med salt og peber.</met>
+    <met>Drys med bredbladet persille og sæt gerne gryden på bordet.</met>
+  </metode>
+  <tips>
+    <tip>Serveres med kartoffelmos.</tip>
+  </tips>
+</DOC>

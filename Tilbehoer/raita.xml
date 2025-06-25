@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Raita</navn>
+  <ingredienser>
+    <ing>½ agurk</ing>
+    <ing>2 dl yoghurt, afdryppet el. græsk</ing>
+    <ing>½ tsk spidskommen</ing>
+    <ing>1 spsk limesaft</ing>
+    <ing>1 tsk salt</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>1 nip sukker</ing>
+    <ing>1 lille håndfuld mynteblade el. korianderblade</ing>
+  </ingredienser>
+  <metode>
+    <met>Agurken rives og knuges.</met>
+    <met>Det hele blandes med yoghurt og krydderier og smages til.</met>
+  </metode>
+</DOC>

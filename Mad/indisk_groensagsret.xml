@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Indisk grønsagsret</navn>
+  <ingredienser>
+    <ing>1 stort løg, i tern</ing>
+    <ing>4 fed hvidløg, hakket</ing>
+    <ing>1 spsk finthakket frisk ingefær</ing>
+    <ing>1 spsk stødt koriander</ing>
+    <ing>1 tsk spidskommen</ing>
+    <ing>¾ tsk gurkemeje</ing>
+    <ing>½ tsk cayennepeber</ing>
+    <ing>1 stang kanel (8 cm)</ing>
+    <ing>1 spsk ketchup</ing>
+    <ing>2 dl kyllingebouillon</ing>
+    <ing>1 ds kokosmælk</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>diverse grønsager skåret i mindre stykker</ing>
+    <ing>2 spsk limesaft</ing>
+    <ing>1 tsk revet limeskal</ing>
+    <ing>evt. friske korianderblade</ing>
+  </ingredienser>
+  <metode>
+    <met>Steg løget i olie ved høj varme til det begynder at brune. Skrue ned til medium varme og steg videre i nogle minutter.</met>
+    <met>Tilsæt hvidløg og ingefær, som svitses i 1 minut. Tilsæt krydderierne og svits også dem i et minuts tid.</met>
+    <met>Hæld bouillon, kokosmælk, kanelstang, salt og peber i retten og bring det i kog. Tilsæt nu grønsager, og lad retten simre, indtil de er møre. Smag til med salt.</met>
+    <met>Tilsæt lime og limeskal. Pynt evt. med korianderblade.</met>
+  </metode>
+  <tips>
+    <tip>Serveres med brune ris el. basmatiris</tip>
+  </tips>
+</DOC>

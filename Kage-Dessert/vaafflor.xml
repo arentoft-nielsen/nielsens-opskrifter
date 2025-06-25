@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Våfflor</navn>
+  <ingredienser>
+    <ing>100 g smør el. 1 dl olie</ing>
+    <ing>4 dl hvedemel</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>½ tsk salt</ing>
+    <ing>5 dl mælk el. 4 dl mælk + 1 dl øl</ing>
+    <ing>2 æg</ing>
+  </ingredienser>
+  <metode>
+    <met>Smelt smørret, og lad det køle lidt af.</met>
+    <met>Bland mel, bagepulver og salt i en skål. Tilsæt under omrøring mælk, æg og det smeltede smør. Rør til en jævn dej.</met>
+    <met>Varm vaffeljernet godt igennem (begge sider). Inden man bager den første vaffel, pensles fladerne med lidt smeltet smør/olie. Bag vaflerne. Læg vaflerne på en rist, hvis de ikke serveres straks.</met>
+  </metode>
+</DOC>

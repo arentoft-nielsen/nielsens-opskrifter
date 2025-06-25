@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Butter chicken - fedtfattig</navn>
+  <ingredienser>
+    <ing>2 tsk olivenolie</ing>
+    <ing>1 stort løg, i tern</ing>
+    <ing>1 ds hakkede tomater</ing>
+    <ing>200 g fedtfattig yoghurt</ing>
+    <ing>2 fed hvidløg, presset</ing>
+    <ing>½ tsk stødt ingefær</ing>
+    <ing>2 tsk garam masala</ing>
+    <ing>2 tsk stødt spidskommen</ing>
+    <ing>1 tsk stødt koriander</ing>
+    <ing>½-1 tsk salt</ing>
+    <ing>½ tsk chilipulver (eller efter smag)</ing>
+    <ing>1 tsk sukker</ing>
+    <ing>300 ml vand</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Marinade</subheader>
+    <ing>500 g kyllingebryst, skåret i tern</ing>
+    <ing>200 g fedtfattig yoghurt (0,1 % eller skyr naturel)</ing>
+    <ing>2 fed hvidløg, presset</ing>
+    <ing>1 tsk garam masala</ing>
+    <ing>½ tsk stødt ingefær</ing>
+    <ing>½ tsk gurkemeje</ing>
+    <ing>½ tsk stødt spidskommen</ing>
+    <ing>chilipulver (efter styrke)</ing>
+    <ing>1 tsk salt</ing>
+  </ingredienser2>
+  <metode>
+    <met>Bland alle ingredienserne til marinaden i en skål. Tilsæt kyllingestykkerne, og bland grundigt rundt. Dæk skålen til og lad det marinere i mindst 20 minutter, gerne natten over i køleskab.</met>
+    <met>Varm 2 tsk olie i en stor pande. Steg kyllingestykkerne i ca. 3-4 minutter pr. side, til de er let brunede. Tag dem af panden og sæt til side.</met>
+    <met>I en gryde steges løgene til de er gyldne og klare . Tilsæt hvidløg og ingefær, og steg yderligere et par minutter. Tilsæt de hakkede tomater, yoghurt, garam masala, spidskommen, koriander, salt, chilipulver og sukker. Lad det simre i ca. 10 minutter.</met>
+    <met>Brug en stavblender direkte i panden til at blende saucen glat. Kog panden af med vandet, og tilsæt dette til saucen, justér konsistens og smag.</met>
+    <met>Læg kyllingestykkerne i saucen, og lad retten simre i yderligere 10-15 minutter, til kyllingen er gennemstegt og mør.</met>
+    <met>Drys med frisk koriander og evt. en skefuld yoghurt på toppen.</met>
+  </metode>
+  <tips>
+    <tip>Serveres med fuldkornsris og evt. naanbrød.</tip>
+  </tips>
+</DOC>

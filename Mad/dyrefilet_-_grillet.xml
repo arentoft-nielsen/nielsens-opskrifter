@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Dyrefilet - grillet</navn>
+  <ingredienser>
+    <ing>Rygfilet af rådyr</ing>
+    <ing>Salt</ing>
+    <ing>Krydderier</ing>
+    <ing>Olie</ing>
+  </ingredienser>
+  <metode>
+    <met>Fileten pudses ren for sener og sølvhinder. Herefter deles den på midten og saltes på alle sider.</met>
+    <met>Krydderier - fx timian, paprika, peber eller en grillblanding - røres op med olie og fordeles over kødet. Kødet trækker lidt ved stuetemperatur.</met>
+    <met>Grillen tændes, og når den er godt gennemvarm, lægges kødet på og brunes hele vejen rundt - pas på at der ikke kommer flammer direkte under kødet.</met>
+    <met>Tag kødet lidt væk fra varmen, og sæt stegetermometer i den tykkeste del. Fortsæt grillningen, mens der pensles med ekstra krydderolie. Ved 60 grader kernetemperatur tages kødet ud og trækker ca. 10 minutter inden udskæring.</met>
+  </metode>
+  <tips>
+    <tip>Fileten kan også tilberedes i ovn: Smelt lidt smør på en meget varm pande, og brun filetstykkerne grundigt på alle sider. De skal have en god kulør og stegeskorpe. Samlet skal bruningen ikke tage længere end to minutter. Så fuld knald på panden. Herefter sættes kødet i ovnen ved 200 grader varmluft, hvor det skal have cirka 15 minutter, men overhold de 60 grader kernetemperatur.</tip>
+  </tips>
+</DOC>

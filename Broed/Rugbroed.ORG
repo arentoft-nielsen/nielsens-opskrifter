@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rugbrød</navn>
+  <ingredienser>
+    <ing>300 g skårne/knækkede rugkerner</ing>
+    <ing>6 dl vand</ing>
+    <ing>10 g gær</ing>
+    <ing>2 dl (mørk) øl</ing>
+    <ing>2½ dl kærnemælk</ing>
+    <ing>2½ tsk groft salt</ing>
+    <ing>225 g hørfrø</ing>
+    <ing>150 g solsikkekerner</ing>
+    <ing>125 g sesamfrø</ing>
+    <ing>250 g rugmel</ing>
+    <ing>300 g hvedemel (evt. 1/3 fuldkorns- eller hvid hvede-mel)</ing>
+  </ingredienser>
+  <metode>
+    <met>Rugkerner overhældes med 4 dl kogende vand og står nogle minutter. Herefter tilsættes resten af vandet, så blandingen køler.
+Rør gæren ud i kærnemælk og øl i en stor skål. Tilsæt de øvrige ingredienser og rør dejen (på maskine med K-spade i ca. 10 min).</met>
+    <met>Kom dejen i 2 smurte rugbrødsforme, dæk med en pose og stil dem til hævning i køleskabet i mindst 12 timer, hellere 24.
+(maximum 3 dage - herefter bliver de for syrlige).</met>
+    <met>Bag brødene midt i ovnen - ca. 1 time og 15 min. ved 175° (centrumstemperatur ca. 95°).</met>
+    <met>Tag brødene ud af formene og lad dem køle af på en bagerist.</met>
+  </metode>
+  <tips>
+    <tip>Pak rugbrødene ind i film eller i fryseposer - så kan de holde sig friske i 4-5 dage.</tip>
+  </tips>
+</DOC>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Hjortespegepølse</navn>
+  <ingredienser>
+    <ing>2 kg vildtkød</ing>
+    <ing>1 kg oksekød</ing>
+    <ing>600 g svinespæk</ing>
+    <ing>9 g hvid peber</ing>
+    <ing>7½ g koriander</ing>
+    <ing>7½ g 5 forskellige peber</ing>
+    <ing>7½ g druesukker</ing>
+    <ing>1 g ingefær</ing>
+    <ing>1½ g rosmarin</ing>
+    <ing>6 g fint malet enebær</ing>
+    <ing>25 g GDL starterkultur</ing>
+    <ing>65 g nitritsalt</ing>
+    <ing>60 g alm fint salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Spækket skæres i tern og fryses ned.</met>
+    <met>Spæk og kød hakkes i næsten optøet tilstand. Det meget kolde kød blandes med krydderier og salt og stoppes fast i tarme.</met>
+    <met>Pølserne modnes et par dage i køleskabet, derefter skal de tørre. Efterfølgende 3 gange røgning med pauser i mellem; altså 12 timers røg og 12 timers hvile, igen 12 timers røg osv.</met>
+    <met>Når røgningen er overstået skal de ligge ca 2 uger og modne færdig.</met>
+  </metode>
+</DOC>

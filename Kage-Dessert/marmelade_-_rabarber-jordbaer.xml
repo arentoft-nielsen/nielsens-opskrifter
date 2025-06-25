@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Marmelade - rabarber-jordbær</navn>
+  <ingredienser>
+    <ing>400 g jordbær</ing>
+    <ing>600 g rabarber</ing>
+    <ing>400 g sukker</ing>
+    <ing>½ vaniljestang</ing>
+    <ing>geleringsmiddel</ing>
+  </ingredienser>
+  <metode>
+    <met>Sæt en lille tallerken på køl/frys.</met>
+    <met>Vask jordbærrene og fjern stilkene. Skyl rabarber og skær dem i små stykker på cirka 1 cm.</met>
+    <met>Jordbær, rabarber, sukker og vanilje kommes i en gryde. Lad marmeladen koge i 5-8 minutter - til frugterne er møre.</met>
+    <met>Tilsæt geleringsmiddel sammen med 1 spsk. sukker, og lad marmeladen koge et par minutter. Fjern skummet fra marmeladen med en ske.</met>
+    <met>Marmeladen fjernes fra varmen, og der lægges en lille teskefuld på den nu kolde tallerken for at få tjekket konsistensen. Der justeres evt. med gelateringsmiddel.</met>
+    <met>Marmeladen hældes på rengjorte glas.</met>
+  </metode>
+</DOC>

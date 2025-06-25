@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fastelavnsboller med creme</navn>
+  <ingredienser>
+    <ing>600 g hvedemel</ing>
+    <ing>2 spsk sukker</ing>
+    <ing>2 tsk stødt kardemomme</ing>
+    <ing>200 g koldt smør</ing>
+    <ing>2,5 dl mælk</ing>
+    <ing>50 g gær</ing>
+    <ing>2 æg</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Vaniljecreme</subheader>
+    <ing>2 æg</ing>
+    <ing>4 spsk sukker</ing>
+    <ing>2 spsk majsstivelse</ing>
+    <ing>3 dl mælk</ing>
+    <ing>1 vaniljestang</ing>
+  </ingredienser2>
+  <metode>
+    <met>Bland hvedemel, kardemomme og sukker sammen. Tilsæt smørret, og ælt det med fingrene til en smuldret masse.</met>
+    <met>Lun mælken, til den er fingervarm, og opløs gæren deri. Tilsæt æggene, og pisk det sammen. Hæld gær-/æggeblandingen over de tørre ingredienser, og rør det sammen. Ælt det på bordet, og tilsæt eventuelt lidt mere mel. Lad det hæve i en skål i cirka 30 minutter.</met>
+    <met>Imens dejen hæver, laver du vaniljecremen: Kom alle ingredienserne i en gryde (også den tomme vaniljestang), og pisk det godt sammen. Varm det op ved middel varme, og rør konstant i det, til det koger op og bliver tykt. Tag det af varmen, hæld det i en skål og lad det køle af. (Og husk at tage vaniljestangen op!</met>
+    <met>Efter hævning deles dejen i to og udrulles. Hver dejplade skæres i 3x4 firkanter, og der lægges cirka 2 tsk. creme på hvert stykke. Fold stykkerne sammen ved først at samle de 4 hjørner på stykket, klemme kanterne sammen, og samle de 4 hjørner igen. Læg bollerne på en bageplade med lukningen nedad (sørg for at de lukker helt tæt!).</met>
+    <met>Lad fastelavnsbollerne hæve i 30 minutter. Pensl dem herefter med sammenpisket æg, og bag dem ved 200 grader i cirka 15 minutter.</met>
+    <met>Lad dem køle af på en bagerist, og pynt dem med glasur.</met>
+  </metode>
+</DOC>

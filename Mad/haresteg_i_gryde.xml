@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Haresteg i gryde</navn>
+  <ingredienser>
+    <ing>1 hare</ing>
+    <ing>1 l kærnemælk</ing>
+    <ing>4-6 fed hvidløg</ing>
+    <ing>3-6 laurbærblade</ing>
+    <ing>friske basilikumblade</ing>
+    <ing>2 løg</ing>
+    <ing>1 pk. bacon</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Sovs</subheader>
+    <ing>4 spsk mel</ing>
+    <ing>75 g smør</ing>
+    <ing>mælk/fløde</ing>
+    <ing>ribsgele</ing>
+  </ingredienser2>
+  <metode>
+    <met>Haren optøs lidt, og sølvhinder fjernes fra kødet, som lægges i kærnemælk (el. eddikevand af 1 l vand og 1 dl eddike) tilsat 20 g salt i et døgns tid på køl.</met>
+    <met>Bacon skæres i mindre stykker og steges i en tykbundet gryde. Bacon tages op, der tilsættes en klump smør, og harestykkerne brunes på alle sider ad et par omgange. Til sidst tilsættes de hakkede løg og brunes.</met>
+    <met>Kød og bacon lægges tilbage i gryden, og der tilsættes ½ l vand, laurbærblade, basilikum, hvidløg samt salt og peber.</met>
+    <met>Det hele simrer under låg i 5-6 kvarter.</met>
+    <met>Sluk derefter for haren og lad den trække 15 min.</met>
+    <met>Herefter laver du en alm. opbagt sovs med bl.a. kraften fra haren. Smages til med salt, peber og ribsgele.</met>
+    <met>Tag haren op af gryden, pil kødet af den og server det sammen med det tilbehør, du har valgt.</met>
+  </metode>
+  <tips>
+    <tip>I stedet for laurbær og basilikum kan bruges timian og rosmarin.</tip>
+  </tips>
+</DOC>

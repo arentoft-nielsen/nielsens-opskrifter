@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Havrekiks</navn>
+  <ingredienser>
+    <ing>225 g fine havregryn (el. grove havregryn blendet)</ing>
+    <ing>½ tsk bagepulver</ing>
+    <ing>¼ tsk salt</ing>
+    <ing>evt. smagsgiver (se Tips)</ing>
+    <ing>75 g smør</ing>
+    <ing>2 spsk honning el. sirup</ing>
+    <ing>1 dl kogende vand</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 160 grader varmluft.</met>
+    <met>Vej havregrynene af i en skål, tilsæt bagepulver, salt, smagsgiver, smør i tynde skiver samt honning. Hæld det kogende vand over, og rør grundigt rundt med en grydeske. For at få dejen helt jævn, kan den æltes sammen i hånden i skålen.</met>
+    <met>Rul dejen ud mellem to stykker bagepapir. Fjern det øverste stykke, og skær dejen op i passende kiksstørrelser. Du kan også stikke ud med en udstiksform (eller et glas) – så skal du rulle ud flere gange.</met>
+    <met>Bag kiksene i ca. 20-22 minutter, til de er lysebrune. Hvis de er for lyse, er de også bløde. Lad dem køle af på en bagerist.</met>
+  </metode>
+  <tips>
+    <tip>Som smagsgiver kan tilsættes 2 tsk vaniljesukker / 2 tsk kanel / 1½ tsk kardemomme / 2 tsk ingefær + 1 tsk kanel / overdrysset flagesalt.</tip>
+    <tip>75 g af havregrynene kan evt. erstattes med kokosmel.</tip>
+  </tips>
+</DOC>

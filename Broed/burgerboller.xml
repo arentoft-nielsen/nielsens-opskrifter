@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Burgerboller</navn>
+  <ingredienser>
+    <ing>2 dl lunkent vand ca. 37 grader</ing>
+    <ing>1 dl mælk</ing>
+    <ing>15 g gær</ing>
+    <ing>2 spsk olivenolie</ing>
+    <ing>1 æg</ing>
+    <ing>2 tsk salt</ing>
+    <ing>1 spsk sukker</ing>
+    <ing>100 g grahamsmel/rugmel</ing>
+    <ing>400 g hvedemel (gerne manitoba)</ing>
+    <ing>1 drys sesamfrø</ing>
+  </ingredienser>
+  <metode>
+    <met>Rør gæren ud i lunkent vand, og tilsæt mælk, olie og æg.</met>
+    <met>Bland grahamsmel, salt og sukker, og rør i gærblandingen, indtil den er jævn. Rør hvedemel i ad et par gange, og ælt grundigt i mindst 10 minutter mere til dejen er smidig (på røremaskine skal dejen samle sig omkring dejkrogen). Lad dejen hæve i en skål i en time.</met>
+    <met>Del dejen i 8, og form bollerne ved at folde yderkanterne af dejen ind under midten og derefter presse sammen i bunden, så toppen bliver glat og rund. Sæt bollerne på en plade, tryk dem lidt flade, og lad dem hæve på en bageplade med bagepapir til dobbelt størrelse (ca. 30-45 minutter), hvorefter der pensles med vand og drysses med sesamfrø.</met>
+    <met>Bag burgerbollerne i en forvarmet ovn ved 190 grader varmluft i omkring 15-18 minutter. Læg herefter bollerne på en rist, dæk dem til med et viskestykke, og lad dem køle af i min. 10 minutter.</met>
+  </metode>
+  <tips>
+    <tip>Kan også bruges til pølsebrød.</tip>
+  </tips>
+</DOC>

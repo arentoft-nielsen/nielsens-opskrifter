@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kartoffelbåde II</navn>
+  <ingredienser>
+    <ing>1 kg kartofler (med skræl)</ing>
+    <ing>¾ dl solsikkeolie</ing>
+    <ing>¾ spsk salt</ing>
+    <ing>2 spsk maizena</ing>
+    <ing>2 tsk paprika</ing>
+    <ing>1½ tsk timian el. oregano</ing>
+    <ing>½ tsk sort peber</ing>
+    <ing>evt stødt chili</ing>
+    <ing>evt hvidløg</ing>
+  </ingredienser>
+  <metode>
+    <met>Forvarm ovnen til 200° varmluft.</met>
+    <met>Skyl kartoflerne godt, så der ikke sidder rester af jord. Halver dem og skær dem derefter i både. Skyl dem grundigt og lad dem dryppe af i en sigte.</met>
+    <met>Bland maizena, salt og krydderier i en lille skål og vend kartoflerne heri. Hæld derefter olien over og vend bådene, indtil alle kartofler er dækket af olie og krydderier. Fordel kartoflerne godt på en bageplade med bagepapir, så de ikke ligger oven i hinanden.</met>
+    <met>Sæt kartoflerne i ovnen og bag dem i ca. 40-50 minutter. Husk at røre i dem ind imellem. Skru eventuelt herefter ovnen over på grill og bag kartoflerne lidt ekstra, indtil de er helt sprøde. Hold øje med dem!!</met>
+  </metode>
+</DOC>

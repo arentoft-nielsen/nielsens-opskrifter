@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Chilisauce II</navn>
+  <ingredienser>
+    <ing>240 g soltørrede tomater i olie (drænet vægt)</ing>
+    <ing>240 g tomatpuré (fra de små røde dåser)</ing>
+    <ing>35 g tørrede chiliflager (fx Kilic knust chili, Pul Biber fra Kvickly)</ing>
+    <ing>5 g hvidløgspulver</ing>
+    <ing>8 g Garam Masala (fx fra Tiger)</ing>
+    <ing>6 g fint salt</ing>
+    <ing>2 g cayennepeber</ing>
+    <ing>10 g citronsaft</ing>
+    <ing>30 g sukker</ing>
+    <ing>3,5 dl neutral olie (fx rapsolie)</ing>
+  </ingredienser>
+  <metode>
+    <met>Dræn de soltørrede tomater let i en sigte. Blend dem til en puré.</met>
+    <met>Tilsæt tomatpuréen og blend videre. Kom det hele i en skål.</met>
+    <met>Tilsæt krydderierne og 2½ dl olie. Rør det hele forsigt sammen med en dejskraber.</met>
+    <met>Kom det hele på glas (skoldede og dyppet i atamon). Fyld ca. 1 cm olie over chilien.</met>
+  </metode>
+  <tips>
+    <tip>Kan holde sig på køl 1-2 måneder.</tip>
+  </tips>
+</DOC>

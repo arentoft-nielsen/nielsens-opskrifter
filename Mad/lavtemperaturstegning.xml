@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Lavtemperaturstegning</navn>
+  <metode>
+    <met>Ovnen skal holde en konstant temperatur på (70°-)80° (dette skal testes med et stegetermometer)! Ovntemperaturen må ikke svinge for meget: hvis temperaturen af og til falder til 70° forlænges stegetiden betragtelig, og ved 60° stopper tilberedningen. Omvendt vil forhøjede temperaturer forkorte stegetiden, og kødet bliver nemmere tørt. Kontroller altså ovntemperaturen løbende, og reguler varmen ved at skrue op/ned og åbne ovnlågen kort.</met>
+    <met>God kødkvalitet og hygienisk bearbejdning er særlig vigtigt ved metoden, fordi kødet ikke gennemsteges. Tag kødet ud af køleskab ½-1 time før tilberedningen, så det nogenlunde har stuetemperatur, når man starter.</met>
+    <met>Varm ovnen op med over-/undervarme (ikke varmluft), stil også et fladt, ovnfast fad af porcelæn eller keramik ind til opvarmning (ingen metalfade). Kødet krydres og saltes efter smag. Nu opvarmes en pande godt, og der tilsættes smør/olie. Heri brunes kødet hele vejen rundt ved god varme, også endestykkerne. Overhold de bruningstider, som er angivet i tabellen, så stegen får den ønskede beskyttende skorpe og grundtemperatur.</met>
+    <met>Sæt kødet på fadet i ovnen, og steg færdig ved ca. 80°, jfr. ca-tiden i tabellen. Kødet må ikke tildækkes eller tilsættes væske! Nu kan man gå i gang med tilbehør og sauce.</met>
+    <met>Hen imod slutningen af den formodede stegetid sættes et stegetermometer i stegens tykkeste del (men ikke i nærheden af knogler). Afvent nu at den ideale kernetemperatur nås. Aflæs de forskellige kødsorters idealtemperatur i tabellen.</met>
+    <met>Da kød tilberedt ved lavtemperatur ikke er meget varmt, bør tilbehør og sauce være varmt. Opvarm også tallerkener (hen imod slutningen af stegetiden kan de sættes 10 minutter i ovnen). Kødet kan skæres for med det samme, da det er unødvendigt at lade det trække.</met>
+    <met>Store stege: Hele fjerkræ eller dyre- og lammekøller kan ikke rigtig brunes på panden. Her opvarmes ovn og bradepande til 220-240°. Indsmør stegen med lidt olie, og læg den i ovnen på bagepapir for at få den brunet ved høj varme. Herefter tages bradepanden ud og ovnvarmen sænkes til 80° med åben ovnlåge. Herefter steges der som angivet ovenfor</met>
+  </metode>
+  <tips>
+    <tip>http://arentoft-nielsen.dk/Opskrifter/Mad/Lavtemperaturtabel.pdf</tip>
+  </tips>
+</DOC>

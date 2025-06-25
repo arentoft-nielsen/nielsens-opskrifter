@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtgullasch</navn>
+  <ingredienser>
+    <ing>1 kg dyrekød - i tern</ing>
+    <ing>6 skiver bacon i små strimler</ing>
+    <ing>smør</ing>
+    <ing>1 spsk paprika (evt. ½ røget paprika)</ing>
+    <ing>1 bouquet garni (krydderbuket af selleritop, persille)</ing>
+    <ing>4 knuste enebær</ing>
+    <ing>1 tsk stødt timian</ing>
+    <ing>50 g selleri i små tern</ing>
+    <ing>1 porre i skiver</ing>
+    <ing>1 stort løg i tern</ing>
+    <ing>2 fed hvidløg</ing>
+    <ing>2 gulerødder i skiver</ing>
+    <ing>3 dl rødvin</ing>
+    <ing>2 dl bouillon</ing>
+    <ing>1½ dl piskefløde</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>250 g champignoner</ing>
+  </ingredienser>
+  <metode>
+    <met>Vildtkødet skæres i passende stykker.</met>
+    <met>Baconen skæres i strimler og steges sprøde. Baconstykkerne tages fra, paprikaen drysses i, og derpå brunes vildtkødet godt ad 3 gange (tilsæt evt smør).</met>
+    <met>Kødet tilsættes bouillon, rødvin, krydderier, bouquet garni samt salt og koges ca. 1½-2 timer ved svag varme. Halvvejs brunes selleri, porre, løg, hvidlød og gulerødder i lidt smør og tilsættes.</met>
+    <met>Champignoner svitses i smør og koges med de sidste 10 min.</met>
+    <met>Retten jævnes med maizena udrørt i koldt vand, og der smages til.</met>
+  </metode>
+  <tips>
+    <tip>Opskriften er til ca. 6 personer</tip>
+  </tips>
+</DOC>

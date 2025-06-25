@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rugbrød med surdej</navn>
+  <ingredienser>
+    <ing>Fordej:</ing>
+    <ing>600 g rugmel</ing>
+    <ing>200 g hvedemel</ing>
+    <ing>6½ dl koldt vand</ing>
+    <ing>surdej (hele portionen, 2-3 dl)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dej</subheader>
+    <ing>HUSK at tage dej fra!</ing>
+    <ing>200 g knækkede rugkerner (eller poppede rug-/speltkerner)</ing>
+    <ing>3½ dl vand (el. stout/maltøl)</ing>
+    <ing>1 spsk brun farin</ing>
+    <ing>evt. 1 spsk sovsekulør el. 2 spsk. mørkt maltmel, hvis mørkere farve ønskes</ing>
+    <ing>1½ spsk salt</ing>
+    <ing>250 g hørfrø, solsikkekerner, sesam, chia etc.</ing>
+    <ing>evt. 150 g reven gulerod/rødbede/æble etc.</ing>
+  </ingredienser2>
+  <metode>
+    <met>Fordej: Hele portionen af surdej anvendes (hvis der er lidt indtørret top, fjernes denne). Bland rugmel, hvedemel og vand, og rør det hele sammen med surdejen (brug K-spaden på røremaskinen). Sæt dejen til hævning ca. 6-12 timer på køkkenbordet.</met>
+    <met>Dej: Tag et par spsk. med top af dejen fra, og gem til næste bagning - tilsæt ekstra vand+rugmel og sæt på køl. Giv rugkernerne et kort opkog i 2 dl vand/øl sammen med farin (og evt kulør) - bruges der poppede kerner, så skal de bare i dejen. Tilsæt reven gulerod, salt og frø til dejen. Afkøl rugkernerne med resten af væsken (1½ dl), tjek at det ikke er alt for varmt, og rør det sammen med dejen.</met>
+    <met>Fordel dejen i to forme, hver på ca. 1½ liter (fyldes 2/3 op). Drys med fx solsikke-/hørfrø på toppen. Lad brødene efterhæve under et klæde, indtil dejen hvælver op over toppen af formen (tager som regel 2-3 timer).</met>
+    <met>Bag brødene ved 175° i ca. 1½ time (centrumstemperatur ca. 95°-98°).</met>
+  </metode>
+  <tips>
+    <tip>Der kan tilsættes 2-3 spsk mørkt maltmel for mere farve og smag. 1 spsk hvis der bruges mørk øl.</tip>
+    <tip>Processen kan speedes op ved at bruge lunkent vand samt stille formene til efterhævning et ekstra lunt sted.</tip>
+    <tip>Blød skorpe kan opnås ved at lægge brødene i fryseposer, når de er halvkolde. Derved går kondensen ind og blødgør skorpen.</tip>
+  </tips>
+</DOC>

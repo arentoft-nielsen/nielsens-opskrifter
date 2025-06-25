@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Marmelade - Nielsens special</navn>
+  <ingredienser>
+    <ing>½ kg hindbær</ing>
+    <ing>½ kg ribs</ing>
+    <ing>½ kg solbær</ing>
+    <ing>650 g sukker</ing>
+    <ing>3 tsk. Rød Melatin</ing>
+  </ingredienser>
+  <metode>
+    <met>Stil en tallerken på køl/frys.</met>
+    <met>Ribsene ribbes, knuses og kommes i en gryde sammen med solbær - bringes i kog ved svag varme. Sukker tilsættes og koges med et par minutter.</met>
+    <met>Tilsæt hindbær.</met>
+    <met>Melatin og lidt sukker blandes og røres i den kogende frugt. Koges 2 min.</met>
+    <met>Marmeladen fjernes fra varmen, og der lægges en lille teskefuld marmelade på den nu kolde tallerken for at få tjekket konsistensen. Der justeres evt. med gelateringsmiddel.</met>
+    <met>Marmeladen hældes på rengjorte glas.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,41 @@
+A:link    { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000060; text-decoration: underline }
+A:active  { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000060; text-decoration: underline }
+A:visited { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #426A81; text-decoration: underline }
+
+
+.fblack3n        { font-family: Verdana; font-size: 3pt; font-weight: normal; color: #000000; text-decoration: none }
+.fs3n            { font-family: Verdana; font-size: 3pt; font-weight: normal; color: #000060; text-decoration: none }
+
+.fblack5n        { font-family: Verdana; font-size: 5pt; font-weight: normal; color: #000000; text-decoration: none }
+
+.fblack7n        { font-family: Verdana; font-size: 7pt; font-weight: normal; color: #000000; text-decoration: none }
+.fblack7b        { font-family: Verdana; font-size: 7pt; font-weight: bold;   color: #000000; text-decoration: none }
+.fblue7n         { font-family: Verdana; font-size: 7pt; font-weight: normal; color: #426A81; text-decoration: none }
+.fred7b          { font-family: Verdana; font-size: 7pt; font-weight: bold;   color: #cc0000; text-decoration: none }
+
+.fblack8n        { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #000000; text-decoration: none }
+.fblack8nL       { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #000000; text-decoration: underline }
+.fblack8b        { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000000; text-decoration: none }
+.fblack8bL       { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000000; text-decoration: underline }
+.fs8n            { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #000060; text-decoration: none }
+.fs8nL           { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #000060; text-decoration: underline }
+.fs8b            { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000060; text-decoration: none }
+.fs8bL           { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #000060; text-decoration: underline }
+.fblue8n         { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #125A81; text-decoration: none }
+.fblue8nL        { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #426A81; text-decoration: underline }
+.fblue8b         { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #426A81; text-decoration: none }
+.fblue8bL        { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #426A81; text-decoration: underline }
+.fred8n          { font-family: Verdana; font-size: 8pt; font-weight: normal; color: #cc0000; text-decoration: none }
+.fred8b          { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #cc0000; text-decoration: none }
+.fred8bL         { font-family: Verdana; font-size: 8pt; font-weight: bold;   color: #cc0000; text-decoration: underline }
+
+.fblack9n        { font-family: Verdana; font-size: 9pt; font-weight: normal; color: #000000; text-decoration: none }
+.fblack9b        { font-family: Verdana; font-size: 9pt; font-weight: bold;   color: #000000; text-decoration: none }
+.fs9n            { font-family: Verdana; font-size: 9pt; font-weight: normal; color: #000060; text-decoration: none }
+.fs9b            { font-family: Verdana; font-size: 9pt; font-weight: bold;   color: #000060; text-decoration: none }
+.fwhite9b        { font-family: Verdana; font-size: 9pt; font-weight: bold;   color: #FFFFFF; text-decoration: none }
+.fred9b          { font-family: Verdana; font-size: 9pt; font-weight: bold;   color: #cc0000; text-decoration: none }
+
+
+.code            {  color: #000000;  background: #E5E5E5;  font-family: monospace; font-size: 8pt;}
+

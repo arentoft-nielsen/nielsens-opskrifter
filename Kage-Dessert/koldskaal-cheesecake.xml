@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldskål-cheesecake</navn>
+  <ingredienser>
+    <ing>150 g kammerjunkere</ing>
+    <ing>80 g smeltet smør</ing>
+    <ing>200 g flødeost</ing>
+    <ing>saften af en ½ citron</ing>
+    <ing>30 gram flormelis</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>koldskål</subheader>
+    <ing>50 g rørsukker</ing>
+    <ing>40 g glukosesirup</ing>
+    <ing>1 dl mælk</ing>
+    <ing>1 stang vanilje</ing>
+    <ing>4 dl kærnemælk</ing>
+    <ing>fintrevet skal af ½ øko-citron</ing>
+    <ing>4 blade husblas</ing>
+  </ingredienser2>
+  <metode>
+    <met>Blend kammerjunkerne til rasp, som tilsættes smeltet smør. Fordel blandingen i en springform på 20-22 cm i diameter, pres den godt sammen.</met>
+    <met>Udblød husblassen i koldt vand i 5-10 minutter. Kog sukker, glukose og mælk op, til sukker og glukose er smeltet. Flæk vaniljestangen, skrab kornene ud, og tilsæt begge dele til mælken. Hæld kærnemælken i en skål, og pisk den kogende mælk ned i. Kom fintrevet citronskal i, og rør grundigt. Vrid husblassen, og tilsæt den til koldskålen.</met>
+    <met>Flødeosten røres med citronsaft og flormelis. Når koldskålen er kølet lidt af, fjernes vaniljestangen, hvorefter den røres med flødeosten til en ensartet masse og hældes ud på kammerjunkebunden. Glat ud og sæt på køl i min 2 timer.</met>
+  </metode>
+  <tips>
+    <tip>Server med friske bær på toppen.</tip>
+  </tips>
+</DOC>

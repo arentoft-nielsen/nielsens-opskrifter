@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fløderand</navn>
+  <ingredienser>
+    <ing>5 blade husblas</ing>
+    <ing>2 spsk portvin</ing>
+    <ing>2 spsk appelsinsaft</ing>
+    <ing>4 æg</ing>
+    <ing>2 spsk sukker</ing>
+    <ing>½ stang vanille</ing>
+    <ing>½ l. piskefløde</ing>
+  </ingredienser>
+  <metode>
+    <met>Husblasen udblødes i koldt vand. Vandet trykkes af, og den smeltes i vandbad.</met>
+    <met>Æggeblommer og sukker piskes. Kornene skrabes ud af vanillestang og tilsættes.</met>
+    <met>Æggehviderne piskes. Fløden piskes.</met>
+    <met>Den smeltede husblas piskes i æggene. Flødeskum og hvider vendes forsigtigt i.</met>
+    <met>Fløderanden hældes i en randform. Den stivner i køleskab på 3-4 timer.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Syltede rødbeder</navn>
+  <ingredienser>
+    <ing>1 kg rødbeder i nogenlunde samme str.</ing>
+    <ing>vand</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Lage</subheader>
+    <ing>5 dl eddike (evt. æbleeddike, evt. 1 dl balsamico)</ing>
+    <ing>3 dl vand</ing>
+    <ing>8 g salt</ing>
+    <ing>300-450 g sukker</ing>
+    <ing>4 fed hvidløg, pillet og halveret</ing>
+    <ing>10-20 sorte peberkorn</ing>
+    <ing>3 cm peberrod i skiver</ing>
+  </ingredienser2>
+  <metode>
+    <met>Vask rødbederne grundigt, og kog dem netop møre i letsaltet vand (1 spsk salt pr. liter vand). Det tager mellem ½ til 1 time afhængig af størrelsen på rødbederne.</met>
+    <met>Det kogende vand hældes fra, og gryden stilles under koldt rindende vand, indtil rødbederne er kolde. Skrællen gnides af rødbederne (husk handsker), og de skæres i skiver.</met>
+    <met>Eddike, sukker, eventuelle krydderier og vand hældes i en gryde og koges op. Rødbedeskiverne lægges i lagen, som gives et opkog. Fordel peberrod i skiver (må ikke koge med) samt løg, hvidløg og hele krydderier i rene atamonskyllede glas. Kom rødbeder + lage glassene, som hurtigt lukkes til.</met>
+  </metode>
+  <tips>
+    <tip>Der kan yderligere tilsættes fx 3 skalotteløg, 2 stjerneanis, et par kviste timian, 3 laurbærblade eller et par hele nelliker etc.</tip>
+  </tips>
+</DOC>

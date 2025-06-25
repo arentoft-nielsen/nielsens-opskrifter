@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fiskefrikadeller</navn>
+  <ingredienser>
+    <ing>400 g fiskefilet (lyssej, gedde, evt. torsk)</ing>
+    <ing>1 lille løg</ing>
+    <ing>1 gulerod</ing>
+    <ing>1 æg</ing>
+    <ing>3 spsk hakket frisk persille</ing>
+    <ing>2 spsk mel</ing>
+    <ing>1 spk maizena</ing>
+    <ing>1 dl mælk</ing>
+    <ing>1 dl fløde</ing>
+    <ing>½ citron</ing>
+    <ing>1½ tsk salt</ing>
+    <ing>peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Hak fisken i kødhakker eller foodprocessor.</met>
+    <met>Kom farsen i en stor skål, tilsæt 1 tsk salt og peber og rør kraftigt med en træske, til farsen bliver sej.</met>
+    <met>Pil løget og hak det fint. Kom løg og æg i farsen, rør kraftigt og tilsæt melet. Rør mælken i lidt af gangen, til farsen får en passende, grødagtig konsistens. Stil farsen koldt ca. 30 min.</met>
+  </metode>
+</DOC>

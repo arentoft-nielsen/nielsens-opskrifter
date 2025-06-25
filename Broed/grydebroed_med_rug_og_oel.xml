@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Grydebrød med rug og øl</navn>
+  <ingredienser>
+    <ing>10 g gær (el. 1 tsk. rødgær)</ing>
+    <ing>2½ dl vand</ing>
+    <ing>3,3 dl mørk øl (el. alm. øl + 2 tsk. mørkt maltmel)</ing>
+    <ing>20 g salt</ing>
+    <ing>2 spsk sirup</ing>
+    <ing>200 g rugmel (heraf evt. 2 spsk. surdej)</ing>
+    <ing>500 g hvedemel (gerne manitoba/tipo 00)</ing>
+    <ing>evt. 4 tsk. bageenzym</ing>
+  </ingredienser>
+  <metode>
+    <met>Udrør gæren i vandet. Kom de øvrige ingredienser i skålen, og rør dejen grundigt sammen.</met>
+    <met>Smør en skål med olie, og læg dejen heri. Træk lidt olie op over dejen, og glat den af. Lad dejen hæve tildækket ved stuetemperatur i 3-4 timer.</met>
+    <met>Stil en ovnegnet gryde med låg i ovnen, som opvarmes til 250 gr. Tag gryden ud, smid en håndfuld kerner i bunden, og hæld forsigtigt dejen i gryden. Læg låg over. Bag brødet i 30 minutter.</met>
+    <met>Tag nu låget af, og bag brødet yderligere 15 minutter ved 210 gr.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldrøget laks - lagesaltet</navn>
+  <ingredienser>
+    <ing>lakseside</ing>
+    <ing>salt</ing>
+    <ing>sukker</ing>
+    <ing>krydderier</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>saltlage</subheader>
+    <ing>1½ liter lage per kg fisk.</ing>
+    <ing>Til 1 liter bruges 100 g salt og 25 g brun sukker/farin.</ing>
+    <ing>Evt. 2-4 peberkorn, 1 hel ikke for stærk tørret chili og 1-2 laurbærblade.</ing>
+  </ingredienser2>
+  <metode>
+    <met>Salt og sukker opløses i lagen. Eventuelle krydderier skoldes inden tilsætning. Lagen afkøles.</met>
+    <met>Laksen filetteres, husk at skindet ikke må fjernes. Fisken skal ligge til saltning i 10-12 timer på køl, lidt afhængig af hvor tyk fisken er.</met>
+    <met>Herefter afskylles saltet, og fileten afduppes for vand og tørres i mindst lige så lang tid, som den har ligget i lage.</met>
+    <met>Laksen røges i ca. 2x12 timer. Efter saltning, tørring og røgning kan en laks holde sig i 2-3 uger i køleskabet.</met>
+  </metode>
+  <tips>
+    <tip>Ved vildtfanget fisk anbefales det, at fryse fisken i 48 timer inden tilberedning, da den kan indeholde parasitter. Dette er sjældent tilfældet med opdrættet fisk da man kan kontrollere deres føde.</tip>
+    <tip>http://mette.landly.dk/?p=781</tip>
+  </tips>
+</DOC>

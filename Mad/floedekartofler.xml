@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Flødekartofler</navn>
+  <ingredienser>
+    <ing>1 kg kartofler</ing>
+    <ing>1 æg, sammenpisket</ing>
+    <ing>1 løg, finthakket</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>2½ dl piskefløde</ing>
+    <ing>2½ dl mornaysauce</ing>
+    <ing>lidt fintrevet muskatnød</ing>
+    <ing>1 tsk timian</ing>
+    <ing>1 tsk sød paprika</ing>
+    <ing>1½ tsk salt</ing>
+    <ing>sort peber</ing>
+    <ing>1 spsk smør, til det ovnfaste fad</ing>
+    <ing>evt. revet ost, emmentaler el. gouda</ing>
+  </ingredienser>
+  <metode>
+    <met>Skræl kartoflerne, og skær dem i tynde skiver, hvorefter de anrettes i lag sammen med løg på det smurte ovnfaste fad.</met>
+    <met>Pisk ægget godt sammen, og rør sammen med piskefløde og mornay, til det er helt ensartet i konsistensen. Kom presset hvidløg og krydderierne i, og rør det sammen. Fordel blandingen over kartoflerne.</met>
+    <met>Stil fadet i en forvarmet ovn ved 175 grader varmluft, og bag dem i 5-6 kvarter, til kartoflerne er møre.</met>
+    <met>Hvis du vil have ost på, tager du flødekartoflerne ud af ovnen 15 minutter før de skal serveres, hælder lidt revet emmentaler eller gouda oven på, og sætter det tilbage i ovnen. Når osten er gylden er dine flødekartofler klar.</met>
+  </metode>
+  <tips>
+    <tip>Det er vigtigt, at ægget piskes godt sammen og derefter røres godt ud i piskefløden, så det er helt ensartet. Ellers vil det gryne i retten.</tip>
+  </tips>
+</DOC>

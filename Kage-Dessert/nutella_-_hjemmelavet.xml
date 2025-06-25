@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Nutella - hjemmelavet</navn>
+  <ingredienser>
+    <ing>200 g hasselnødder</ing>
+    <ing>150 g rørsukker</ing>
+    <ing>1 spsk. vindruekerneolie</ing>
+    <ing>100 g mørk chokolade</ing>
+    <ing>1 spsk. usødet kakaopulver</ing>
+    <ing>½ tsk. vaniljepulver</ing>
+    <ing>¼ tsk. havsalt</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 180°. Bred nødderne ud på en bradepande med bagepapir, og rist dem i ovnen i ca. 10 minutter, til de begynder at dufte kraftigt, og skallen krakelerer.</met>
+    <met>Gnub så meget af skallen af som muligt, fx i et viskestykke. Blend herefter nødderne med rørsukker.</met>
+    <met>Tilsæt olie, når nødderne er fintblendede, og bliv ved med at blende. Så vil massen efterhånden blive flydende, fordi den naturlige olie fra nødderne udvindes.</met>
+    <met>Hak chokoladen fint, og tilsæt den sammen med kakaopulver, vaniljepulver og salt. Blend ved lav hastighed, indtil chokoladen er smeltet og inkorporeret.</met>
+    <met>Hæld nøddecremen på rene, skoldede glas og opbevar den i køleskabet.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Blåbærmuffins</navn>
+  <ingredienser>
+    <ing>3½ dl mel</ing>
+    <ing>½ tsk vaniljesukker</ing>
+    <ing>1¾ dl sukker</ing>
+    <ing>½ tsk salt</ing>
+    <ing>2 tsk bagepulver</ing>
+    <ing>¾ dl olie</ing>
+    <ing>1 æg</ing>
+    <ing>ca. ¾ dl kærnemælk (eller mælk)</ing>
+    <ing>2½ dl friske blåbær</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Topping</subheader>
+    <ing>¾ dl brun farin</ing>
+    <ing>½ dl mel</ing>
+    <ing>40 g smør, hakket ud</ing>
+    <ing>1 tsk kanel</ing>
+  </ingredienser2>
+  <metode>
+    <met>Forvarm ovnen til 200 grader.</met>
+    <met>Fremstil en crumble til topping: Hæld alle ingredienser i en lille skål og miks det sammen med en gaffel.</met>
+    <met>Bland de tørre ingredienser. Hæld olien i et decilitermål (3dl størrelse) og tilsæt ægget. Fyld derefter op med mælk, indtil der er lidt under 2½ dl i målet. Bland dette i melblandingen - rør ikke for meget (der må gerne være små melklumper).</met>
+    <met>Fold blåbærrene i. Dejen fyldes i muffinforme. Topping drysses over.</met>
+    <met>Bages i ca. 20  minutter i forvarmet ovn.</met>
+  </metode>
+  <tips>
+    <tip>Kan også bruges med andre bær.</tip>
+  </tips>
+</DOC>

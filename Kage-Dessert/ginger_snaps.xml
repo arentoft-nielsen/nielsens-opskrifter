@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Ginger snaps</navn>
+  <ingredienser>
+    <ing>350 g hvedemel</ing>
+    <ing>175 g brun farin</ing>
+    <ing>100 g smør</ing>
+    <ing>1 æg</ing>
+    <ing>4 tsk gylden sirup</ing>
+    <ing>1 tsk natron</ing>
+    <ing>1½-3 tsk stødt ingefær</ing>
+  </ingredienser>
+  <metode>
+    <met>Forvarm ovnen til 180°C.</met>
+    <met>Mix mel, smør, stødt ingefær og natron i en skål, indtil der fås en smuldrende dej.</met>
+    <met>Tilsæt farin, sirup og æg, og ælt grundigt, til dejen er fast.</met>
+    <met>Rul dejen på et meldækket bord til en pølse af passende tykkelse. Skær skiver heraf i ca. 5 mm tykkelse og placer dem på en bageplade med bagepapir.</met>
+    <met>Bages ca. 7 min., indtil de er pænt gyldne.</met>
+  </metode>
+</DOC>

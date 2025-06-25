@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vaniljeis med cremodan</navn>
+  <ingredienser>
+    <ing>4 dl mælk</ing>
+    <ing>50 g glukosesirup</ing>
+    <ing>100 g sukker</ing>
+    <ing>1 helt æg (eller 4 blommer)</ing>
+    <ing>1 vaniljestang (evt. 1½)</ing>
+    <ing>1 knivspids salt</ing>
+    <ing>2 tsk Cremodan</ing>
+    <ing>2 dl piskefløde</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Alternativ</subheader>
+    <ing>4 pasteuriserede æggeblommer</ing>
+    <ing>100 g sukker</ing>
+    <ing>50 g glukosesirup</ing>
+    <ing>1 knivspids salt</ing>
+    <ing>2 tsk Cremodan</ing>
+    <ing>1-1½ vaniljestang</ing>
+    <ing>3½ dl mælk</ing>
+    <ing>1¾ dl piskefløde</ing>
+  </ingredienser2>
+  <metode>
+    <met>Flæk vaniljestangen, og skrab kornene ud. Bland alle ingredienser (undtagen fløde og Cremodan), og varm op til 84 grader ved ikke for højt blus, og mens der til stadighed piskes og gryden drejes. Hæld nu straks massen i en bøtte med låg, rør fløde og Cremodan i, og stil massen på køl i min. 4 timer (optimalt 12-14 timer - blandingen skal være gennemkold). Evt. kan massen stilles i fryseren ½ time inden den skal køres.</met>
+    <met>Tag vaniljestængerne op. Kør massen på ismaskine eller frys den ned, mens der røres kraftigt hvert kvarter, indtil massen er frossen.</met>
+    <met>******************</met>
+    <met>Alternativ (hurtigere, uden opvarmning): Pisk æggene med sukker, sirup, salt og Cremodan, indtil det er en ensartet lind masse, og man ikke længere kan se eller mærke sukkerkornene. Det kan gøres på røremaskine.</met>
+    <met>Flæk vaniljestangen, skrab kornene ud og skrab det ned i æggemassen sammen med mælk og fløde, inden det hele røres sammen på lave omdrejninger.</met>
+    <met>Hæld massen i en ismaskine og lad den fryse det ned til isen har den rette konsistens.</met>
+  </metode>
+  <tips>
+    <tip>Hvis isen har været i fryseren skal den tages op 10-15 minutter før servering for at blive lækker og cremet igen.</tip>
+    <tip>Cremodan vejer 2,6 g per strøgen teske (5 ml). Der beregnes 7 g per kg ismasse.</tip>
+  </tips>
+</DOC>

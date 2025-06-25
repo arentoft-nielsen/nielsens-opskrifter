@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Langtidsstegning af oksekød</navn>
+  <ingredienser2>
+    <subheader>Oksekød, kernetemperaturer</subheader>
+    <ing>Rød - medium: 55-60 grader</ing>
+    <ing>Medium - gennemstegt: 60-65 grader</ing>
+    <ing>Gennemstegt: 65-68 grader</ing>
+  </ingredienser2>
+  <metode>
+    <met>Hemmeligheden ved at stege rødt okse- og kalve-kød er meget simpel. Det første råd er at tage kødet ud af køleren i så god tid, at det har stuetemperatur, når det kommer i ovnen.</met>
+    <met>Derefter er det en god idé først at brune kødet på en pande i lidt olie eller smør ved høj temperatur og meget kort tid. Det skal kun have, indtil overfladen er brun, og vendes så hurtigt som muligt. Efter bruning krydres kødet.</met>
+    <met>Stegetiden har ingen indflydelse på kødets farve. Det er kun temperaturen, der tæller. Kødet bliver til gengæld meget mere mørt, jo længere det steger. Så steg ved så lav temperatur, som du har tid til, og sørg for at kødets indre temperatur aldrig kommer over den ønskede. Jeg sigter typisk efter 57-58 grader.</met>
+    <met>Den bedste taktik er at stege ved 80 til 120 grader i passende stykke tid. jeg plejer at starte på 80 grader og så se, hvordan det går. Hvis det ser ud, som om jeg ikke kan nå det, skruer jeg først op på til 100 grader. Kniber det stadigvæk, så kan jeg finde på at klemme den op på 120 grader.</met>
+    <met>Hvis du skal bruge ovnen til noget andet, så kan du også roligt tage kødet ud, og pakke det ind i sølv- eller bagepapir og håndklæder. Så kan det stå og holde sig lunt i en times tid uden at miste kvalitet. Langtidsstegt kød kan altså godt hvile efter det er stegt, men det har ikke samme behov som kød der har stegt ved høj temperatur.</met>
+  </metode>
+</DOC>

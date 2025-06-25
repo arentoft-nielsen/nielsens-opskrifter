@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Banankage</navn>
+  <ingredienser>
+    <ing>150 g blødt smør</ing>
+    <ing>150 g sukker</ing>
+    <ing>2 æg</ing>
+    <ing>2 tsk bagepulver</ing>
+    <ing>½ tsk salt</ing>
+    <ing>2 tsk vanillesukker</ing>
+    <ing>2 modne bananer</ing>
+    <ing>1 dl mælk</ing>
+    <ing>200 g mel</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>glasur</subheader>
+    <ing>75 g smør</ing>
+    <ing>50 g farin</ing>
+    <ing>¼ dl mælk</ing>
+    <ing>100 g flormelis</ing>
+    <ing>1 tsk vanillesukker</ing>
+  </ingredienser2>
+  <metode>
+    <met>Smør og sukker røres hvidt. Æggene tilsættes et ad gangen.</met>
+    <met>De tørre ingredienser kommes i skiftevis med de moste bananer og mælk.</met>
+    <met>Fyld dejen i en smurt form 20x30 cm. Bages ved 175º i ca. 45 min.</met>
+    <met>Til glasuren gives smør, farin og mælk et opkog og tages af varmen. Sigtet flormelis og vanillesukker røres i. Glasuren fordeles på kagen.</met>
+  </metode>
+  <tips>
+    <tip>Original opskrift: 275 g mel, 3 bananer</tip>
+  </tips>
+</DOC>

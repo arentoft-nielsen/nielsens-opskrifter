@@ -1,0 +1,96 @@
+<!--
+
+    This is default template file for RiSearch PHP 0.1
+    (c) Sergej Tarasov, 2000-2002
+    Homepage: http://risearch.org/
+    email: risearch@risearch.org
+
+    Edit this file as desired.
+
+    The file consist of 7 sections
+    
+    1. "header"
+    2. "results_header"
+    3. "results"
+    4. "results_footer"
+    5. "no_results"
+    6. "empty_query"
+    7. "footer"
+    
+-->
+header('Content-Type: text/html; charset=utf-8');
+<!-- RiSearch::header::start -->
+<html>
+<head>
+	<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S&oslash;geresultater</title>
+<link rel="stylesheet" type="text/css" href="../mystyle.css">
+
+<script language="JavaScript">
+<!--
+function setfocus() {
+  document.forms[0].query.focus();
+}
+// -->
+</script>
+
+</head>
+<body class="ix" onLoad="setfocus()">
+<H2>Søg i Nielsens opskrifter</H2>
+
+<small>
+<FORM ACTION="search.php" METHOD="GET">
+<INPUT TYPE="Text" NAME="query" SIZE="30">
+<INPUT TYPE="Hidden" NAME="stpos" VALUE="0">
+<INPUT TYPE="Submit" VALUE=" S&oslash;g ">
+<BR>S&oslash;gemodus: 
+<INPUT TYPE="Radio" NAME="stype" VALUE="AND" checked>"OG"
+<INPUT TYPE="Radio" NAME="stype" VALUE="OR">"ELLER"
+</FORM>
+</small>
+<!-- RiSearch::header::end -->
+
+
+<!-- RiSearch::results_header::start -->
+S&oslash;gning: %query%
+<BR>S&oslash;getid: %search_time% sek.
+<blockquote>
+<BR> Fandt: %query_statistics%
+<OL START="%stpos%">
+<!-- RiSearch::results_header::end -->
+
+
+<!-- RiSearch::results::start -->
+<LI><H4 class="search"><A HREF="%url%">%title%</A></H4>%url%&nbsp;&nbsp;<small>
+<BR>%description%</small>
+<!-- RiSearch::results::end -->
+
+
+<!-- RiSearch::results_footer::start -->
+</OL>
+<BR>Fandt %rescount% resultater.
+<BR><BR><center><small>%next_results%</small></center>
+</blockquote>
+<!-- RiSearch::results_footer::end -->
+
+
+<!-- RiSearch::no_results::start -->
+S&oslash;gning: %query%
+<BR>S&oslash;getid: %search_time%
+<BR>Fandt 0 resultater.
+<!-- RiSearch::no_results::end -->
+
+
+<!-- RiSearch::empty_query::start -->
+<BR>Indtast s&oslash;geord
+<!-- RiSearch::empty_query::end -->
+
+
+<!-- RiSearch::footer::start -->
+<!-- <small>Powered by <A HREF=http://risearch.org/><b>RiSearch PHP</b></A></small>-->
+<BR><A href="/Opskrifter/index.php">Hjem</A>
+</body>
+</html>
+<!-- RiSearch::footer::end -->
+

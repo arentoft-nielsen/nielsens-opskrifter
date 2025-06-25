@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Bacon - koldrøget/tørsaltet</navn>
+  <ingredienser>
+    <ing>ribbensteg (brystflæsk / flæskeside)</ing>
+    <ing>pr. kg kød: 24 g salt (heraf 10 g nitritsalt)</ing>
+    <ing>5 g brun farin</ing>
+    <ing>4 g groft peber</ing>
+    <ing>2 laurbærblade</ing>
+    <ing>2 g tørret timian</ing>
+    <ing>1 g enebær.</ing>
+  </ingredienser>
+  <metode>
+    <met>Hele krydderier findeles. De 2 slags salt og krydderier blandes grundigt.</met>
+    <met>Kødet udbenes (sværen skæres evt. af), forsynes med en snor til ophængning, mættet i nitritsalt. Massér krydderblandingen godt ind i kødet, og pak kødet i fryseposer, som du binder fast rundt om kødet - alternativt kan du vakuumpakke det.</met>
+    <met>Læg kødet i køleskab i 4-5 dage. Vend det to-tre gange under processen.</met>
+    <met>Når kødet er færdigsaltet, skal det skylles kort under den kolde hane. Tør derefter kødet grundigt af med et viskestykke, og hæng det til tørring i køleskabet i 1-2 døgn.</met>
+    <met>Til sidst skal kødet i røgeovnen, hvor det får 3 x 10 timer med kold røg - 12 timer ca. imellem røgningerne. Pas på med ikke at røge i for varmt el. fugtigt vejr - evt. kan modningen forlænges til vejret er passende...</met>
+  </metode>
+</DOC>

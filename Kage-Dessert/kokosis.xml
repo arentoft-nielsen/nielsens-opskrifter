@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kokosis</navn>
+  <ingredienser>
+    <ing>1 dåse kokosmælk (god kvalitet, ikke light)</ing>
+    <ing>1 dåse kondenseret mælk</ing>
+    <ing>1 dl mælk</ing>
+    <ing>1 dl fløde</ing>
+    <ing>ca 1 dl kokosmel/kokosspåner</ing>
+    <ing>et nip salt</ing>
+    <ing>evt. 2 tsk Cremodan</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Alternativ</subheader>
+    <ing>250 g græsk yoghurt, 10%</ing>
+    <ing>1 dåse kondenseret mælk</ing>
+    <ing>1 dåse kokosmælk</ing>
+    <ing>korn fra 1 stang vanilje (kan udelades)</ing>
+  </ingredienser2>
+  <metode>
+    <met>Hold ingredienserne (undtagen kokosmælk) afkølet inden tillavning. Pisk alle ingredienser godt sammen i en skål, og hæld massen i ismaskinen.</met>
+    <met>Når massen er næsten færdig, drysses der kokosmel i og kører med ca 5 minutter.</met>
+  </metode>
+</DOC>

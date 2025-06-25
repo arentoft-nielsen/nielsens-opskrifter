@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Müslibar med kondenseret mælk</navn>
+  <ingredienser>
+    <ing>1 ds. kondenseret mælk (397 g)</ing>
+    <ing>250 g rugflager (el. 5-kornsflager / grove havregryn)</ing>
+    <ing>75 g kokosmel</ing>
+    <ing>100 g tørret frugt (tranebær, dadler, svesker el. rosiner)</ing>
+    <ing>125 g blandet frø (hørfrø, solsikkekerner, sesamfrø)</ing>
+    <ing>125 g blandede nødder (el. ekstra blandet frø)</ing>
+  </ingredienser>
+  <metode>
+    <met>Bland alle de tørre ingredienser i en skål.</met>
+    <met>Varm den kondenserede mælk i gryde, og rør resten af ingredienserne i.</met>
+    <met>Beklæd en firkantet form (ca. 23x33 cm) med bagepapir i bunden</met>
+    <met>Pres dejen ned i formen og glat med en våd spartel. Bages ved 125 grader C i ca. 60 min.</met>
+    <met>Køles af i ca. 15 min. og skæres ud i passende stykker med en skarp kniv.</met>
+  </metode>
+</DOC>

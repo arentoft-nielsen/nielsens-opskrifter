@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>syltetøj - drottningsylt</navn>
+  <ingredienser>
+    <ing>500 g hindbær</ing>
+    <ing>300 g blåbær</ing>
+    <ing>400 g sukker</ing>
+    <ing>1½ tsk. rød melatin</ing>
+  </ingredienser>
+  <metode>
+    <met>Kom de frosne blåbær i en gryde og varm dem op under låg til de safter. Kog dem herefter i 5 min under jævn varme.</met>
+    <met>Rør hindbær samt sukker i og bring syltetøjet i kog under stadig omrøring.</met>
+    <met>Melatin og 2 spsk. sukker blandes godt og drysses i den kogende frugt.</met>
+    <met>Kog syltetøjet i 2 min, afskum det om nødvendigt og fyld det i varme atamonskyllede glas, der lukkes med låg med det samme.</met>
+  </metode>
+  <tips>
+    <tip>Bærrene kan klassisk være half and half.</tip>
+  </tips>
+</DOC>

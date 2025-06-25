@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Dyrekølle</navn>
+  <ingredienser>
+    <ing>1 dyrekølle</ing>
+    <ing>8 hele enebær</ing>
+    <ing>1 tsk timian</ing>
+    <ing>½ tsk rosmarin</ing>
+    <ing>8 tørrede abrikoser</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>75 g smør</ing>
+    <ing>½ l. vand</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Sauce</subheader>
+    <ing>4 dl. stegesky/bouillon</ing>
+    <ing>2 dl. rødvin</ing>
+    <ing>1-3 dl piskefløde</ing>
+    <ing>2 spsk. ribsgelé</ing>
+    <ing>1½ tsk. maizenamel</ing>
+    <ing>4 spsk. koldt vand</ing>
+    <ing>25 g. smør</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+  </ingredienser2>
+  <metode>
+    <met>Puds køllen fri for de større hinder på ydersiden, især sølvhinder. Udben eventuelt øverste knogle (lårknoglen) ved at skære tæt langs knoglen fra kugleleddet imod knæet (fra indersiden af køllen) og skille knoglerne i knæleddet. Underbensknoglen kan blive siddende.</met>
+    <met>Tænd ovnen på 225°.</met>
+    <met>Skær abrikoserne i tern. Knus enebærrene i en morter. Gnid køllen med knust enebær, de øvrige krydderier samt godt med salt og peber. Læg abribostern i hullet i overlåret, og luk overlåret med kødnåle el. garnsnøring. Fordel halvdelen af smørret over. Læg køllen med indersiden opad på ovnristen over en bradepanden med lidt vand i bunden, så kødkraft opfanges heri.</met>
+    <met>Sæt køllen i ovnen i 15 minutter. Tag den ud og dæmp varmen til 150°. Vend køllen, og sæt et stegetermometer i midten af den tykkeste del. Fordel resten af smørret over.</met>
+    <met>Knæk den udbenede knogle med bagsiden af en tung kniv, og læg den i bradepanden med rødvin, krydderbuket (timian, laurbær, enebær), løg, gulerod, porre o.lign. til saucen. Dette kan også foregå i en gryde.</met>
+    <met>Steg videre omkring en times tid, se til, at der er væske i bradepanden under stegningen.. Bruges der stegetermometer, skal det vise ca. 63° i midten af kødet. Tag herefter stegen ud, og lad den hvile mindst 10 minutter</met>
+    <met>Si stegeskyen over i en gryde. Tilsæt rødvin, der skal være mindst 6 dl væske. Lad dette koge et par minutter for god varme uden låg. Rør maizenamel ud i det kolde vand. Hæld det i saucen under omrøring. Lad saucen koge et par minutter. Smag til med salt og peber. Opløs et par spsk. ribsgelé i saucen og lad den koge op. Alternativt kan senere anvendes en god, færdig rødvinssauce som basis, og så tilsætte stegeskyen hertil.</met>
+  </metode>
+  <tips>
+    <tip>Som jævning kan evt. benyttes et par breve med svampesauce.</tip>
+  </tips>
+</DOC>

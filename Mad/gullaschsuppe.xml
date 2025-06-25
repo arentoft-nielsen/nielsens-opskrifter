@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gullaschsuppe</navn>
+  <ingredienser>
+    <ing>50 g røget bacon</ing>
+    <ing>(2 spsk. smør)</ing>
+    <ing>2 løg</ing>
+    <ing>2 fed hvidløg</ing>
+    <ing>½ kg oksekød (fx. inderlår el. klump)</ing>
+    <ing>½ kg store kartofler</ing>
+    <ing>3 gulerødder</ing>
+    <ing>1 rød/grøn peberfrugt</ing>
+    <ing>1 l. oksebouillon</ing>
+    <ing>2 dåser hakkede tomater</ing>
+    <ing>1 spsk. paprika</ing>
+    <ing>½ frisk chili el. pimentón picante</ing>
+    <ing>½ tsk spidskommen</ing>
+    <ing>salt, peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Skær bacon i tern og svits dem på panden. Kødet, der er skåret i tern, kommes ved og brunes kort.&#13;
+Løg i grove tern klares i fedtstoffet (evt. smør).</met>
+    <met>Hæld tomaterne og krydderierne ved sammen med suppen og lad det hele småkoge i mindst 1 time.</met>
+    <met>Tilsæt skrællede kartofler skåret i tern sammen med de skrællede gulerødder skåret i skiver. Koges yderligere ½ time.</met>
+    <met>Det sidste kvarter tilsættes peberfrugt.</met>
+  </metode>
+</DOC>

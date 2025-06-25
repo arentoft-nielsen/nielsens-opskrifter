@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Bacon - koldrøget/lagesaltet</navn>
+  <ingredienser>
+    <ing>ribbensteg (brystflæsk / flæskeside)</ing>
+    <ing>saltlage</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>saltlage</subheader>
+    <ing>pr. 1 liter vand (brug ca. ¾-1 liter pr. kilo kød):</ing>
+    <ing>55 gram fint salt</ing>
+    <ing>10 gram sukker/farin</ing>
+    <ing>evt. 2 tsk peberkorn, knust</ing>
+    <ing>evt. 2 tsk timian</ing>
+    <ing>evt. 2-3 laurbærblade</ing>
+    <ing>evt. 1 tsk knust enebær</ing>
+  </ingredienser2>
+  <metode>
+    <met>Lagen fremstilles ved at opløse salt og sukker i koldt vand. Hvis der tilsættes krydderier, afkoges de først 5 minutter i en tepose i lidt af vandet og tilsættes lagen efter afkøling.</met>
+    <met>Kødet udbenes (og sværen skæres evt. af) og lægges på køl i saltlagen i 3-4 døgn.</met>
+    <met>Herefter aftørres kødet let og hænges til modning/tørring i køleskab/tørreskab i 1-2 døgn, til overfladen virker tør og lidt papiragtig.</met>
+    <met>Til sidst skal kødet i røgeovnen, hvor det får 3 x 10 timer med kold røg - 12 timer ca. imellem røgningerne. Pas på med ikke at røge i for varmt el. fugtigt vejr - evt. kan modningen forlænges til vejret er passende...</met>
+  </metode>
+  <tips>
+    <tip>Røgsmuld kan med fordel være 2 dele fint bøgesmuld og 1 del rødel.</tip>
+    <tip>http://www.grillguru.dk/forum/viewtopic.php?f=152&amp;t=14157&amp;p=164798&amp;hilit=bacon#p164798</tip>
+    <tip>http://fjordrejen.dk/?p=2983</tip>
+    <tip>http://www.weberklubben.dk/Default.aspx?ID=1133&amp;action=ShowArticle&amp;ArticleID=5902&amp;BlogID=45</tip>
+  </tips>
+</DOC>

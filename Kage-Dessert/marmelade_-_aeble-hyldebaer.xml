@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Marmelade - æble-hyldebær</navn>
+  <ingredienser>
+    <ing>½ kg ribbede hyldebær</ing>
+    <ing>1 kg æbler</ing>
+    <ing>350 g sukker</ing>
+    <ing>vanille</ing>
+  </ingredienser>
+  <metode>
+    <met>Sæt en lille tallerken på køl/frys.</met>
+    <met>Hyldebær skylles og afdryppes. Æbler skylles, deles og befries for blomst, stilk og kernehus. De snittes fint og blandes med hyldebærrene.</met>
+    <met>Varmes sagte under låg og koges ca. 15 min., indtil æblerne er møre.</met>
+    <met>Sukker drysses i og koges med 10 min. under omrøring.</met>
+    <met>Melatin tilsættes, og der koges videre et par minutter. Marmeladen fjernes fra varmen, og der lægges en lille teskefuld på den nu kolde tallerken for at få tjekket konsistensen. Der justeres evt. med gelateringsmiddel.</met>
+    <met>Marmeladen hældes på rengjorte glas.</met>
+  </metode>
+</DOC>

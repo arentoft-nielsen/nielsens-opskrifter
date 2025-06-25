@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Lakseforret</navn>
+  <ingredienser>
+    <ing>200 g. røget laks</ing>
+    <ing>3-4 spsk. creme fraiche</ing>
+    <ing>ristet toastbrød</ing>
+    <ing>lidt salatblade</ing>
+    <ing>rødløg</ing>
+  </ingredienser>
+  <metode>
+    <met>Blend eller finhak røget laks og rør det med creme fraiche.</met>
+    <met>Toastbrødet ristes og skæres i trekanter. Der lægges 1 salatblad på hver tallerken samt 2 spsk laksecreme. Tip: Skeen sættes i et glas med varmt vand og dyppes mellem hver skefuld.</met>
+    <met>Pyntes med en lille strimmel røget laks og lidt rødløg.</met>
+  </metode>
+  <tips>
+    <tip>Prøv med philadelphia light, rørt op med citronsaft og frisk basilikum.</tip>
+  </tips>
+</DOC>

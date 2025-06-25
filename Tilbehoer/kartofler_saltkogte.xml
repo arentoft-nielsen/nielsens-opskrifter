@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kartofler saltkogte</navn>
+  <ingredienser>
+    <ing>1 kg små/mellem nye kartofler med skræl</ing>
+    <ing>150 g salt</ing>
+    <ing>½ citron</ing>
+  </ingredienser>
+  <metode>
+    <met>Kartoflerne skylles og lægges i en gryde, akkurat dækket med vand. Drys salt over. Skub den halve citron ned imellem.</met>
+    <met>Koges under låg 45 min.</met>
+  </metode>
+</DOC>

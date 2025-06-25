@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Köfte</navn>
+  <ingredienser>
+    <ing>500 g hakket oksekød</ing>
+    <ing>1 æg</ing>
+    <ing>1 finthakket løg</ing>
+    <ing>2 fed hvidløg</ing>
+    <ing>1 moset kogt kartoffel/3 spsk. mel</ing>
+    <ing>½ tsk rosenpaprika</ing>
+    <ing>½ tsk røget paprika</ing>
+    <ing>1 tsk paprika</ing>
+    <ing>4 spsk. friskhakket persille</ing>
+    <ing>1 tsk timian</ing>
+    <ing>1½ tsk spidskommen</ing>
+    <ing>1 tsk groft salt</ing>
+    <ing>evt. 100 g smuldret feta-ost</ing>
+    <ing>peber</ing>
+    <ing>bacon til omvikling</ing>
+  </ingredienser>
+  <metode>
+    <met>Løgene pilles og hakkes fint. Persillen hakkes fint. Evt. køres begge dele med ægget i minihakker. Ingredienserne (minus feta) blandes i en skål, og røres godt sammen til en fast fars. Feta-osten tilsættes og røres lidt forsigtigt i farsen, som måles af i et dl-mål og formes til aflange boller .</met>
+    <met>Kødbollerne omvikles med et stykke bacon og sættes på en lille kødpind. Köften grilles til baconen er brun hele vejen rundt.</met>
+    <met>Eller: Et æg piskes sammen på en tallerken, og rasp hældes ud på en anden tallerken. Rigelig olie varmes på en pande. Köften vendes først i rasp og derefter i æg og steges ca. 2 minutter på 4 sider, hvorefter de lægges til afdrypning.</met>
+  </metode>
+  <tips>
+    <tip>Hvis der ikke bruges feta, så tilsættes der 1½ tsk salt.</tip>
+  </tips>
+</DOC>

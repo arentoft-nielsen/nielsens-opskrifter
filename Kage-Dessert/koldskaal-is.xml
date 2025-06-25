@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldskål-is</navn>
+  <ingredienser>
+    <ing>5 dl kærnemælk</ing>
+    <ing>1½ dl piskefløde</ing>
+    <ing>125 g sukker</ing>
+    <ing>4 æggeblommer</ing>
+    <ing>½ citron (saft og skal)</ing>
+    <ing>1 vaniljestang</ing>
+  </ingredienser>
+  <metode>
+    <met>Det hele piskes sammen og køres i ismaskinen.</met>
+  </metode>
+  <tips>
+    <tip>Top isen med knuste kammerjunker.</tip>
+  </tips>
+</DOC>

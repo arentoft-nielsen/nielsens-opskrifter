@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brændenælde- el. spinattærte med feta</navn>
+  <ingredienser>
+    <ing>300 g brændenældetopskud / spæde skvalderkål</ing>
+    <ing>5 æg</ing>
+    <ing>200 g fetaost (se tips)</ing>
+    <ing>1½ dl mælk</ing>
+    <ing>1 spsk maizenamel</ing>
+    <ing>lidt revet muskatnød</ing>
+    <ing>125 g revet ost</ing>
+    <ing>peber</ing>
+    <ing>lidt salt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tærtedej</subheader>
+    <ing>75 g grahamsmel</ing>
+    <ing>150 g hvedemel</ing>
+    <ing>60 g olie (el. 100 g koldt smør)</ing>
+    <ing>1 æg</ing>
+    <ing>2-4 spsk koldt vand</ing>
+    <ing>3/4 tsk salt</ing>
+  </ingredienser2>
+  <metode>
+    <met>Skyl bladene, og damp dem i en smule vand. Tag dem op, afkøl i en sigte.</met>
+    <met>Tænd ovnen på 225 grader.</met>
+    <met>Lav dejen: Mel, salt og olie (el. koldt smør skåret fint ud) hældes i en skål, og med en gaffel arbejdes det grundigt sammen med melet til en smuldrestruktur. Tilsæt ægget, rør rundt i dejen, som nu samles. Til sidst tilsættes koldt vand lidt ad gangen, og dejen samles hurtigt med hænderne til en flad kugle. Bruges der smør, skal den hvile lidt i køleskab.</met>
+    <met>Rul dejen ud og beklæd en tærteform. Prik bunden med en gaffel, og forbag i 10 min. i midten af ovnen.</met>
+    <met>Tryk vandet af nælderne, og skær dem ud.</met>
+    <met>Pisk æggene let med mælk, salt (ikke for meget - feta er salt), maizena, peber og muskatnød. Vend ost forsigtigt i.</met>
+    <met>Skru ovnen ned til 200 grader. Fordel noget af æggeblandingen og derefter bladene på den forbagte tærtebund, hæld resten af æggeblandingen over, og bag tærten i ca. 30 min.</met>
+  </metode>
+  <tips>
+    <tip>Fetaost og mælk kan erstattes af 2½ dl creme fraiche. I så fald tilsættes 1 tsk salt til æggeblandingen.</tip>
+  </tips>
+</DOC>

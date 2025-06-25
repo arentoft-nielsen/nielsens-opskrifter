@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Indisk fiskecurry - Goa style</navn>
+  <ingredienser>
+    <ing>1 stort løg</ing>
+    <ing>olie</ing>
+    <ing>1½ spsk revet frisk ingefær</ing>
+    <ing>3 fed hvidløg, presset</ing>
+    <ing>¾ blomkål, i små buketter</ing>
+    <ing>1 ds kokosmælk</ing>
+    <ing>3 tsk sennep</ing>
+    <ing>2 tomater, i grove tern</ing>
+    <ing>1 grøn chili el. efter smag</ing>
+    <ing>500 g fisk (fx torsk, sej)</ing>
+    <ing>limesaft</ing>
+    <ing>ca. 2 tsk salt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Masala</subheader>
+    <ing>3 tsk koriander</ing>
+    <ing>1½ tsk spidskommen</ing>
+    <ing>½ tsk cayennepeber</ing>
+    <ing>1 tsk paprika</ing>
+    <ing>1 tsk gurkemeje</ing>
+  </ingredienser2>
+  <metode>
+    <met>Skær fisken i mundrette stykker, og drys dem med lidt salt. Hak løget, gør hvidløgsfed klar, riv ingefær, og del blomkålen i buketter.</met>
+    <met>Steg løgene i olie, til de bliver klare.</met>
+    <met>Tilsæt ingefær og hvidløg. Tilsæt masalaen, og lad det svitse lidt af, hvorefter blomkålen, chili, tomatstykker lægges i. Herefter hældes kokosmælk, salt og sennep i, og det koger 2-3 minutter.</met>
+    <met>Smag saucen til med limesaft, salt og chili. Herefter tilsættes fiskestykkerne, som vendes forsigtigt ned i saucen, som bringes i kog igen. Færdigsimrer i 3-4 minutter - rør så lidt som muligt, så fiskestykkerne ikke går itu.</met>
+    <met>Serveres med ris.</met>
+  </metode>
+</DOC>

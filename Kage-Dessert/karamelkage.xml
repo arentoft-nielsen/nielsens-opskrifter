@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Karamelkage</navn>
+  <ingredienser>
+    <ing>125 g smør</ing>
+    <ing>140 g hvedemel</ing>
+    <ing>140 g brun farin</ing>
+    <ing>50 g kokosmel</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>karamelfyld &amp; chokoovertræk</subheader>
+    <ing>1 dåse kondenseret mælk</ing>
+    <ing>3 spsk sirup</ing>
+    <ing>30 g smør</ing>
+    <ing>******</ing>
+    <ing>125 g mørk chokolade</ing>
+    <ing>20 g smør</ing>
+  </ingredienser2>
+  <metode>
+    <met>Forvarm ovnen på 175° varmluft. Smør en 20x20 cm form, eller for den med bagepapir.</met>
+    <met>Bland mel, farin og kokos i en skål. Tilsæt smeltet smør, og bland godt. Hæld blandingen i formen, og bag bunden i 12-15 minutter, indtil den er let brun.</met>
+    <met>Mens bunden bager, laves karamelfyldet. Bland smør, kondenseret mælk og sirup i en gryde. Lad det koge langsomt op under omrøring. Bliv ved med at røre rundt rundt ved lav varme, indtil fyldet tykner og får en let gylden farve. Tag kagen ud af ovnen og hæld fyldet over bunden. Bag kagen igen i 10-15 minutter, indtil karamellen er gylden. Lad kagen afkøle.</met>
+    <met>Hak chokoladen fint. Smelt smørret, og rør chokoladen i. Når chokoladen er helt smeltet og jævn, så hældes/smøres overtrækket ud over bunden. Efter det hele er afkølet og stivnet, kan kagen skæres i ikke for store stykker</met>
+  </metode>
+</DOC>

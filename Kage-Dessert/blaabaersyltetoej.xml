@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Blåbærsyltetøj</navn>
+  <ingredienser>
+    <ing>500 g blåbær, frosne, eller friske</ing>
+    <ing>275 g sukker</ing>
+    <ing>økologisk citron</ing>
+    <ing>1 tsk vaniljesukker</ing>
+    <ing>geleringspulver</ing>
+  </ingredienser>
+  <metode>
+    <met>Kom blåbær, sukker og samt saft og reven skal af 1/3 øko-citron i en gryde, og kog det op, og skum det. Lad det simre i 5 minutter uden låg.</met>
+    <met>Tilsæt vaniljesukker samt geleringsmiddel efter midlets anvisninger.</met>
+    <met>Hæld derefter blåbærsyltetøjet på rengjorte og atamon-skyllede glas.</met>
+  </metode>
+</DOC>

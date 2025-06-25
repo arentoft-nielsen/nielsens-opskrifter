@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Bananpandekager</navn>
+  <ingredienser>
+    <ing>1 banan (100 g)</ing>
+    <ing>25 gram havregryn</ing>
+    <ing>25 gram hvedemel</ing>
+    <ing>2 æg</ing>
+    <ing>evt. 15 g proteinpulver (ikke kraftigt i smagen)</ing>
+    <ing>evt. skyr/græsk yoghurt/lidt mælk</ing>
+  </ingredienser>
+  <tips>
+    <tip>Giver ca. 5 pandekager.</tip>
+  </tips>
+</DOC>

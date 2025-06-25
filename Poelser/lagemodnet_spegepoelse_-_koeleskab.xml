@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Lagemodnet spegepølse - køleskab</navn>
+  <ingredienser>
+    <ing>450 g svinekød</ing>
+    <ing>450 g kalvekød</ing>
+    <ing>450 g svinekæber</ing>
+    <ing>150 g rygspæk hakket til 2 mm</ing>
+    <ing>10 g fint salt</ing>
+    <ing>22½ g nitritsalt</ing>
+    <ing>evt. ½ g ascorbinsyre/natriumascorbat</ing>
+    <ing>1 tsk. druesukker</ing>
+    <ing>¾ g bactoferment el. ¼ dl kærnemælk som starterkultur</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Krydderier til ungarsk</subheader>
+    <ing>10 g spidskommen</ing>
+    <ing>25 g paprika</ing>
+    <ing>10 g stærk paprika</ing>
+    <ing>10 g hvidløgspulver</ing>
+    <ing>Krydderier til sønderjysk:</ing>
+    <ing>8 g sort peber</ing>
+    <ing>8 g sennepsfrø</ing>
+    <ing>8 g madagascarpeber</ing>
+    <ing>4 cl rom el. cognac</ing>
+  </ingredienser2>
+  <metode>
+    <met>Grundig rengøring af køkkenremedier og omhyggelig vask af hænder!</met>
+    <met>Skalfrosset kød hakkes på 6 mm skive, og det hele blandes godt og stilles på frys igen ½ times tid.</met>
+    <met>Farsen stoppes meget fast i cellulosetarme el. okseskæver, og pølserne lægges i saltlage i syv dage i køleskab (80 g/l, heraf 15 g nitritsalt/l).</met>
+    <met>Tørres ved høj fugtighed i 3-4 dage. Koldrøges derefter i intervaller fra et par timer og stigende over 5-8 dage, indtil de har fået 20-30 timers røg.</met>
+    <met>Hænger til yderligere eftermodning i mindst 2-3 uger, før de er klar til brug.</met>
+  </metode>
+  <tips>
+    <tip>Krydderier kan varmebehandles for at sikre sig imod jordbakterier.</tip>
+    <tip>Der kan bruges en starterkultur til spegepølser, fx Baktoferment 61 i stedet for kærnemælk. Det anbefales at tilsætte kulturen tidligt i processen og samtidig tilsætte druesukker.</tip>
+  </tips>
+</DOC>

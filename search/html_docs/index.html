@@ -1,0 +1,255 @@
+<HTML>
+
+<HEAD>
+<TITLE>RiSearch - website search script</TITLE>
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+<META NAME="Description" CONTENT="RiSearch - simple and poferfull free search script"> 
+<META NAME="Keywords" CONTENT="perl,script,search,engine,index,database,site,internet,web,free,CGI,program,host,find,indexing,text,server,homepage"> 
+<link rel=stylesheet type="text/css"
+      href="style.css"
+      title="All">
+
+</HEAD>
+
+
+<BODY>
+
+          <table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+            <tr>
+              <td width="90%" class="fs3n" valign="middle">
+              <img src="/img/bar.gif" width="100%" height="2">
+              </td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs8b" valign="middle">
+              <B>ENG/<A HREF="/rus/index.html">RUS</A></B>&nbsp;&nbsp;
+              <A HREF="/index.html">Main</A> :: 
+              <A HREF="/eng/risearch/index.html">RiSearch</A> :: 
+              <A HREF="/eng/pro/index.html">RiSearch Pro</A> :: 
+              RiSearch PHP :: 
+              <A HREF="/eng/sql/index.html">RiSearch SQL</A> :: 
+              <A HREF="/eng/riflex/index.html">RiFlex</A> :: 
+              <A HREF="/eng/rilax/index.html">RiLax</A> :: 
+              <A HREF="/eng/rumor/index.html">RuMor</A> :: 
+              <A HREF="/forum.cgi/2/">Forum</A>
+              </td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs3n" valign="middle">
+              <img src="/img/bar.gif" width="100%" height="2">
+              </td>
+            </tr>
+          </table>
+          <br class="fs3n">
+
+
+
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+<tr>
+<td width="90%" class="fs3n" valign="middle">
+<img src="/img/bar.gif" width="100%" height="1">
+</td>
+</tr>
+<tr>
+<td width="90%" class="fs8b" valign="middle">
+
+<A HREF="index.html"> Introduction</A> ::
+<A HREF="config.htm"> Configuration</A> ::
+<A HREF="license.htm"> License</A>
+
+</td>
+</tr>
+<tr>
+<td width="90%" class="fs3n" valign="middle">
+<img src="/img/bar.gif" width="100%" height="1">
+</td>
+</tr>
+</table>
+<br class="fs3n">
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="10" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+<tr>
+<td width="100%" class="fs8n" valign="middle">
+
+
+
+
+
+<H3>Introduction</H3>
+
+
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+RiSearch PHP is a search script for small and medium sites. It is fast enough
+to search 5000-10000 of pages in less then one second.
+
+
+<H3>Features</H3>
+<OL>
+<LI><P ALIGN=justify>Does not requre database backend for index storage.
+<LI><P ALIGN=justify>Template driven output.
+<LI><P ALIGN=justify>Indexing via the local filesystem or via http.
+<LI><P ALIGN=justify>Simple and convenient query language.
+<LI><P ALIGN=justify>Script uses platform independent binary files which can be used
+on any system. Therefore, it is possible to index local copy of your
+site on your home computer under Windows, and then use produced files
+on remote server.
+</OL>
+
+
+
+
+<H3>Query language</H3>
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Keywords should be written with commas or spaces between them. The case is not important.
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The search type "AND" means that RiSearch will find files which contain
+ALL keywords. The search type "OR" means that script will find all files
+which contain at least one keyword. In any search regime mark "+" before keyword
+means that this keyword should be in returned pages. In order to exclude
+word from results type "-" before keyword, for example "+perl&nbsp;-CGI".
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+By default script will return any files where it finds the keywords.
+For example, if you ask "port", RiSearch will find all pages with words
+"<B>port</B>", "im<B>port</B>ant", "<B>port</B>rait", "s<B>port</B>", "re<B>port</B>" and so on
+(look at "Indexing" guide). If you wish to find
+exact word, put exclamation mark after keyword: "port!".
+
+
+
+<H3>Performance</H3>
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+RiSearch PHP is intended for small sites (up to 5000-10000 pages).
+Most queries for such site will be served in less than one second.
+If your site has more than 10000 pages, look at faster script RiSearch Pro,
+which is written in Perl, but has PHP frontend. RiSearch Pro also has
+many additional features:
+
+<ul>
+<li>RiSearch Pro can index about 100000 files.
+<li>Smaller memory requirements.
+<li>Incremental indexing, including possibility to automatically restart
+script on servers, where scripts can't run long time.
+<li>Results sorting by relevancy, file size, date.
+<li>Keywords highlighting in output. 
+<li>Indexing of other files formats (PDF, DOC, PS) via external parsers and archives indexing.
+<li>Phrase search. 
+<li>Search with attributes.
+</ul>
+
+
+
+<H3>Download</H3>
+
+<BLOCKQUOTE>
+<A HREF="/download/risearch_php/risearch_php.zip">risearch_php-0.2</A> (last changes 18.04.04)
+</BLOCKQUOTE>
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This script is a shareware. You are not required to pay for it,
+however your contributions will be really appreciated. 
+It will provide us resources we need for further development and support
+of this script. If you like script, you can pay using this PayPal link:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+10$
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="risearch@risearch.org">
+<input type="hidden" name="item_name" value="RiSearch PHP">
+<input type="hidden" name="amount" value="10.00">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypal.com/images/x-click-but01.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" ALIGN=middle>
+</form>
+
+
+
+<H3>Known problems</H3>
+<OL>
+<LI>If script does not work with non-latin characters, try to add this line
+at the top of every script and reindex site:
+<br><code class=code>&nbsp;   setlocale(LC_ALL, "ru_RU.CP1251");&nbsp;</code>
+<br>where string "ru_RU.CP1251" should be replaced by required locale name.
+
+<LI>This script will work only with PHP version >= 4.1.0. For older version (>= 4.0.6 AND <= 4.1.0)
+function <b>array_key_exists()</b> should be renamed to <b>key_exists()</b>. For older version
+should be possible to rewrite script using function <b>isset()</b>.
+
+<LI>Function <b>preg_replace_callback()</b> will work only with PHP version >= 4.0.5.
+For older version you may delete lines with this function (script will work, but
+it will not understand special HTML characters).
+
+<LI>There could be another incompatibilities, or they may appear later
+(say thanks to PHP developers, which have habit to rename functions).
+</OL>
+
+
+
+
+<H3>History</H3>
+<DL>
+<DT>Ver. <B>0.2</B> - 18.04.2004
+<DD>Search is faster up to 20-30%.
+<DD>Search terms highlighting.
+
+<DT>Ver. <B>0.1.06</B> - 17.09.2003
+<DD>Few bugs fixed.
+<DT>Ver. <B>0.1.05</B> - 26.07.2003
+<DD>Fixed bug with $no_index_dir.
+<DT>Ver. <B>0.1.05</B> - 10.06.2003
+<DD>Code cleaning.
+
+<DT>Ver. <B>0.1.04</B> - 03.02.2003
+<DD>Fixed bug in spider.l - script works correctly when file does not exist.
+
+<DT>Ver. <B>0.1.03</B> - 13.01.2003
+<DD>Several bugs fixed.
+
+<DT>Ver. <B>0.1.02</B> - 14.12.2002
+<DD>Fixed bug in search.php - stopwords are excluded from query.
+
+<DT>Ver. <B>0.1.01</B> - 05.12.2002
+<DD>Selective indexing added (indexing only selected parts of document).
+
+<DT>Ver. <B>0.1b</B> - 11.11.2002
+
+</DL>
+
+
+
+
+</td>
+</tr>
+</table>
+<br class="fs3n">
+
+
+          <br class="fs3n">
+          <table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+            <tr>
+              <td colspan="2" height="1" valign="top"><img src="/img/bar.gif" width="100%" height="1"></td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs8n" valign="middle">
+              <A HREF=http://risearch.org>http://risearch.org</A>
+              </td>
+              <td align="right" nowrap class="fs8n">
+              <A HREF=mailto:risearch@risearch.org><b>S.Tarasov</b></A>, &copy; 2000-2001
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" height="1" valign="top"><img src="/img/bar.gif" width="100%" height="1"></td>
+            </tr>
+          </table>
+
+
+</BODY>
+</HTML>
+
+
+

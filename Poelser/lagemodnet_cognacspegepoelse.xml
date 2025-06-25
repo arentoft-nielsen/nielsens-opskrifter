@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Lagemodnet cognacspegepølse</navn>
+  <ingredienser>
+    <ing>900 g svinekød</ing>
+    <ing>900 g kalvekød</ing>
+    <ing>900 g svinekæber</ing>
+    <ing>300 g rygspæk hakket til 2 mm</ing>
+    <ing>20 g fint salt</ing>
+    <ing>45 g nitritsalt</ing>
+    <ing>evt. 1 g natriumascorbat</ing>
+    <ing>2 tsk. druesukker og ½ dl kærnemælk som starterkultur</ing>
+    <ing>16 g sort peber</ing>
+    <ing>16 g sennepsfrø</ing>
+    <ing>16 g madagaskarpeber</ing>
+    <ing>8 cl rom eller cognac</ing>
+  </ingredienser>
+  <metode>
+    <met>Grundig rengøring af køkkenremedier og omhyggelig vask af hænder!</met>
+    <met>Skalfrosset kød hakkes på 6 mm skive, og det hele blandes godt og stilles på frys igen ½ times tid.</met>
+    <met>Farsen stoppes meget fast i kunsttarme, og pølserne lægges i 20–24°C saltlage (80 g/l, heraf 15 g nitritsalt/l) i et døgn pr. cm pølsediameter ved en rumtemperatur på 20–22°C.</met>
+    <met>Herefter tages pølserne op af lagen, afskylles med lunkent vand og tørres ved høj fugtighed (fx. i køleskab) i 2 døgn.</met>
+    <met>Koldrøges derefter i intervaller fra et par timer og stigende over 5-8 dage, indtil de har fået 20-30 timers røg.</met>
+    <met>Hænger til yderligere eftermodning i mindst 2-3 uger, før de er klar til brug..</met>
+  </metode>
+  <tips>
+    <tip>Krydderier varmebehandles for at sikre sig imod jordbakterier.</tip>
+    <tip>Der kan bruges en starterkultur (fx Bactoferment 61) til spegepølser i stedet for druesukker + kærnemælk.</tip>
+    <tip>Diameter på kunsttarm skal være 45 til max. 60 mm.</tip>
+    <tip>Pga. af modningen i saltlage holdes salttilsætningen til farsen på max. 24g pr. kg kød/spæk.</tip>
+  </tips>
+</DOC>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Black magic kage</navn>
+  <ingredienser>
+    <ing>4½ dl hvedemel</ing>
+    <ing>5 dl sukker</ing>
+    <ing>2 dl kakao</ing>
+    <ing>2 tsk natron</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>1 tsk salt</ing>
+    <ing>2 tsk vaniljesukker</ing>
+    <ing>2 æg</ing>
+    <ing>2½ dl kaffe (færdiglavet, afkølet)</ing>
+    <ing>2½ dl mælk</ing>
+    <ing>1¼ dl olie (smagsneutral - raps/solsikke)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Chokoladecreme</subheader>
+    <ing>4 dl piskefløde</ing>
+    <ing>2 dl sukker</ing>
+    <ing>1 dl kakao</ing>
+    <ing>1 tsk vaniljesukker</ing>
+  </ingredienser2>
+  <metode>
+    <met>Lav kaffen som det første, så den kan nå at køle ordentligt af - gerne 10 min. før du går gang med næste trin.</met>
+    <met>Tænd ovnen på 175 grader alm. varme.</met>
+    <met>Bland alle de tørre ingredienser godt sammen. Tilsæt æg, kaffe, olie og mælk. og rør det på lav hastighed, til dejen er glat. Den er ret tynd, så fortvivl ikke</met>
+    <met>Beklæd en springform (22-26 cm Ø) med bagepapir i bunden, og bag kagen i ovnen i ca. 40-50 min. Test med en træpind, at der kun lige hænger en smule dej ved, inden du tager den ud af ovnen.</met>
+    <met>Kagen skal køles helt af på en rist. Eftersom kagen helst skal stå 1-2 døgn på køl, inden den spises, så kan den flækkes til 2 bunde og sættes i køleskab.</met>
+    <met>Creme: Pisk alle ingredienser til en tyk men luftig creme. Cremen fordeles hhv. mellem lagene og oven på kagen.</met>
+  </metode>
+</DOC>

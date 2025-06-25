@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Knækbrød - palæo</navn>
+  <ingredienser>
+    <ing>1½ dl græskarkerner</ing>
+    <ing>1½ dl solsikkekerner</ing>
+    <ing>2 dl sesamfrø</ing>
+    <ing>2 dl hørfrø</ing>
+    <ing>½ dl chiafrø</ing>
+    <ing>2 æg</ing>
+    <ing>1 tsk salt</ing>
+    <ing>2-2½ dl vand</ing>
+    <ing>evt. smagsgivere</ing>
+    <ing>1 tsk flagesalt til drys</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 150°.</met>
+    <met>Bland alle ingredienser sammen i en skål, og rør godt rundt. Lad dejen stå i 15 minutter, rør lidt i den undervejs (spæd evt. lidt mere væske i).</met>
+    <met>Fordel dejen på 2 stykker bagepapir smurt let med olie. Bred dejen tyndt ud (2-3 mm) med en olieret dejskraber dyppet i vand løbende, gerne i firkant. Alternativt kan der lægges et stykke plastfolie (el. opskåret frysepose) over og rulles med en kagerulle. Del i dejpladerne passende stykker ved at trykke en kniv igennem dejpladen. Drys med flagesalt.</met>
+    <met>Bag knækbrødet i 40-45 min. Mærk på knækbrødet i midten af pladen. Føles det blødt, giver du det 5 minutter mere og tjekker igen. Evt. kan kanterne tages fra, mens midten får lidt længere bagning.</met>
+  </metode>
+  <tips>
+    <tip>Der kan tilsættes smagsgivere til dejen: 2 tsk rosmarin, 1½ hvidløgspulver, 1½ tsk spidskommen etc.</tip>
+  </tips>
+</DOC>

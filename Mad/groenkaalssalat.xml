@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Grønkålssalat</navn>
+  <ingredienser>
+    <ing>300 g grønkål</ing>
+    <ing>200 g madæble</ing>
+    <ing>100 g græskarkerner</ing>
+    <ing>40 g rosiner</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dressing</subheader>
+    <ing>1 spsk citronsaft</ing>
+    <ing>1 dl friskpresset appelsinsaft</ing>
+    <ing>½ spsk flydende honning</ing>
+    <ing>½ dl piskefløde el. creme fraiche-dressing</ing>
+  </ingredienser2>
+  <metode>
+    <met>Rist græskarkernerne på en tør pande for at fremhæve smagen.</met>
+    <met>Grønkålsbladene rives fra stokken, skylles grundigt og afrystes for vand. Bladene snittes MEGET fint eller køres i en foodprocessor (dog ikke finere end at der bevares en vis struktur). Alternativt masseres kålen: fordel 1 spsk olivenolie i hænderne, og masser grønkålen grundigt et minut eller to - grønkålen bliver mørkegrøn, og du kan mærke, den bliver blød og medgørlig. På den måde bliver kålen langt mere delikat at spise.</met>
+    <met>Dressingen røres sammen (dog minus eventuel fløde), æblerne vendes heri. Blandingen vendes i grønkålen sammen med rosiner.</met>
+    <met>Bruges der fløde, piskes denne og vendes i salaten sammen med græskarkernerne lige inden servering.</met>
+  </metode>
+</DOC>

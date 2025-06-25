@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Blåbærtærte</navn>
+  <ingredienser>
+    <ing>150 g smør</ing>
+    <ing>85 g sukker</ing>
+    <ing>1 æg</ing>
+    <ing>180 g mel</ing>
+    <ing>1 tsk. bagepulver</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Fyld</subheader>
+    <ing>2 dl cremefraiche</ing>
+    <ing>2 tsk. vaniljesukker</ing>
+    <ing>60 g sukker</ing>
+    <ing>1 æg</ing>
+    <ing>4 dl blåbær</ing>
+  </ingredienser2>
+  <metode>
+    <met>Smør og sukker røres sammen. Ægget piskes i og til sidst mel og bagepulver.</met>
+    <met>Læg dejen ud i bunden af en tærteform og herpå blåbær.</met>
+    <met>Fyldet røres sammen af cremefraiche, vaniljesukker, sukker og æg. Fyldet hældes over bærrene.</met>
+    <met>Kagen bages midt i en 200° varm ovn i ca. 30 min.</met>
+  </metode>
+  <tips>
+    <tip>Tilbehør: vaniljeis (smager bedst) eller cremefraiche</tip>
+  </tips>
+</DOC>

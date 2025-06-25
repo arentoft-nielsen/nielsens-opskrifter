@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Ingefærkager</navn>
+  <ingredienser>
+    <ing>500 g mel</ing>
+    <ing>4 tsk. stødt ingefær</ing>
+    <ing>2 tsk. kanel</ing>
+    <ing>1 tsk. stødte nelliker</ing>
+    <ing>1 tsk. natron</ing>
+    <ing>200 g smør</ing>
+    <ing>500 g sukker</ing>
+    <ing>½ pakke gær</ing>
+    <ing>2 spsk. fløde</ing>
+    <ing>2 æg</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd din ovn og sæt temperaturen på 175 gr. C. Find bagepladerne frem og beklæd dem med bagepapir.</met>
+    <met>Hæld mel, natron, nelliker, kanel og ingefær i en røreskål. Tilsæt smør i mindre stykker, og rør det hele sammen til du har en smuldrende masse.</met>
+    <met>Rør gær ud i fløden og hæld det i røreskålen sammen med æg og sukker. Rør kortvarigt til dejen bliver sammenhængende. Form ca. 50 stk. kugler på størrelse med en velvoksen valnød og bag dem 15 minutter. Når de kommer ud af ovnen, må de lige blive nogle minutter på bagepladen. Så bliver de stive som et bræt, og du kan flytte dem over på en rist til afkøling.</met>
+  </metode>
+</DOC>

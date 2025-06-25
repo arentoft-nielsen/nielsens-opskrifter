@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+	<navn>Kalkungryde med MornaySauce</navn>
+	<ingredienser>
+		<ing>1 squash i 1 cm skiver (ca. 250 g)</ing>
+		<ing>250 g renset broccoli</ing>
+		<ing>5 rensede forårsløg (ca. 100 g)</ing>
+		<ing>2 spsk smør/olie</ing>
+		<ing>500 g kalkunbryst i tern</ing>
+		<ing>¼ liter Karoline's MornaySauce 5% eller 14%</ing>
+		<ing>1 dl mælk</ing>
+		<ing>1 tsk tørret timian</ing>
+		<ing>¾ tsk groft salt</ing>
+		<ing>friskkværnet peber</ing>
+	</ingredienser>
+	<ingredienser2>
+		<subheader>Pynt</subheader>
+		<ing>Fintstrimlet top af forårsløg</ing>
+		<ing>Tilbehør</ing>
+		<ing>4 dl løse ris, parboiled (ca. 320 g)</ing>
+	</ingredienser2>
+	<metode>
+		<met>Del squashskiverne i kvarte. Skær broccolien i små buketter og stokken i tynde skiver. Skær forårsløgene i 2 cm skrå stykker.</met>
+		<met>Lad smør- &amp; rapsolien blive gylden i en sauterpande. Brun kødet i ca. 2 min. Tilsæt MornaySauce, mælk og krydderier og bring det i kog.</met>
+		<met>Vend grønsagerne i og kog retten ved jævn varme og under låg i ca. 2½ min. Smag kalkungryden til og server straks.</met>
+	</metode>
+</DOC>

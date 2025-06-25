@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brownies - fudgy oreo style</navn>
+  <ingredienser>
+    <ing>140g smør</ing>
+    <ing>300g sukker</ing>
+    <ing>75g kakao</ing>
+    <ing>¼ tsk. salt</ing>
+    <ing>2 store æg, kolde</ing>
+    <ing>2 tsk. vaniljesukker</ing>
+    <ing>60g mel</ing>
+    <ing>90g hakket chokolade</ing>
+    <ing>16 hele oreos</ing>
+    <ing>4-8 knækkede oreos</ing>
+  </ingredienser>
+  <metode>
+    <met>Opvarm ovnen til 180C. For en ca. 20x20 cm bageform med bagepapir.</met>
+    <met>Smelt smørret, og tilsæt sukker, kakao og salt. Rør godt rundt, og opvarm til dejen føles godt varm.</met>
+    <met>Tilsæt æg og vanilje, og rør igen grundigt sammen. Fold melet i dejen, indtil blandingen igen er homogen. Tilsæt chocoladestykkerne - de skal helst ikke smelte helt nu.</met>
+    <met>Hæld halvdelen af dejen i formen, og fordel den jævnt. Placer de hele oreos ud over bunden, og tilsæt derefter resten af dejen, som fordeles jævnt. Fordel de hakkede oreos over toppen, og tryk dem let ned.</met>
+    <met>Bages i 30 - 35 minutter, eller indtil midten af kagen ikke længere skælver ved rystning, og en tandstik kommer ud næsten ren med nogle få fugtige krummer.</met>
+    <met>Afkøles nu helt i formen på en rist, hvorefter dine brownies kan skæres i firkanter.</met>
+  </metode>
+</DOC>

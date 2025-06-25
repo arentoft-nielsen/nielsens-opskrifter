@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+	<navn>Oksekød i rød karry pasta</navn>
+	<ingredienser>
+		<ing>1 spsk olivenolie</ing>
+		<ing>3 tsk rød karrypasta</ing>
+		<ing>2 fed hvidløg</ing>
+		<ing>1 spsk friskrevet ingefær</ing>
+		<ing>400 g okseinderlår i strimler</ing>
+		<ing>1 dåse kokosmælk light</ing>
+		<ing>1½ spsk brun farin</ing>
+		<ing>Saft af 1 citron</ing>
+		<ing>3 tsk fiskesauce</ing>
+		<ing>2 peberfrugter</ing>
+		<ing>1 bundt forårsløg</ing>
+		<ing>Salt og peber</ing>
+	</ingredienser>
+	<ingredienser2>
+		<subheader>Tilbehør</subheader>
+		<ing>3 dl ris</ing>
+		<ing>1 bundt frisk koriander</ing>
+		<ing>1 flækket, udkernet agurk i skiver</ing>
+		<ing>1 rødløg i skiver</ing>
+	</ingredienser2>
+	<metode>
+		<met>Varm olien op i en gryde og svits karrypastaen heri. Tilsæt presset hvidløg, friskrevet ingefær og oksekød. Svits et øjeblik og vend det godt sammen.</met>
+		<met>Tilsæt kokosmælk, brun farin, citronsaft og fiskesauce og lad kødet simre under låg i ca. 15 min. Smag til med salt og peber.</met>
+		<met>Skær peberfrugterne i strimler og snit forårsløgene. Lad dem koge med de sidste 3 min.</met>
+		<met>Kog risene som angivet på emballagen. Vend agurkeskiverne med rødløg-skiverne.</met>
+		<met>Pynt gryderetten med frisk koriander og servér den med ris og agurkesalat.</met>
+	</metode>
+</DOC>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Indisk korma</navn>
+  <ingredienser>
+    <ing>500 g kød</ing>
+    <ing>1 mellem løg</ing>
+    <ing>3 fed hvidløg</ing>
+    <ing>rød chili el. chilipulver efter smag</ing>
+    <ing>3 cm frisk ingefær i tynde strimler</ing>
+    <ing>1-3 tsk garam masala</ing>
+    <ing>1 dåse kokosmælk</ing>
+    <ing>30 g koncentreret tomatpuré</ing>
+    <ing>1 peberfrugt</ing>
+    <ing>evt. 250 g blomkål</ing>
+    <ing>salt</ing>
+    <ing>evt. 1-1½ dl hønsebouillon</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Marinade</subheader>
+    <ing>1½ dl græsk yoghurt el. 2 spsk olivenolie</ing>
+    <ing>saften af ½-1 lime</ing>
+    <ing>1 tsk garam masala</ing>
+    <ing>1 tsk karry</ing>
+    <ing>1 tsk salt</ing>
+  </ingredienser2>
+  <metode>
+    <met>Bland ingredienser til marinade, og kom kød i mundrette stykker og marinade i en frysepose. Lad det gerne marinere i 12-24 timer i køleskab.</met>
+    <met>Finhak løg, hvidløg, chili (pas på - garam masalaen er også stærk). Ingefæren strimles fint.</met>
+    <met>Peberfrugt skæres i ret fine strimler, blomkålen deles i mindre buketter.</met>
+    <met>Steg kødet i olie, til det er næsten gennemstegt. Læg det i en gryde. Hæld kokosmælk og tomatpuré i.</met>
+    <met>Varm lidt mere olie op, og svits løg i nogle minutter. Tilsæt ingefær og evt. chili, og lad dem svitse med. Efter yderligere et par minutter tilsættes krydderierne, og herefter peberfrugt og blomkål.</met>
+    <met>Hæld de svitsede grøntsagerne over til kødet, og lad retten simre i 10 minutter.</met>
+    <met>Smag til med salt, chili og evt. mere garam masala.</met>
+  </metode>
+  <tips>
+    <tip>Serveres med ris, frisk koriander samt evt. raita. Raita laves af græsk yoghurt/cremefraiche, revet agurk, frisk mynte, lidt stødt spidskommen, limesaft.</tip>
+    <tip>Opskrift til garam masala under Diverse tilbehør.</tip>
+  </tips>
+</DOC>

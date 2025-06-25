@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Mandel-chokolade-kage</navn>
+  <ingredienser>
+    <ing>75 g mel</ing>
+    <ing>300 g mandler</ing>
+    <ing>200 g mørk blokchokolade</ing>
+    <ing>150 g rørsukker</ing>
+    <ing>50 g brun farin</ing>
+    <ing>175 g smør</ing>
+    <ing>4 æg</ing>
+    <ing>1½ tsk vaniljesukker</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen, og sæt temperaturen på 180°. Læg et stykke bagepapir i en springform.</met>
+    <met>Hæld smør og sukker i en røreskål, og pisk det grundigt. Tilsæt æg - ét efter ét og pisk videre. Pisk pisk pisk.</met>
+    <met>Hæld mandler og mel i en foodprocessor, og kør det fuldstændigt til krummer. Hæld mandelmelet i røreskålen sammen med vaniljesukker.</met>
+    <met>Så er det chokoladens tur - kværn den til krummer. Op i røreskålen med chokoladen og vend dejen sammen.</met>
+    <met>Hæld dejen i din springform. Læg et stykke foldet bagepapir over formen - ellers bliver kagen nemt for mørk under bagningen. Sæt det hele i ovnen og bag kagen 1 time.</met>
+    <met>Lad kagen køle af, før du tager den ud af formen og skærer et stykke.</met>
+  </metode>
+  <tips>
+    <tip>Der er ingen grund til at have travlt - den er lige konfektagtig og lækker flere dage frem.</tip>
+  </tips>
+</DOC>

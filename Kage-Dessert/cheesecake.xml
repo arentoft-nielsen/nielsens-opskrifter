@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Cheesecake</navn>
+  <ingredienser>
+    <ing>75 gram smør</ing>
+    <ing>200 gram knuste digestive-kiks</ing>
+    <ing>2 store æg</ing>
+    <ing>400 gram flødeost naturel (ikke for cremet)</ing>
+    <ing>150 gram sukker</ing>
+    <ing>3 tsk vanillesukker</ing>
+    <ing>4½ dl creme fraiche 38</ing>
+  </ingredienser>
+  <metode>
+    <met>Forvarm ovnen til 190 grader. Pensl en springform med olie.</met>
+    <met>Smelt smørret i en gryde ved lav varme. Rør kiksekrummerne i og fordel massen i formen.</met>
+    <met>Kom flødeost, æg og 100 gram af sukkeret samt 1½ tsk vanillesukker i en blender og blend til det er helt glat.</met>
+    <met>Hæld massen ud over kiksebunden og glat overfladen. Skal bages i ca. 20 minutter eller til kagen er stivnet.</met>
+    <met>Tag den ud af ovnen og lad den køle af i 20 minutter. Lad ovnen være tændt.</met>
+    <met>Bland cremefraiche med resten af sukkeret og vanillesukkeret. Hæld det ud over kagen.</met>
+    <met>Stil kagen tilbage i ovnen i 10 minutter.</met>
+    <met>Lad kagen køle lidt af og stil den derefter i køleskabet i mindst 8 timer.</met>
+  </metode>
+</DOC>

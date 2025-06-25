@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldrøget andebryst</navn>
+  <ingredienser>
+    <ing>2 dl appelsinsaft</ing>
+    <ing>1 dl soya (teriyaki)</ing>
+    <ing>40 g salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Andebrysterne og lagen kommes i en frostpose og lægges på køl i ca 36 timer.</met>
+    <met>Andebrysterne tørres med køkkenrulle og lægges til overfladetørring i et døgn.</met>
+    <met>Koldrøges 2 x 10 timer.</met>
+  </metode>
+</DOC>

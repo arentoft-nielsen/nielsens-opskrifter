@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Irish stew</navn>
+  <ingredienser>
+    <ing>1 kg lammekød i tern</ing>
+    <ing>200 g bacon</ing>
+    <ing>4 løg</ing>
+    <ing>3 fed hvidløg</ing>
+    <ing>Ca. 1 liter bouillon</ing>
+    <ing>5 gulerødder</ing>
+    <ing>3 laurbærblade</ing>
+    <ing>4 tsk timian</ing>
+    <ing>3 spsk engelsk sauce</ing>
+    <ing>1,2 kg kartofler</ing>
+    <ing>persille</ing>
+  </ingredienser>
+  <metode>
+    <met>Skræl kartoflerne, og skær dem i lidt grove stykker. Skræl gulerødder, og skær dem i skiver. Hak løgene groft.</met>
+    <met>Skær lammekødet op i stykker. Steg bacon på en pande, og brun første halvdel af kødet med, læg det til side, og brun resten i lidt neutral olie. Læg til side, og svits løg og gulerødder sammen med timian og hvidløg.</met>
+    <met>Læg et lag lammekød i en passende støbejernsgryde med låg. Læg derpå et lag af grøntsagerne og laurbærblade, tilsæt salt og peber, men husk at bouillon er salt. Så endnu et lag kød og endelig resten af grøntsagerne.</met>
+    <met>Stænk med engelsk sauce, hæld bouillon ved, så det næsten dækker, og læg et tætsluttende låg på gryden, som gives et opkog. Sæt den derpå i ovnen ved 165 grader i ca. 1 time.</met>
+    <met>Se efter par gange, at væsken stadig næsten dækker. Efter en time tjekkes, om kød og grøntsager er møre. Server retten rygende varm, - evt. med lidt godt brød.</met>
+  </metode>
+</DOC>

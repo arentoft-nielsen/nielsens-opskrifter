@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kokoskranse</navn>
+  <ingredienser>
+    <ing>250 g mel</ing>
+    <ing>250 g smør</ing>
+    <ing>250 g sukker</ing>
+    <ing>250 g kokosmel</ing>
+    <ing>1 æg</ing>
+  </ingredienser>
+  <metode>
+    <met>Mel og smør smuldres sammen. Sukker og kokosmel blandes i, hvorefter dejen ikke æltes men blot samles med ægget.</met>
+    <met>Dejen køles en halv times tid og køres igennem kødmaskinen med stjerneplade og samles til kranse.</met>
+    <met>Bages ca. 6-8 min. ved 200º.</met>
+  </metode>
+  <tips>
+    <tip>Pas på at dejen ikke bliver for tør og smuldrende. Tilsæt evt. mere æg.</tip>
+  </tips>
+</DOC>

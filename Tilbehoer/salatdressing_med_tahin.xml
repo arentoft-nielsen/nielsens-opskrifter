@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Salatdressing med tahin</navn>
+  <ingredienser>
+    <ing>60 g tahin</ing>
+    <ing>2 spsk citronsaft</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>ca. ½ dl vand (el. yoghurt/creme fraiche)</ing>
+    <ing>1 spsk honning</ing>
+    <ing>½ tsk flagesalt</ing>
+    <ing>friskkværnet peber</ing>
+    <ing>evt et drys spidskommen</ing>
+  </ingredienser>
+  <metode>
+    <met>Kom tahin i en skål, og rør det sammen med citronsaft.</met>
+    <met>Pres et fed hvidløg i, og rør det sammen til en ensartet cremet masse. Det kan godt blive helt grynet, men når du tilsætter vandet (lidt ad gangen), så bliver dressingen flydende og cremet.</met>
+    <met>Smag dressingen til med honning, salt samt friskkværnet peber og evt. lidt mere citronsaft.</met>
+  </metode>
+</DOC>
