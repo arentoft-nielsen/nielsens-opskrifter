@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rugbrød med surdej II</navn>
+  <ingredienser>
+    <ing>ca 2½ dl surdej</ing>
+    <ing>250 g knækkede rugkerner</ing>
+    <ing>125 g hørfrø</ing>
+    <ing>100 g solsikkekerner</ing>
+    <ing>225 g rugmel</ing>
+    <ing>4½ dl vand, lunkent</ing>
+    <ing>1 spsk honning</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dag 2</subheader>
+    <ing>500 g rugmel</ing>
+    <ing>4 g brændt malt (maltpulver), kan udelades</ing>
+    <ing>evt. lidt kulør</ing>
+    <ing>2 spsk salt</ing>
+    <ing>5 dl vand</ing>
+  </ingredienser2>
+  <metode>
+    <met>Dag 1: Rør alle ingredienser til fordejen sammen, og lad dejen hæve i en skål med et fugtigt klæde over i 24 timer.</met>
+    <met>Dag 2: Ælt fordej, rugmel, malt, salt og vand i en røremaskine med K-spaden. Husk at tage dej fra til surdej. Fordel dejen i formene, og prik huller i overfladen med en gaffel. Dæk rugbrødene med et fugtigt klæde, og lad brødet hæve op et lunt sted, så det vokser sig ca. 30 % større. Det tager ca. 2-5 timer – alt efter, hvor potent surdejen er, og hvor varmt rummet er.</met>
+    <met>Bag brødene ved 175 grader i 1½ time. Tag brødene ud af formene, og lad dem køle af på en rist.</met>
+  </metode>
+</DOC>

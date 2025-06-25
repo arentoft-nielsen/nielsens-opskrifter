@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rabarbercrumble</navn>
+  <ingredienser>
+    <ing>500 g rabarber, skåret i tern af ca 1-2 cm</ing>
+    <ing>1 tsk vaniljepulver el. kornene fra ½ vaniljestang</ing>
+    <ing>1 appelsin, saften herfra</ing>
+    <ing>75 g rørsukker</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Crumble</subheader>
+    <ing>100 g finvalsede havregryn</ing>
+    <ing>100 g fuldkornshvedemel</ing>
+    <ing>100 g smør</ing>
+    <ing>75 g rørsukker, (erstat evt 25 g rørsukker med muscovadosukker)</ing>
+    <ing>½ tsk vaniljepulver, eller kornene fra en ½ vaniljestang</ing>
+    <ing>1 spsk smør, til at smøre fadet</ing>
+  </ingredienser2>
+  <metode>
+    <met>Vend vanilje, sukker og appelsinsaft sammen, og hæld det hele over rabarberne i en skål. Lad det trække i omkring 30 minutter og vend det nogle gange undervejs. OBS: Sukkermængden bør justeres alt efter hvor syrlige rabarberne er.</met>
+    <met>Der tilberedes en crumble: Vend vaniljekorn/vaniljesukker med sukker, smør, mel og havregryn. Smuldr det hele godt sammen til en crumble.</met>
+    <met>Smør et ovnfast fad med smør og fordel rabarber inkl. marinade heri.</met>
+    <met>Kom crumblen henover og bag kagen i en forvarmet ovn ved 180° varmluft i omkring 30-40 minutter, indtil rabarberen bobler og crumblen er gyldenbrun.</met>
+  </metode>
+  <tips>
+    <tip>Server kagen lun eller kold med creme fraiche, flødeskum eller vaniljeis.</tip>
+    <tip>Kagen er til 6 personer</tip>
+  </tips>
+</DOC>

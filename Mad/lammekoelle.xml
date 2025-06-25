@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Lammekølle</navn>
+  <ingredienser>
+    <ing>1 lammekølle, fx 1½ kg</ing>
+    <ing>1 citron</ing>
+    <ing>timian</ing>
+    <ing>rosmarin</ing>
+    <ing>olivenolie</ing>
+    <ing>3-4 fed hvidløg</ing>
+    <ing>½ flaske rødvin</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>evt. ribsgelé</ing>
+  </ingredienser>
+  <metode>
+    <met>Start med at trimme de største stykker overflødigt fedt fra køllen. Nu kan overbensknoglen eventuelt udbenes fra køllen, som så saltes og krydres i snitfladerne samt snøres eller samles med kødnåle. Hvis der udbenes, koges der en fond på den knækkede knogle: brun knogle samt nogle blandede grøntsager (fx gulerod, løg, hvidløg, selleri) grundigt, hæld lidt bouillon ved og lad det simre, til der skal laves sauce.</met>
+    <met>Stik huller i køllen med en spids og slank kniv. Lav en blanding af salt, peber, timian og rosmarin. Skær hvidløgsfed i trekantede splitter, som stikkes i hullerne sammen med lidt af krydderiblandingen.</met>
+    <met>Tænd for ovnen på 220 grader. Hvis der skal serveres flødekartofler, gøres disse klar nu.</met>
+    <met>Køllen saltes grundigt på alle sider. Resten af krydderiblandingen (der tilsættes eventuelt mere timian og rosmarin) røres op med olie og citron og spredes over hele køllen.</met>
+    <met>Læg køllen i et oliesmurt ovnfast fad, og brun den i 15 minutter ved den høje temperatur. Herefter skrues ovnen ned på 165 grader, og der hældes ca. ½ flaske rødvin ved. Hvis der skal laves flødekartofler, sættes de også ind nu.</met>
+    <met>Efter 1 time måler du temperaturen i midten af den tykkeste del af køllen. Kernetemperatur skal ramme omkring 65 grader, så nu kan der justeres lidt i forhold til tiden ved at skrue lidt op eller ned for temperaturen. Når temperaturen er nået, tages køllen ud, tildækkes og trækker i mindst 20 minutter (kartoflerne kan bages videre).</met>
+    <met>Hæld stegeskyen (samt evt. fond) gennem en sigte ned i en kasserolle, giv et opkog, jævn med maizena, og smag til med salt, peber og måske lidt ribsgelé.</met>
+    <met>Der skæres relativt tynde skiver af lammekøllen.</met>
+  </metode>
+  <tips>
+    <tip>Lammekøller kan have vidt forskellige størrelser - vejer køllen fx 2 kg, så beregnes ca ½ time længere stegetid</tip>
+  </tips>
+</DOC>

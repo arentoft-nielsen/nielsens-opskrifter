@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtragout</navn>
+  <ingredienser>
+    <ing>500 g benfrit dyrekød</ing>
+    <ing>smør</ing>
+    <ing>2 skiver bacon</ing>
+    <ing>1 porre</ing>
+    <ing>1 gulerod</ing>
+    <ing>1 løg</ing>
+    <ing>250 g champignon</ing>
+    <ing>1½ dl bouillon</ing>
+    <ing>1 spsk. tomatpure</ing>
+    <ing>1 laurbærblad</ing>
+    <ing>3 dl piskefløde</ing>
+    <ing>2 spsk. rønnebærgelé</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>evt. persille</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Marinade</subheader>
+    <ing>10 enebær</ing>
+    <ing>5 rosmarinnåle el. timian</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>3 dl rødvin</ing>
+  </ingredienser2>
+  <metode>
+    <met>Skær kødet i terninger og bland det med de knuste enebær og hvidløg og hæld rødvinen over. Lad kødet trække i mindst 10 timer i marinaden.</met>
+    <met>Skær baconen i små tern, og svits dem på panden. Baconternene tages op og løgene (i tern) svitses. Lægges derpå i en gryde.</met>
+    <met>Tør kødet af i et rent viskestykke (køkkenrulle), brun det på en stegepanden og læg det i gryden. Kog panden af med marinaden og hæld skyen over kødet sammen med bouillon. Tilsæt krydderier og lad kødet simre under låg i 1½-2 timer. Kødet skal være godt mørt.</met>
+    <met>Tilsæt champignoner de sidste 10-15 min. Serveres med frisk pasta eller kartoffelmos.</met>
+  </metode>
+</DOC>

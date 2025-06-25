@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtspegepølse</navn>
+  <ingredienser>
+    <ing>1250 g vildtkød</ing>
+    <ing>555 g oksekød</ing>
+    <ing>450 g svinespæk</ing>
+    <ing>2½ tsk hvid peber</ing>
+    <ing>2½ tsk koriander</ing>
+    <ing>10 g druesukker</ing>
+    <ing>½ tsk ingefær</ing>
+    <ing>¾ tsk rosmarin</ing>
+    <ing>4 g fint malet enebær</ing>
+    <ing>30 g nitritsalt</ing>
+    <ing>30 g fint salt</ing>
+    <ing>evt. 15 g GDL</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Alternativ</subheader>
+    <ing>1800 g vildtkød</ing>
+    <ing>450 g rygspæk</ing>
+    <ing>6 g hvidløgsgranulat</ing>
+    <ing>5 g paprika</ing>
+    <ing>3 g koriander</ing>
+    <ing>6 g sort peber</ing>
+    <ing>1½ g muskatnød</ing>
+    <ing>1 g enebær</ing>
+    <ing>1 g rosmarin</ing>
+    <ing>6 g druesukker</ing>
+    <ing>30 g nitritsalt</ing>
+    <ing>30 g fint salt</ing>
+    <ing>5 cl rom</ing>
+    <ing>evt. 15 g GDL</ing>
+  </ingredienser2>
+  <metode>
+    <met>Krydderier blendes fint og varmebehandles (100° i 5 min. fx i lille porcelænsskål).</met>
+    <met>Spækket skæres i tern på omkring 1 cm, fryses ned fladt, så det kan skilles i frossen tilstand. Køres så i foodprocessor med knive til passende størrelse og lægges lidt på frys igen. Alternativt skæres det i fine tern (eller køres igennem kødhakker iblandet kødet).</met>
+    <met>Kødet tøes næsten op (ca. 1 døgn i køleskab for større kødstykker) og skæres i strimler - er det ikke stadigvæk lidt frossent, så skalfryses det (1-2 timer på frys). Derefter blandes det meget kolde kød med krydderier og hakkes på en 3-4 mm hulskive. Kødet æltes nu sammen med salt, druesukker, spæk og evt. rom. Temperaturen i farsen kontrolleres - er den ikke under 3-4°, så sættes farsen atter lidt på frys. Nu tilsættes evt. GDL, og farsen æltes, indtil der opstår en god binding i farsen.</met>
+    <met>Farsen knuges for at slå luften slå ud. Farsen stoppes fast i tarme (opblødt 15-20 min. i lunkent vand - pres alt vand ud af tarmen inden stopning). Pølserne snøres og rengøres med vand. Vej et par pølser - de skal tabe mindst 20% inden de er klar.</met>
+    <met>Pølserne modnes ved 18-22° i 2 døgn ved høj luftfugtighed. Må ikke få træk - kan lukkes inde i plastikpose og sprayes med vand nogle gange, eller de kan have et vådt viskestykke i bunden af posen. Herefter hænges de på køl (omkring 10°) i yderligere 3-4 dage, luftfugtighed ca. 80%.</met>
+    <met>Pølserne overfladetørres og koldrøges 3 x 12 timer med pause imellem. Herefter færdigmodnes pølserne ved 4-7 grader i yderligere i 3-6 uger (de skal tabe 20-25% af udgangsvægten) - engang imellem luftes der ud i køleskabet, eller køleskabet slukkes i et par timer, og der luftes fugt væk med døren på klem.</met>
+  </metode>
+  <tips>
+    <tip>Kunsttarm Ø55 x 40 rummer ca. 800 g fars. Dvs. 3 tarme til ovenstående portion.</tip>
+    <tip>GDL må ALDRIG tilsættes samtidig med salt.</tip>
+    <tip>I stedet for (eller ved siden af) GDL kan der benyttes starterkultur.</tip>
+  </tips>
+</DOC>

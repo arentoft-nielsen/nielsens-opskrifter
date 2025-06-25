@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Naan</navn>
+  <ingredienser>
+    <ing>2½ dl lunkent vand</ing>
+    <ing>30 g gær</ing>
+    <ing>1 dl yoghurt naturel</ing>
+    <ing>1 æg</ing>
+    <ing>90 g smeltet smør</ing>
+    <ing>10 g salt</ing>
+    <ing>10 g sukker</ing>
+    <ing>650 g hvedemel</ing>
+    <ing>olivenolie til at pensle med</ing>
+    <ing>krydderier, krydderurter, frø til at drysse med (Jeg brugte Garam Masala.)</ing>
+  </ingredienser>
+  <metode>
+    <met>Opløs gæren i det lunkne vand. Tilsæt yoghurt, æg, smør, salt og sukker, og rør godt. Hæld melet i ad et par gange, og ælt dejen på røremaskinen, til den er blød og slipper skålen helt. Det tager ca. 10 minutter.</met>
+    <met>Lad dejen hæve tildækket og lunt i 1 times tid, til den har nået dobbelt størrelse.</met>
+    <met>Varm ovnen op til 250° (gerne med bagestål eller bagesten) ved varmluft. Det tager ca. 30 minutter, før ovn og bagestål er klar.</met>
+    <met>Hæld forsigtigt dejen ud på et meldrysset bord. Det gælder om at bevare så mange luftlommer i brødet som muligt. Dejen skal ikke æltes igennem, så slår du luften ud af den. Del dejen i 5-8 stykker og form dem ved at stramme dejen op og lave en rund, stram kugle. Lad dejkuglerne hæve tildækket på bordet i en halv time.</met>
+    <met>Når dejen er færdig med at hvile, trykker du den forsigtigt ud til en oval. Herefter tager du fat i kanten på ovalen og lader tyngdekraften strække den ud, så naanbrødene bliver tyndere på midten end i kanterne. Ikke noget med at bruge en kagerulle, det presser luften ud.</met>
+    <met>Dine naanbrød lægges på bagepapir, pensles med olie og drysses med krydderier/krydderurter. Brødene lempes ind på bagestålet og bages i ca. 4 minutter, til de er gyldne og bobler op. Brødene skal være bløde, ikke sprøde.</met>
+    <met>Hvis du ikke har et bagestål, kan du sagtens bage naanbrød uden. Ovnen opvarmes til 250° sammen med en bageplade. På den måde skal ovnen ikke først bruge tid og energi på at varme en kold bageplade op, før brødene kan begynde at bage. Brødene bages 6-8 minutter, til de er gyldne.</met>
+  </metode>
+  <tips>
+    <tip>Inden de kommer i ovnen, kan brødene drysses med frø/krydderurter (f.eks. nigella, sesam, birkes, koriander, bredbladet persille).</tip>
+    <tip>Naanbrød er fryseegnede i op til 3 måneder.</tip>
+  </tips>
+</DOC>

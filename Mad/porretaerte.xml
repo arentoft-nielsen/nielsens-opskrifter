@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Porretærte</navn>
+  <ingredienser>
+    <ing>3-5 porrer (600 g)</ing>
+    <ing>1 spsk olivenolie</ing>
+    <ing>2½ dl creme fraiche (eller mælk tilsat 1 spsk maizena)</ing>
+    <ing>4 æg</ing>
+    <ing>1 tsk salt</ing>
+    <ing>peber</ing>
+    <ing>lidt reven muskatnød</ing>
+    <ing>125 g revet ost</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tærtedej</subheader>
+    <ing>100 g grahamsmel/rugmel</ing>
+    <ing>125 g hvedemel</ing>
+    <ing>1 æg el. ¾ dl vand</ing>
+    <ing>1 tsk salt</ing>
+    <ing>0,6 dl olivenolie/majskimolie</ing>
+  </ingredienser2>
+  <metode>
+    <met>Mel, salt og olie gnides grundigt sammen med en grydeske. Tilsæt æg/vand og ælt dejen sammen, tilføj evt et par spsk. vand, hvis tærtedejen ikke er smidig nok. Smør en tærteform på cirka 20-25 cm med en smule olie.</met>
+    <met>Rul dejen ud med en kagerulle, og placér bunden i tærtefadet. Brug hænderne til at presse dejen ud i formen og op ad kanterne. Med en gaffel stikkes små huller, og dejen forbages i 14 minutter ved 200 grader.</met>
+    <met>Rens porrerne og skær dem i skiver på skrå. Svitses ved jævn varme i olien i ca. 10 min.</met>
+    <met>Mens porrerne steges, piskes æg, creme fraiche, salt, peber, muskatnød og osten sammen.</met>
+    <met>Fordel halvdelen af grønsagerne på tærtebunden, hæld halvdelen af ægge-/creme fraiche blandingen over - gentag.</met>
+    <met>Bag porretærten i ca. 30 minutter ved 200 grader.</met>
+  </metode>
+</DOC>

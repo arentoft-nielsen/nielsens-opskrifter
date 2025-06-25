@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Flødegullasch</navn>
+  <ingredienser>
+    <ing>1 kg skinkekød i tern</ing>
+    <ing>2 løg, hakket</ing>
+    <ing>4 fed hvidløg</ing>
+    <ing>3-4 spsk. mel</ing>
+    <ing>olie/smør til bruning</ing>
+    <ing>500 g champignon</ing>
+    <ing>3 pk. cocktailpølser (500-600 g)</ing>
+    <ing>1 spsk karry</ing>
+    <ing>2 spsk paprika (evt. ¼ heraf røget paprika)</ing>
+    <ing>100 g tomatkoncentrat</ing>
+    <ing>ca. 3-4 dl bouillon</ing>
+    <ing>salt/peber</ing>
+    <ing>2½ dl fløde</ing>
+    <ing>1 tsk sukker</ing>
+  </ingredienser>
+  <metode>
+    <met>Kødet brunes ad 3 gange på en pande - en passende del af karry/paprika tilsættes hver gang. Det brunede kød lægges i en gryde. Ved sidste gang bruning tilsættes også melet til sidst. Der tilsættes bouillon, tomatkoncentrat og halvdelen af fløden, evt. ekstra vand så kødet er dækket og saucen ikke er for tyk.</met>
+    <met>Løg skæres i tern og steges klare i smør el. olie, flyttes til gryden, hvorefter presset hvidløg tilsættes.</met>
+    <met>Simrer mindst 1 time, eller til kødet er mørt. Champignoner og fløde tilsættes de sidste 10 min. Smages til med salt, krydderier etc.</met>
+    <met>Cocktailpølserne kommes i, retten varmes igennem og serveres med kartoffelmos el. løse ris samt evt. flûtes og en skål salat.</met>
+  </metode>
+  <tips>
+    <tip>Opskriften er til ca. 8 personer</tip>
+  </tips>
+</DOC>

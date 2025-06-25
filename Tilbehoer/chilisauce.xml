@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Chilisauce</navn>
+  <ingredienser>
+    <ing>750 g tomater</ing>
+    <ing>2 løg</ing>
+    <ing>1 hvidløg</ing>
+    <ing>3 stængler bladselleri</ing>
+    <ing>2 gulerødder</ing>
+    <ing>500g tomatpure (ikke konc.)</ing>
+    <ing>1 l vand</ing>
+    <ing>1 carolina reaper chili el. 6-8 habanero</ing>
+    <ing>2 tsk røget paprika</ing>
+    <ing>1 dl rød balsamico</ing>
+    <ing>1 dl æblecidereddike</ing>
+    <ing>1 dl lager eddike</ing>
+    <ing>1 spsk honning</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Tomater og hvidløg bages i 40 min ved 175° i ovn.</met>
+    <met>Skær løg, gulerødder og bladselleri i tern, hak løgene. Steg løgene til de er gennemsigtige. Tilsæt gulerødder og bladselleri. Tilsæt bagte tomater og hvidløg. Tilsæt tomatpure og vand.</met>
+    <met>Kog til gulerødder er møre. Hak chilien og tilsæt, kog i 5 min. Tilsæt eddike og balsamico. Tilsæt honning og salt. Kog op, purér og hæld på glas/flasker.</met>
+  </metode>
+</DOC>

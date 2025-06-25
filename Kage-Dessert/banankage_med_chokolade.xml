@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Banankage med chokolade</navn>
+  <ingredienser>
+    <ing>175 g sukker</ing>
+    <ing>2 tsk vanillesukker</ing>
+    <ing>3 æg</ing>
+    <ing>150 g hvedemel</ing>
+    <ing>1½ tsk bagepulver</ing>
+    <ing>150 g blødt smør</ing>
+    <ing>2 modne bananer</ing>
+    <ing>100 g mørk chokolade (60-70%)</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 175°.</met>
+    <met>Pisk sukker, vanillesukker og smør sammen. Pisk derefter æg i og til sidst røres de mosede bananer i blandingen.</met>
+    <met>I en ren skål blandes bagepulver, mel og valnødder godt sammen, hvorefter det røres i skålen til en samlet dej. Tilsæt chokoladen.</met>
+    <met>Smør kageformen og kom dejen i, bag den ved 175 grader varmluft i ca. 45 minutter (tag den ud når dejen ikke længere hænger fast i en pind, der stikkes i).</met>
+    <met>Lad kagen køle af på en rist og pynt den derefter.</met>
+  </metode>
+  <tips>
+    <tip>Kan pyntes med lidt smeltet chokolade på toppen, men det behøves ikke når der også er chokolade i dejen.</tip>
+    <tip>Holder sig frisk længe.</tip>
+  </tips>
+</DOC>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtfarstærte</navn>
+  <ingredienser>
+    <ing>3 æg</ing>
+    <ing>1½ dl fløde</ing>
+    <ing>½ dl mælk</ing>
+    <ing>250 g kogte kolde kartofler</ing>
+    <ing>200 g skiveskårne porrer</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>½ løg</ing>
+    <ing>1 pk bacon</ing>
+    <ing>250 g vildtfars</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tærtedej</subheader>
+    <ing>75 g grahamsmel</ing>
+    <ing>150 g hvedemel</ing>
+    <ing>100 g koldt smør</ing>
+    <ing>1 æggeblomme</ing>
+    <ing>4 spsk koldt vand</ing>
+    <ing>3/4 tsk salt</ing>
+  </ingredienser2>
+  <metode>
+    <met>Rør dejen sammen, og lad den hvile i køleskab ½-1 time.</met>
+    <met>Rul dejen ud og beklæd en tærteform. Prik bunden med en gaffel og forbag ved 225 gr. i 10 min. i midten af ovnen.</met>
+    <met>Rør vildtkødet med hvidløg, løg, salt og peber. Brun farsen på en pande, og lad det afkøle lidt.</met>
+    <met>Pisk æggene let med mælk, fløde, salt, peber og muskatnød.</met>
+    <met>Skru ned for ovnen. Farsen fordeles på tærtebunden, og skivede kartofler samt derefter porrer lægges over.</met>
+    <met>Æggemassen hældes forsigtigt over det hele, og der pyntes med bacon i spiralmønster.</met>
+    <met>Bag tærten ved 200 gr. i ca. 35 min.</met>
+  </metode>
+</DOC>

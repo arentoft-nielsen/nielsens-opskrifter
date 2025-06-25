@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Squashtærte</navn>
+  <ingredienser>
+    <ing>400 g revet squash</ing>
+    <ing>1 finthakket løg</ing>
+    <ing>200 g bacon i tern</ing>
+    <ing>100 g revet ost</ing>
+    <ing>125 g hvedemel</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>5 æg</ing>
+    <ing>salt</ing>
+    <ing>friskkværnet peber</ing>
+    <ing>1 dl majsolie</ing>
+    <ing>evt. sesamfrø</ing>
+  </ingredienser>
+  <metode>
+    <met>Bacon i tern ristes på en tør pande.</met>
+    <met>Rengør squash og løg. Squash rives, og løg hakkes fint. Begge dele kommes i en skål sammen med olien. Mel blandes med bagepulver, salt og peber og kommes i.</met>
+    <met>Ost iblandes, og æggene tilsættes et ad gangen. Blandingen kommes i en smurt ovnfast tærteform og strøs med stegte bacontern (og sesamfrø).</met>
+    <met>Bages ved 180º i ca. 30 - 40 min. Servér gerne groft madbrød til.</met>
+  </metode>
+</DOC>

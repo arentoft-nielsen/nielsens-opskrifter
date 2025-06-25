@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldrøgning</navn>
+  <ingredienser>
+    <ing>Kød til røgning</ing>
+    <ing>salt (evt. køkkensalt og nitritsalt 2:1)</ing>
+    <ing>evt. sukker (el. brun farin)</ing>
+    <ing>evt. krydderier</ing>
+    <ing>vand (evt. halvdelen vin/øl)</ing>
+  </ingredienser>
+  <metode>
+    <met>Kødet lægges i saltlage (standard er 55-60 g fint salt + evt. 15 g sukker til 1 liter vand) i 2-3 døgn. Ved denne saltlagestyrke skal der ikke udvandes efterfølgende.</met>
+    <met>Kødet tages op af lagen, skylles let i koldt vand, duppes tørt og modnes/tørres i 2-3 døgn i køleskab/flueskab. Modning har til formål, at saltet fordeler sig i kødet, samt at det sætter sig lidt og afgiver noget af det væske, som det har opsuget i lagesaltningen. Overfladen skal herefter være ordentlig tør. Fugtige røgvarer tager dårligt imod røgningen.</met>
+    <met>Derefter koldrøges 2 el. 3 gange 10-12 timer v/ max 27 gr. Efter første røgning kan kødet fint hænge flere døgn imellem røgningerne.</met>
+    <met>Ligger i køleskab og hviler/modner i et døgn.</met>
+  </metode>
+  <tips>
+    <tip>Tørsaltning består i, at man drysser salt (evt. tilsat lidt sukker 2:1 - 7:1) i bunden af et fad, gnider kødet ind, lægger det i fadet og drysser salt henover, så kødet er dækket. Det stiller man i køleskabet et par dage, hvor det vendes et par gange, hvorefter man udvander kødet ved at lægge det i fersk vand en halv til en hel time per dag, det har saltet.</tip>
+    <tip>Lagesaltning består i, at man laver en lage af vand, salt samt evt. sukker og krydderier: opløs salt og sukker i vandet, ønsker man en krydret saltlage, kan man koge lidt af vandet med forskellige krydderier, sigte det og derefter røre det op med resten. Kødet skal være dækket af lagen, så man skal lægge noget ovenpå, der kan holde det nede. Der ligger kødet så på køl i en til tre dage, alt afhængigt af hvor tykt kødet er, og hvor salt man vil have det.</tip>
+    <tip>Efter lage- eller tørsaltning, skylles eller udvandes den saltede råvare, som derpå tørres, indtil overfladen er tør, og der dannes en tør hinde. En god tørring af den saltede råvare før røgning giver en bedre røgsmag, da råvaren tager bedre mod røgen, som da ikke sætter sig i fugten uden på råvaren.</tip>
+    <tip>http://www.danishoutdoor.dk</tip>
+    <tip>http://jagt.arvid1.dk/rogeovnens-venner/</tip>
+    <tip>http://friisanden.blogspot.dk/2013/02/rgeovn-af-tr-ideen-til-en-rgeovn-af-tr.html</tip>
+    <tip>http://www.grillguru.dk/forum/viewtopic.php?f=150&amp;t=26453&amp;p=255830&amp;hilit=r%C3%B8get+dyrek%C3%B8lle#p255830</tip>
+    <tip>http://www.mastergrill-smokeoven.dk/opskrift2.html</tip>
+    <tip>http://fjordrejen.dk/?p=3081</tip>
+    <tip>http://grillklubben.dk/forum/viewtopic.php?f=70&amp;t=2714</tip>
+    <tip>http://grillklubben.dk/forum/viewtopic.php?f=70&amp;t=2729</tip>
+    <tip>http://kildedalen.com/ny_side_533.htm</tip>
+    <tip>Røgesmuld: http://www.tbsgrillshop.dk/</tip>
+  </tips>
+</DOC>

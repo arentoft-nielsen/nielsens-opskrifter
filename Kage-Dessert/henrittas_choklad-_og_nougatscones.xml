@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Henrittas choklad- og nougatscones</navn>
+  <ingredienser>
+    <ing>8 dl hvedemel</ing>
+    <ing>1 tsk salt</ing>
+    <ing>4 tsk bagepulver</ing>
+    <ing>100 g smør</ing>
+    <ing>3 dl mælk/kærnemælk</ing>
+    <ing>mørk (og lys) chokolade</ing>
+    <ing>nougat</ing>
+  </ingredienser>
+  <metode>
+    <met>Ovnen tændes på 250°.</met>
+    <met>Chokolade og nougat hakkes i mindre stykker.</met>
+    <met>Bland mel, salt og bagepulver. Fordel hakket smør heri med fingrene, til du har en grynet masse. Ibland nu chokolade og nougat, og tilsæt mælken. Dejen blandes sammen til en fast men lidt våd dej.</met>
+    <met>Del dejen i 4, og tryk dem flade på en ovnplade. Skær et kors i hver dejplade, så der bliver 4 dele, der rykkes lidt fra hinanden.</met>
+    <met>Kagerne bages i ca. 10-15 min.</met>
+  </metode>
+</DOC>

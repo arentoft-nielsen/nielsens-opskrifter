@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rugbrød - Gillelejerugbrød 2</navn>
+  <ingredienser>
+    <ing>500 g rugmel</ing>
+    <ing>100 g hvedemel</ing>
+    <ing>250 g surdej</ing>
+    <ing>5 dl vand</ing>
+    <ing>325 g knækkede rugkerner</ing>
+    <ing>325 g frø (solsikke, hørfrø, poppede kerner etc.)</ing>
+    <ing>5 dl vand</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dej</subheader>
+    <ing>HUSK at tage surdej fra!</ing>
+    <ing>½ dl vand</ing>
+    <ing>30 g mørkt maltmel (3½ spsk)</ing>
+    <ing>15 g gær (el. 4 g rødgær = 1¼ tsk)</ing>
+    <ing>15 g brun farin</ing>
+    <ing>1½ spsk salt</ing>
+    <ing>evt. kulør (til dejen er karamelfarvet)</ing>
+  </ingredienser2>
+  <metode>
+    <met>Mel, surdej og 5 dl vand røres grundigt sammen, gerne på maskine. Dejen skal herefter stå tildækket med en plastpose ved stuetemperatur 12-18 timer. Knækkede rugkerner og frø (evt. minus poppede kerner, som så gemmes til næste trin) sættes i blød i 5 dl vand.</met>
+    <met>Dej: Tag et par spsk med top af fordejen fra, og gem til næste bagning - tilsæt ekstra vand+rugmel og sæt på køl. Kør fordejen sammen med opblødte kerner, gær udrørt i ½ dl vand, poppede kerner, maltmel, farin, salt og evt. kulør.</met>
+    <met>Dejen fordeles i 2 forme. Efterhæver 30-40 procent op (ca. 2 timer ved 23 grader).</met>
+    <met>Indsættes i en 230º varm ovn med en bradepande med et par dl vand i bunden, og skru straks ned på 180º. Det er tilrådeligt at fjernet fadet med vand efter 10-15 minutter. Bages til rugbrødets kernetemperatur er 96-98º (ca 1 time og et kvarter).</met>
+  </metode>
+</DOC>

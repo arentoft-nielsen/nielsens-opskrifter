@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Stifado</navn>
+  <ingredienser>
+    <ing>1 kg oksekød</ing>
+    <ing>2 løg, i både</ing>
+    <ing>6-8 fed hvidløg</ing>
+    <ing>4 gulerødder</ing>
+    <ing>2-3 spsk. tomatkoncentrat (70 gr.)</ing>
+    <ing>4 laurbærblade</ing>
+    <ing>2 kanelstænger</ing>
+    <ing>1 spsk. brun farin</ing>
+    <ing>1 spsk. oregano</ing>
+    <ing>2 nelliker, stødt</ing>
+    <ing>1 tsk spidskommen, stødt</ing>
+    <ing>bouillon (evt. terning)</ing>
+    <ing>4-5 dl. vin rød/hvid</ing>
+    <ing>citronsaft + -skal</ing>
+    <ing>peber, masser</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Brun løg og kød i olie, og tilsæt hvidløg.</met>
+    <met>Hæld bouillon og vin over, tilsæt gulerødder, tomat, krydderier samt salt, farin og groftkværnet peber. Husk citronsaft og skal.</met>
+    <met>Simrer i mindst 1 time. Jævnes med maizena.</met>
+    <met>Spises med brød og kartofler.</met>
+  </metode>
+</DOC>

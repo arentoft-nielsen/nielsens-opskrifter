@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kaningryde med paprika og bacon</navn>
+  <ingredienser>
+    <ing>1 kanin 1½-2½ kg el. 2 vilde kaniner</ing>
+    <ing>olie/smør til stegning</ing>
+    <ing>150 g bacon i tern/strimler</ing>
+    <ing>1 rød peberfrugt</ing>
+    <ing>4 gulerødder</ing>
+    <ing>1 stort løg</ing>
+    <ing>1-2 fed hvidløg</ing>
+    <ing>1-2 spsk. mild paprika</ing>
+    <ing>½ tsk. karry</ing>
+    <ing>4-5 dl grøntsagsbouillon</ing>
+    <ing>2½ dl piskefløde</ing>
+    <ing>1 dåse hakkede tomater</ing>
+    <ing>salt, peber</ing>
+    <ing>lidt chili</ing>
+  </ingredienser>
+  <metode>
+    <met>Partér kaninen i passende stykker.</met>
+    <met>Brun bacon let i en dyb pande eller stegegryde tilsæt olie/smør og brun kaninstykkerne.</met>
+    <met>Tag kødet op (ikke bacon) og svits de finthakkede løg og knust hvidløg, til det er let gyldent. Tilsæt paprika og karry, brun lidt. Tilsæt så bouillon, fløde og flåede tomater.</met>
+    <met>Saucen koges igennem, jævnes og smages til. Kødet lægges tilbage og småsimrer under låg i ca. 1 time.</met>
+  </metode>
+  <tips>
+    <tip>Serveres med: Løse ris, evt. spaghetti eller nudler. + Italiensk brød eller flutes.</tip>
+  </tips>
+</DOC>

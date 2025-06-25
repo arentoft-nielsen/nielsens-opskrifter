@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Æbleskiver</navn>
+  <ingredienser>
+    <ing>320 g hvedemel</ing>
+    <ing>2 spsk sukker</ing>
+    <ing>½ tsk salt</ing>
+    <ing>1 tsk natron</ing>
+    <ing>½ tsk bagepulver</ing>
+    <ing>1½ tsk stødt kardemomme</ing>
+    <ing>evt. revet skal af 1 øko citron</ing>
+    <ing>3 æg</ing>
+    <ing>4½ dl kærnemælk</ing>
+    <ing>3 spsk smagsneutral olie</ing>
+  </ingredienser>
+  <metode>
+    <met>Bland alle de tørre ingredienser i en skål; mel, salt, sukker, vaniljekorn, kardemomme, bagepulver, natron og revet citronskal.</met>
+    <met>Skil æggene i blommer og hvider. Rør æggeblommerne sammen med kærnemælk og olie, og rør det i de tørre ingredienser. Pisk æggehviderne, og rør først 2 spsk æggehvide i dejen, og derefter vendes resten af æggehviden forsigtigt i dejen.</met>
+    <met>Æbleskiverne bages i lidt smør.</met>
+  </metode>
+  <tips>
+    <tip>Serveres lune med et drys af flormelis og syltetøj</tip>
+  </tips>
+</DOC>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gulerodspastafad</navn>
+  <ingredienser>
+    <ing>400 g pasta</ing>
+    <ing>5-600 g gulerødder</ing>
+    <ing>1 tsk salt</ing>
+    <ing>1 løg</ing>
+    <ing>1 spsk citronsaft</ing>
+    <ing>½ tsk basilikum</ing>
+    <ing>1 tsk oregano</ing>
+    <ing>peber</ing>
+    <ing>reven ost</ing>
+  </ingredienser>
+  <metode>
+    <met>Pastaen koges og hældes til afdrypning i en sigte.</met>
+    <met>Gulerødder rives groft, løg skæres i små tern - svitses i olie. Salt, krydderier og citronsaft tilsættes. Pasta og grøntsager hældes tilbage i pastagryden, blandes grundigt og fordeles i et ildfast fad.</met>
+    <met>Retten gratineres i ovnen ca. 20 min. ved 200 grader.</met>
+  </metode>
+</DOC>

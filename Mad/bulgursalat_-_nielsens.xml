@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Bulgursalat - Nielsens</navn>
+  <ingredienser>
+    <ing>2 dl bulgur</ing>
+    <ing>3½ dl vand</ing>
+    <ing>6-8 tørrede abrikoser, i fine tern</ing>
+    <ing>salt (eller bouillon)</ing>
+    <ing>50 g pinjekerner</ing>
+    <ing>3 tomater</ing>
+    <ing>½ agurk</ing>
+    <ing>1 grøn el. rød peber</ing>
+    <ing>½ rødløg</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dressing</subheader>
+    <ing>5 spsk. olivenolie</ing>
+    <ing>2 spsk. citronsaft</ing>
+    <ing>½ tsk stødt spidskommen</ing>
+    <ing>4 spsk. hakket persille</ing>
+    <ing>6 blade frisk basilikum</ing>
+    <ing>1 drys chili eller lidt frisk hakket.</ing>
+    <ing>1 fed presset hvidløg</ing>
+    <ing>salt og peber</ing>
+  </ingredienser2>
+  <metode>
+    <met>Bulgur, vand og salt bringes i kog. Abrikostern tilsættes efter et par minutter. Koges yderligere et par minutter og trækker et kvarters tid mindst. Afkøles derefter. Hvis der er overskydende vand, dryppes af i en sigte.</met>
+    <met>Rist pinjekernerne på en pande. Skær grønsagerne i tern.</met>
+    <met>Hak krydderurterne fint. Bland dressingen sammen.</met>
+    <met>Vend dressingen sammen med grønsager, pinjekerner og den afkølede bulgur.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Surdej</navn>
+  <ingredienser>
+    <ing>Mælkebaseret surdej:</ing>
+    <ing>4 dl øko rugmel/fuldkornshvedemel</ing>
+    <ing>3 dl kærnemælk</ing>
+    <ing>½ tsk salt</ing>
+    <ing>Vandbaseret surdej:</ing>
+    <ing>3 dl vand</ing>
+    <ing>150 g øko hvedemel</ing>
+    <ing>120 g øko fuldkornsmel af eget valg (fx grahamsmel, hvid hvede, speltmel)</ing>
+    <ing>30 g rugmel</ing>
+  </ingredienser>
+  <metode>
+    <met>Rør det hele sammen.</met>
+    <met>Lad surdejen stå, lunt og tildækket med film i stuetemperatur. Mælkebaseret står et par dage, vandbaseret i 8 dage. Derefter skal surdejen skumme og dufte som en god, kraftig mørk øl. Rør i surdejen en gang om dagen.</met>
+  </metode>
+  <tips>
+    <tip>Mælkebaseret surdej er når man har travlt og ikke har tid til at vente at en surdej bliver klar til brug. Ved at komme mælk eller kærnemælk i sin surdej kickstarter man processen langt hurtigere.</tip>
+    <tip>Udover at surdejen får brødet til at hæve, giver surdejen også brødet en god smag. En ægte surdej er lavet helt uden gær, men kan være svær at styre.</tip>
+    <tip>Det er vigtigt, at du husker at tage lidt af surdejen fra og gemme den fra den ene bagning til den næste. På den måde kan du holde en surdej "i live" i meget, meget lang tid.</tip>
+  </tips>
+</DOC>

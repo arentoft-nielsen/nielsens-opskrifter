@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brownies - American</navn>
+  <ingredienser>
+    <ing>115 g smør</ing>
+    <ing>1 spsk neutraltsmagende olie</ing>
+    <ing>100 g farin el. muscovadosukker</ing>
+    <ing>120 g sukker</ing>
+    <ing>2 store æg, rumtemperatur</ing>
+    <ing>1½ tsk vaniljesukker</ing>
+    <ing>75 g mel</ing>
+    <ing>50 g kakao</ing>
+    <ing>½ tsk salt</ing>
+    <ing>100 g grofthakket mørk 60-70% chokolade</ing>
+  </ingredienser>
+  <metode>
+    <met>Forvarm ovnen til 175°C. En 14x24 cm ildfast form (eller springform 20 cm) fores med bagepapir.</met>
+    <met>Smørret smeltes - skal ikke blive for varmt! Chokoladen hakkes nogenlunde groft.</met>
+    <met>I en skål røres smeltet smør, olie og begge slags sukker med et håndpiskeris. Tilsæt æg, vanilje og salt, og rør dejen med piskeriset i omkring et minut, til den er jævnt blandet.</met>
+    <met>Herefter sigtes mel og kakaopulver ned over dejen, og halvdelen af chokoladestykkerne tilsættes også. Fold forsigtigt de tørre ingredienser ind i dejen med en dejskraber, indtil alt er netop jævnt blandet (der må IKKE overblandes).</met>
+    <met>Hæld dejen i formen, jævn toppen en smule, strø resten af chokoladestykkerne over, og tryk dem lidt ned i dejen.</met>
+    <met>Bages ca. 25 minutter, indtil midten af brownien ikke længere dirrer men stadig giver efter for tryk. Tjek kagen allerede efter 20 minutter.</met>
+    <met>Afkøles til stuetemperatur, inden kagen løsnes fra formen og skæres ud (ca 8 stk.)</met>
+  </metode>
+  <tips>
+    <tip>Til dobbelt portion bruges form 18x28 cm eller en 25 cm springform. Bagetiden er så 30-35 minutter.</tip>
+    <tip>Hvis der bruges springform, så udklippes bagepapir til bunden, og så smøres siderne med lidt smør, og der skæres et par lange strimler bagepapir, som passer til at beklæde siderne med. Når siderne er smurt, lægger papiret sig fint og glat hele vejen rundt – og kagen bliver lige i kanten.</tip>
+  </tips>
+</DOC>

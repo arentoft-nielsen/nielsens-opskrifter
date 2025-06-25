@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fasanschnitzel</navn>
+  <ingredienser>
+    <ing>4 fasanbrystfileter</ing>
+    <ing>1 æg</ing>
+    <ing>mel</ing>
+    <ing>rasp</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>evt timian</ing>
+  </ingredienser>
+  <metode>
+    <met>Fasanbrysterne udbenes til fileter, holdes op mod lyset for at prøve at finde hagl. Senen fra inderfileten fjernes.</met>
+    <met>Fileterne kan (indfoldet i folie) bankes lidt fladere, saltes derefter på begge sider og vendes i mel (husk lidt mel imellem filet og inderfilet). Herefter vendes de i pisket æg, lægges oven på raspen, krydres med peber og timian, inden de paneres færdig.</met>
+    <met>Schnitzlerne steges i smør ved ret høj varme. Hanefileter steges i 4 minutter på hver side, hønefileter i 3½ på hver side.</met>
+    <met>Serveres som normale schnitzler. Pas på hagl.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Hindbærmarmelade</navn>
+  <ingredienser>
+    <ing>500 g hindbær, frosne</ing>
+    <ing>225 g sukker</ing>
+    <ing>1 tsk vaniljesukker</ing>
+    <ing>1 - 1½ tsk geleringsmiddel (rød melatin)</ing>
+  </ingredienser>
+  <metode>
+    <met>Stil en tallerken i køleskab (se tips).</met>
+    <met>Skyl marmeladeglas og låg med atamon. Stil dem omvendt på køkkenrulle.</met>
+    <met>Kom hindbærrene i en gryde, og kog forsigtigt op. Når bærrene er i kog, koges de i yderligere 4 minutter.</met>
+    <met>Tilsæt sukker, og kog videre i et par minutter.</met>
+    <met>Bland melatin sammen med yderligere en skefuld sukker, og kog videre i 2 minutter, mens du rører i marmeladen. Tjek konsistens på den kolde tallerken, tilsæt evt. lidt mere melatin.</met>
+    <met>Tag marmeladen af varmen, tilsæt vaniljesukker, og rør grundigt rundt. Hæld hindbærmarmeladen i glassene, hvorefter lågene sættes fast på.</met>
+  </metode>
+  <tips>
+    <tip>Allerførst stilles en lille tallerken i køleskabet, så den når at blive helt kold. Når marmeladen er kogt, kan du komme en teskefuld på den kolde tallerken, og lade den stå et minut på køl. Så har du en ret god fornemmelse af konsistensen, og der kan tilsættes ekstra geleringmiddel om ønsket.</tip>
+  </tips>
+</DOC>

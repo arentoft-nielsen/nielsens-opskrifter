@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pasta med laks i citronsauce</navn>
+  <ingredienser>
+    <ing>Laks:</ing>
+    <ing>300 g laksefiletter</ing>
+    <ing>1 fed hvidløg, finthakket</ing>
+    <ing>1/2 øko citron, fintrevet skal</ing>
+    <ing>1 tsk flagesalt</ing>
+    <ing>sort peber, friskkværnet</ing>
+    <ing>Citronsauce:</ing>
+    <ing>2 fed hvidløg, finthakket</ing>
+    <ing>Saft fra 1 øko citron (skal kan også tilføjes, hvis man vil have det mere syrligt)</ing>
+    <ing>2 dl græsk yoghurt 10 % (kan erstattes af creme fraiche)</ing>
+    <ing>1 spsk smør</ing>
+    <ing>salt</ing>
+    <ing>sort peber, friskkværnet</ing>
+    <ing>Ekstra:</ing>
+    <ing>400 g spaghetti (eller frisk pasta, beregn da 150 g per person, dvs. 600 g)</ing>
+    <ing>1 håndfuld bredbladet persille, finthakket (valgfri)</ing>
+  </ingredienser>
+  <metode>
+    <met>Laks: Læg laksestykkerne i et ovnfastfad med bagepapir. Drys med salt, peber, fintrevet citronskal og finthakket hvidløg.</met>
+    <met>Bag i en forvarmet ovn ved 175 grader varmluft i 16-18 minutter.</met>
+    <met>Citronsauce: Varm smør i en gryde ved middel varme, kom hvidløg i og sauter under omrøring til hvidløget dufter, men ikke tager farve.</met>
+    <met>Skru ned til lav varme og rør citronsaft (og evt. revet citronskal), salt og friskkværnet peber i. Lad det stå og trække smag til laksen er klar og pastaen koges al dente.</met>
+    <met>Skru gryden med hvidløg, citron mm. op til middelvarme og rør den græske yoghurt i saucen. Sørg for at røre hele tiden, mens gryden står på varmen. Det må ikke koge eller blive for varmt, for så vil saucen skille. Det skal blot være sådan, at saucen bliver lind og lun.</met>
+    <met>Pil laksen i mindre stykker og vend den i citronsaucen ved lav varme. Servér med persille.</met>
+  </metode>
+  <tips>
+    <tip>* Retten kan sagtens laves med en rest kold laks fra dagen før, eller med varmrøget laks. * Når citronen hældes i saucen, kan man evt. holde lidt igen, så saucen ikke bliver for syrlig. Smag til undervejs og tilføj mere citron efter behov.</tip>
+    <tip>* Opskriften er afprøvet af mig (Naja) og er dermed idiot-sikker :-)</tip>
+  </tips>
+</DOC>

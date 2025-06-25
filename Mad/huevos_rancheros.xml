@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Huevos rancheros</navn>
+  <ingredienser>
+    <ing>2 dåser kidneybønner, drænet og skyllet</ing>
+    <ing>1 løg, finthakket</ing>
+    <ing>2 fed hvidløg, finthakket</ing>
+    <ing>2 spsk olivenolie</ing>
+    <ing>1 rød peberfrugt, skåret i tern</ing>
+    <ing>½ squash, groftrevet</ing>
+    <ing>1 dåse hakkede tomater</ing>
+    <ing>2 tsk stødt spidskommen</ing>
+    <ing>1 tsk stødt koriander</ing>
+    <ing>1 rød chili, finthakket, tilsæt efter smag</ing>
+    <ing>1 tsk røget paprika</ing>
+    <ing>1 spsk farin</ing>
+    <ing>salt</ing>
+    <ing>sort peber, friskkværnet</ing>
+    <ing>4 æg</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tilbehør</subheader>
+    <ing>8 tortillas pandekager</ing>
+    <ing>avocado</ing>
+    <ing>1 håndfuld frisk koriander el. bredbladet persille</ing>
+    <ing>lime</ing>
+    <ing>100 g cheddar ost, friskrevet</ing>
+    <ing>1 dl cremefraiche 18%</ing>
+  </ingredienser2>
+  <metode>
+    <met>Kom løg, hvidløg og krydderier i en sauterpande med olie og sauter ved middelvarme, til løgene er klare.</met>
+    <met>Tilsæt hakkede tomater, rød peber og squash og lad det simre under låg i 20 minutter.</met>
+    <met>Tilsæt bønner og lad dem simre med i yderligere 5 minutter, hvor efter retten smages til med salt, peber og mere chili efter smag.</met>
+    <met>Slå æg ud i hver sin lille lomme i retten, sæt låg på og lad æggene pochere i 6-8 minutter, eller til æggehviden er fast. Alternativt kan dette også ske i ovnen vef 190 grader varmluft</met>
+  </metode>
+  <tips>
+    <tip>Servering: Drys lidt revet ost over og anret med en håndfuld koriander/persille og avocado skåret ud i skiver. Dertil tortillawraps, lime, chili og creme fraiche som tilbehør.</tip>
+  </tips>
+</DOC>

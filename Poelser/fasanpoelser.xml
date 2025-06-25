@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fasanpølser</navn>
+  <ingredienser>
+    <ing>1600 g fasankød (3 fasaner)</ing>
+    <ing>600 g fed bacon (el. 200 g bacon + 200 g spæk)</ing>
+    <ing>2½ dl piskefløde</ing>
+    <ing>1 bundt forårsløg</ing>
+    <ing>1 bundt purløg</ing>
+    <ing>½ bundt frisk koriander</ing>
+    <ing>10 g hvidløgsgranulat</ing>
+    <ing>chili efter smag</ing>
+    <ing>2 tsk. paprika, edelsüss</ing>
+    <ing>1 tsk. allehånde</ing>
+    <ing>8 g sort peber</ing>
+    <ing>35 g groft salt</ing>
+    <ing>2 tsk. spidskommen</ing>
+    <ing>1 spsk. herbes de Provence (timian, merian, rosmarin og basilikum)</ing>
+    <ing>100 g hvedemel</ing>
+    <ing>1 æg</ing>
+    <ing>4 dl isvand</ing>
+    <ing>svinetarm kaliber 28/30</ing>
+  </ingredienser>
+  <metode>
+    <met>Fasankødet duppes tørt og tjekkes for hagl (kødet flækkes tyndt på tværs og holdes mod lyset). Kødet skalfryses (bredt ud, omkring 1 time på frost) eller kødet optøs i køleskab i et lille døgns tid, så det stadig er lidt frossent. Bacon og spæk fryses.</met>
+    <met>Tarmene lægges i blød.</met>
+    <met>Der laves isvand ved at knuse isterninger i en blender og komme lidt vand ved.</met>
+    <met>Bindefars: 400 g af fasankødet (skal være skalfrossent) kommes i en foodprocessor sammen med æg og en 2½ dl af isvandet, og der køres ved lav hastighed, til det er sammenhængende og væsken er optaget. Derefter tilsættes krydderier og mere vand langsomt, indtil bindefarsen er meget finhakket (konsistens som tykt tapetklister; når man stikker en ske i, skal farsen hænge i lange gardiner ned fra skeen).</met>
+    <met>Fasan, bacon skåret i tern, spæk samt grofthakket forårsløg, purløg og koriander køres igennem kødhakkeren på 4 mm skive.</met>
+    <met>Bindefars, salt og resten af isvandet kommes op i farsen, som røres, indtil farsen er sammenhængende og en smule sej. Temperaturen bør holdes under 4°C, ellers sættes farsen lidt på frost.</met>
+    <met>I en stor gryde bringes letsaltet vand (saltet som suppe) næsten i kog.</met>
+    <met>Den udvandede tarm trækkes på et pølsehorn smurt med lidt olie, og farsen stoppes ikke for fast i tarmen, men så vidt muligt uden luft. Pølserne drejes af i den ønskede længde.</met>
+    <met>Pølserne lægges nu i gryden og koges ved 80°C i 20 minutter.</met>
+    <met>Efter afkogning skylles pølserne kort i koldt vand, og er nu klar til brug.</met>
+  </metode>
+  <tips>
+    <tip>Efter kogning kan pølserne skilles.</tip>
+    <tip>Pølserne kan grilles eller steges.</tip>
+    <tip>Pølserne kan holdes sig nogle dage i køleskab. Ellers pakkes de grundigt og fryses.</tip>
+  </tips>
+</DOC>

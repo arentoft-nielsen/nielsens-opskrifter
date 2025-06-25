@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Tom Kha Gai-suppe</navn>
+  <ingredienser>
+    <ing>400 g kyllingebryst</ing>
+    <ing>250 g champignon</ing>
+    <ing>3 forårsløg</ing>
+    <ing>10 tynde skiver galangarod (el. 2 spsk. friskreven ingefær)</ing>
+    <ing>2 stængler citrongræs</ing>
+    <ing>5-6 stk. kaffir-limeblade</ing>
+    <ing>1 rød chili</ing>
+    <ing>1 dåse kokosmælk (ikke light)</ing>
+    <ing>7½ dl hønsebouillon</ing>
+    <ing>2-3 spsk. limesaft</ing>
+    <ing>2-3 spsk. fiskesauce</ing>
+    <ing>ca. 1 spsk. sukker</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Kyllingebryst skæres i ikke for store strimler/tern. Champignon vaskes og skæres i kvarte el. skiver. Forårsløg snittes. Galangarod skives. Pil de yderste tørre blade af citrongræsstænglerne, og mas dem let - den nederste hvide del af stænglen kan du snitte meget fint. Chilien snittes fint.</met>
+    <met>Kom kokosmælk og bouillon (el. vand + bouillonterning) i en gryde. Tilsæt det meste af forårsløgene, galangarod (el. ingefær), citrongræs, chili (hold evt. noget tilbage for at tjekke styrke) og kaffir-limeblade. Lad det koge op, skru ned for varmen, og lad det simre i 5 minutter.</met>
+    <met>Tilsæt champignon og kyllingebryst, og lad suppen simre yderligere 10 min., indtil kyllingen er tilberedt. Smag suppen til med sukker, salt, fish-sauce, limejuice og chili.</met>
+    <met>Der pyntes med resten af forårsløgene.</met>
+  </metode>
+  <tips>
+    <tip>Tjek evt. tip om "velveting" under Panang curry-opskriften.</tip>
+    <tip>Der kan også serveres med frisk koriander (hvis man kan lide det...)</tip>
+    <tip>Galanga, citrongræs, kaffir-lime, chili kan udelades, hvis man bruger en færdig Tom Kha-krydderiblanding - tjek hvad der allerede er i blandingen. Pas på chilistyrken i nogle mix.</tip>
+  </tips>
+</DOC>

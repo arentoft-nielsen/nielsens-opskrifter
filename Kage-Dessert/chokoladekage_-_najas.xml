@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Chokoladekage - Najas</navn>
+  <ingredienser>
+    <ing>100 g smør</ing>
+    <ing>2 æg</ing>
+    <ing>3 dl sukker</ing>
+    <ing>2 dl hvedemel</ing>
+    <ing>4-6 spsk kakao</ing>
+    <ing>2-3 tsk vaniljesukker</ing>
+    <ing>1 knivspids salt</ing>
+    <ing>100 g mørk chokolade (valgfrit)</ing>
+    <ing>evt. lidt rasp</ing>
+  </ingredienser>
+  <metode>
+    <met>Smelt fedtstoffet. Hak chokoladen til grove stykker (valgfrit). Pisk æg og sukker skummende.</met>
+    <met>Bland mel, kakao, salt og vaniljesukker. Rør blandingen i æggesnapsen. Vend det lidt afkølede, smeltede fedtstof i. Tilsæt evt. chokoladen.</met>
+    <met>Smør en bageform på ca. 25 cm i diameter eller ca. 18x26 cm, og drys rasp i, tøm overskydende rasp af. Fordel browniedejen i bageformen (dejen behøver ikke nå helt ud til siderne, den fordeler sig selv når den bliver bagt)</met>
+    <met>Bag kagen ved 175°C i 20-25 min. Den er færdigbagt, når en træpind kan stikkes i kagen og stadig har lidt dej klæbende til sig (må endelig ikke få for meget, så bliver den kedelig).</met>
+    <met>Lad kagen køle af. Server kagen direkte fra formen. Skær den i portionsstykker og sigt evt. lidt flormelis over. Smager dejligt med blød vanilleis til.</met>
+  </metode>
+</DOC>

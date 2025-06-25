@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Cookie Dough-is</navn>
+  <ingredienser>
+    <ing>korn fra 1 vaniljestang</ing>
+    <ing>2 tsk sukker</ing>
+    <ing>4 dl mælk</ing>
+    <ing>1 ds kondenseret mælk</ing>
+    <ing>2½ dl fløde</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Cookie Dough</subheader>
+    <ing>35 g blødt smør</ing>
+    <ing>2 tsk sukker</ing>
+    <ing>3 tsk brun farin</ing>
+    <ing>1 tsk vaniljesukker</ing>
+    <ing>35 g mel</ing>
+    <ing>15 g mørk chokolade – hakket</ing>
+  </ingredienser2>
+  <metode>
+    <met>Ingredienser til cookie dough røres godt sammen til en tæt kagedej. Bredes ud i mellem 2 fryseposer og trykkes flad. Fryses imens isen laves. Når isen næsten er klar, tages den ud og hakkes groft.</met>
+    <met>Vaniljekorn mases ud med sukkeret. Der tilsættes 1½ dl mælk, og det bringes i kog sammen med den tomme vaniljestang. Gryden tages af varmen, og herefter røres den kondenserede mælk i. De resterende 2 dl mælk piskes i og derefter fløden.</met>
+    <met>Afkøles til det er HELT koldt (min. 4 timer og hellere natten over), og den tomme vaniljestang fiskes op. Kommes i ismaskinen og køres 40 min. Når der er ca 10 min tilbage, kommes cookie dough’en i – gem lidt til pynt på toppen.</met>
+  </metode>
+</DOC>

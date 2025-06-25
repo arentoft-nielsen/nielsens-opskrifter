@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Æggesalat</navn>
+  <ingredienser>
+    <ing>7 æg</ing>
+    <ing>3 spsk. mayonnaise</ing>
+    <ing>3 spsk. cremefraiche</ing>
+    <ing>1-2 tsk. karry</ing>
+    <ing>1 tsk. gurkemeje</ing>
+    <ing>1 tsk. grov sennep eller dijon</ing>
+    <ing>flagesalt</ing>
+    <ing>Friskkværnet sort peber</ing>
+    <ing>50-100 g bacon stegt sprødt</ing>
+    <ing>karse til drys</ing>
+  </ingredienser>
+  <metode>
+    <met>Kog æggene i en gryde med kogende vand i 8 minutter og lad dem derefter køle af i koldt vand.</met>
+    <met>Pil og hak æggene. Rør dressingen sammen af mayonnaise, cremefraiche, karry, gurkemeje (tilsæt mere, hvis æggesalaten ønskes mere gul) sennep, en spsk. fintklippet karse, en spsk. knust sprød bacon og smag godt til med salt og peber.</met>
+    <met>Vend de hakkede æg i dressingen og server i en skål med sprød bacon til og et gavmildt drys karse på toppen.</met>
+  </metode>
+  <tips>
+    <tip>Små tern af æbler, helt fintstrimlet porre eller finthakket forårsløg er virkelig også lækkert i en hjemmelavet æggesalat.</tip>
+  </tips>
+</DOC>

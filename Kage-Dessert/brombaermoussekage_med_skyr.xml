@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brombærmoussekage med skyr</navn>
+  <ingredienser>
+    <ing>120 g mørk chokolade 70%</ing>
+    <ing>60 g smør</ing>
+    <ing>2 æg</ing>
+    <ing>180 g sukker</ing>
+    <ing>30 g hvedemel</ing>
+    <ing>10 g kakaopulver</ing>
+    <ing>1/3 tsk. havsalt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Brombærmousse</subheader>
+    <ing>300 g brombær</ing>
+    <ing>30 g flormelis</ing>
+    <ing>korn fra 1 vaniljestang</ing>
+    <ing>1-2 spsk. frisk citronsaft</ing>
+    <ing>3 ark husblas</ing>
+    <ing>120 ml piskefløde</ing>
+    <ing>120 g skyr</ing>
+    <ing>Friske eller frysetørrede brombær</ing>
+  </ingredienser2>
+  <metode>
+    <met>Browniebund: Smelt chokolade og smør forsigtigt i en gryde. Pisk æg og sukker let sammen, og vend chokoladeblandingen i. Rør mel, kakao og salt i. Hæld dejen i springform (18 cm i diameter), hvor bunden er beklædt med bagepapir. Bag bunden ved 175 grader i ca. 30 min. Lad bunden køle af, og sæt den i køleskabet, mens du laver moussen.</met>
+    <met>Brombærmousse: Mål fløde og skyr af, og sæt det på bordet, så det kan få lidt højere temperatur. Læg husblas i en skål med koldt vand i ca. 5 min. Kom brombær, flormelis, og citronsaft i en gryde, og giv det et lille opkog. Si massen, så du slipper for brombærkerner. Kom pureen tilbage i gryden, tilsæt vaniljekorn og sæt den tilbage på blusset. Vrid husblassen fri for vand, og kom den ned til brombærpureen. Rør rundt, indtil husblassen er opløst. Afkøl pureen til den er kølig men selvfølgelig ikke stivnet.</met>
+    <met>Pisk så fløden til skum. Kom skyr ned til flødeskummet, og pisk videre. Vend den afkølede brombærpuré i, og fordel moussen oven på browniebunden. Sæt kagen på køl nogle timer eller natten over, så moussen sætter sig.</met>
+    <met>Server med friske eller frysetørrede brombær.</met>
+  </metode>
+  <tips>
+    <tip>Til springform på 22 cm diameter lægges 50% til målene, ved 24½ cm diameter lægges 85% til.</tip>
+  </tips>
+</DOC>

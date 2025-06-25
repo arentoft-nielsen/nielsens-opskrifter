@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Morgenboller</navn>
+  <ingredienser>
+    <ing>¼ pk. gær</ing>
+    <ing>9 dl koldt vand (el. kærnemælk el. 50/50 blanding af vand/yoghurt naturel)</ing>
+    <ing>1 tsk sukker</ing>
+    <ing>4 tsk salt</ing>
+    <ing>4 spsk olie (raps- el. oliven)</ing>
+    <ing>400 g havregryn (el. 200 g gryn og 200 g solsikkekerner/sesamfrø/hørfrø)</ing>
+    <ing>900 g hvedemel (el. blandet hvede-/grahamsmel/rugmel etc., dog max 300 g grove typer)</ing>
+    <ing>400 g revet gulerod/æble/rødbede</ing>
+  </ingredienser>
+  <metode>
+    <met>Rør vand og gær sammen. Tilsæt øvrige ingredienser undtagen mel. Rør igen. Tilsæt melet lidt ad gangen.</met>
+    <met>Hæver koldt 8-12 timer.</met>
+    <met>Dejen sættes på bagepapir med en stor ske dyppet i vand.</met>
+    <met>Bages på midterste rille v. 210 grader i ca. 25 min.</met>
+  </metode>
+</DOC>

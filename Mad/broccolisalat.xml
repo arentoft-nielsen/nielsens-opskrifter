@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Broccolisalat</navn>
+  <ingredienser>
+    <ing>1 stor broccoli</ing>
+    <ing>1 pk. bacon i skiver 150 g.</ing>
+    <ing>3/4 dl. rosiner</ing>
+    <ing>3/4 dl. solsikkekerner (el. pinjekerner)</ing>
+    <ing>1 rødløg</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Marinade</subheader>
+    <ing>1½ dl. Miracle Whip</ing>
+    <ing>1½ spsk. sukker</ing>
+    <ing>3 tsk. rødvinseddike</ing>
+    <ing>lidt salt</ing>
+  </ingredienser2>
+  <metode>
+    <met>De grove stilke skæres af broccolien, så kun toppen er tilbage. Denne hakkes groft med en kniv. Rødløget pilles og hakkes fint.</met>
+    <met>Bacon klippes i 1 cm. strimler og steges sprøde. Solsikke- eller græskarkerner svitses i baconfedtet.</met>
+    <met>Marinaden blandes og hældes over ingredienserne og lad det trække i ca. 3 timer. Bacon blandes i ved servering.</met>
+  </metode>
+</DOC>

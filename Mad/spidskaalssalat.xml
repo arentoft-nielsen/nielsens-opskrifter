@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Spidskålssalat</navn>
+  <ingredienser>
+    <ing>½-¾ spidskål, fintsnittet</ing>
+    <ing>2 håndfulde rosiner</ing>
+    <ing>2 håndfulde ristede solsikkekerner</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dressing</subheader>
+    <ing>1-2 tsk dijonsennep</ing>
+    <ing>1 spsk olivenolie</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>1 spsk honning el. sirup</ing>
+    <ing>2 spsk citronsaft</ing>
+    <ing>1 dl creme fraiche (el. c-f-dressing)</ing>
+    <ing>lidtsalt og peber</ing>
+  </ingredienser2>
+  <metode>
+    <met>Dressingen røres grundigt sammen.</met>
+    <met>Vend fintsnittet spidskål grundigt med dressing.</met>
+  </metode>
+  <tips>
+    <tip>I stedet for rosiner kan der anvendes et æble, ananas el.lign.</tip>
+    <tip>I stedet for solsikkekerner kan anvendes ristede sesamfrø, græskarkerner eller pinjekerner.</tip>
+    <tip>Forårsløg og purløg er også velegnet i salaten.</tip>
+  </tips>
+</DOC>

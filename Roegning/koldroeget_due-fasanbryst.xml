@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldrøget due-/fasanbryst</navn>
+  <ingredienser>
+    <ing>1 liter vand</ing>
+    <ing>80 g salt</ing>
+    <ing>20 g nitritsalt</ing>
+    <ing>10 g brun farin</ing>
+    <ing>1 tsk cayenne</ing>
+    <ing>4 g hvidløgspeber</ing>
+    <ing>2 g timian</ing>
+    <ing>1 tsk balsamico</ing>
+  </ingredienser>
+  <metode>
+    <met>Lagen røres sammen, og brysterne lægges heri i 1 døgn.</met>
+    <met>Due-/fasanbrysterne tages herefter op af lagen, skylles og tørres på køl i 1-2 døgn.</met>
+    <met>Koldrøges 3 x 10 timer.</met>
+  </metode>
+</DOC>

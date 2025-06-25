@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Double chocolate cookies</navn>
+  <ingredienser>
+    <ing>125 g mørk chokolade (min. 70% kakao)</ing>
+    <ing>150 g mel</ing>
+    <ing>30 g kakao (sigtet)</ing>
+    <ing>1 tsk natron</ing>
+    <ing>½ tsk salt</ing>
+    <ing>125 g blødt smør</ing>
+    <ing>75 g farin</ing>
+    <ing>50 g sukker</ing>
+    <ing>1 tsk vanillesukker</ing>
+    <ing>1 stort æg (koldt fra køleskabet)</ing>
+    <ing>350 g chokoladestykker (mørk el. lys)</ing>
+  </ingredienser>
+  <metode>
+    <met>Opvarm ovnen til 170°C.</met>
+    <met>Smelt de 125g mørk chokolade.</met>
+    <met>Hæld mel, kakao, natron og salt i en skål.</met>
+    <met>Rør smør og de to slags sukker luftigt i en anden skål. Tilsæt den smeltede chokolade og bland.</met>
+    <met>Rør vanille og æg i, og bland så de tørre ingredienser i. Til sidst røres chokoladestykkerne i.</met>
+    <met>Form dejen til ca. 12 kugler og sæt dem på en bageplade med bagepapir med god afstand. Tryk dem ikke flade.</met>
+    <met>Bag i 18 minutter. Test med en pind - den skal kun være halv-ren men ikke med våd dej. Rammer du et chokostykke, så prøv igen.</met>
+    <met>Afkøles først let på bagepladen i 4-5 minutter. Derefter afkøles de på en rist.</met>
+  </metode>
+</DOC>

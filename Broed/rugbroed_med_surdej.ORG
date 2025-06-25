@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rugbrød med surdej</navn>
+  <ingredienser>
+    <ing><u>Dag 1</u>:</ing>
+    <ing>200 g hvedemel</ing>
+    <ing>600 g rugmel</ing>
+    <ing>6½ dl vand</ing>
+    <ing>1½ spsk salt</ing>
+    <ing>surdej (ca. 2 dl)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Dag 2</subheader>
+    <ing>Husk at tage dej fra!</ing>
+    <ing>250 g knækkede rugkerner</ing>
+    <ing>1½ dl vand</ing>
+    <ing>2½ dl hvidtøl el. maltøl</ing>
+    <ing>evt. lidt sovsekulør, hvis mørkere farve ønskes</ing>
+    <ing>1 spsk brun farin</ing>
+    <ing>100 g hørfrø</ing>
+    <ing>100 g solsikkekerner</ing>
+    <ing>100 g sesamfrø</ing>
+  </ingredienser2>
+  <metode>
+    <met>Dag 1: Bland rugmel og hvedemel, og rør vandet i lidt ad gangen. Rør saltet i sammen med surdejen - dejen er ret lind. Sæt dejen til hævning i et døgn ved god stuetemperatur (18-20°).</met>
+  <met>Dag 2: Tag et par dl af dejen fra, og gem til næste bagning. Giv rugkernerne et kort opkog i vand + lidt øl. Tilsæt farin og frø til dejen. Afkøl rugkernerne med resten af øllet, tjek at det ikke er for varmt og hæld det sammen med dejen.</met>
+    <met>Fordel dejen i to smurte forme, hver på ca. 1½ liter. Drys med hørfrø på toppen, og prik dejen tæt med en pind el. gaffel. Lad brødene efterhæve med et klæde over i 6-8 timer. Bag brødene ved 175° i ca. 1½ time.</met>
+  </metode>
+  <tips>
+  	<tip>Surdej: 1½ dl kærnemælk, 2 dl rugmel, 1 knsp salt. Rør det hele sammen, og lad det stå på køkkenbordet i 1 døgn, dog ikke for varmt.</tip>
+    <tip>Tag brødene ud af formene, og lad dem køle lidt af og læg dem i fryseposer - dampen vil gøre skorpen mere blød og skærevenlig. Det er bedst at lade dem stå til næste dag, så er de nemmere at skære.</tip>
+    <tip>Surdej som er den klat du tager fra, inden du bager rugbrødet, kan holde sig i ca. 14 dage i køleskab, dog er den allerbedst hvis man nøjes med 7 dage – eller den kan fryses – hvis der skulle blive for lang tid mellem bagningerne.</tip>
+  </tips>
+  <url>http://www.kokkekniven.com/alle-opskrifter/hjemmelavet-rugbroed-surdej</url>
+  <url>http://www.frkuldbjerg.dk/2011/03/klassisk-rugbrd-med-surdej.html</url>
+</DOC>

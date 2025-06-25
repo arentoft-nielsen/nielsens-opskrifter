@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fasterboller</navn>
+  <ingredienser>
+    <ing>25 g gær</ing>
+    <ing>2½ dl mælk</ing>
+    <ing>1 tsk salt</ing>
+    <ing>1 dl sukker</ing>
+    <ing>120 g smør</ing>
+    <ing>400 g hvedemel (evt. mere, men dejen skal være blød og blank)</ing>
+  </ingredienser>
+  <metode>
+    <met>Lun mælk og smelt smør deri. Tag evt. kun 1½ dl først, og tilsæt den sidste dl, efter at smørret er smeltet.</met>
+    <met>Udrør gær i den fingerlune mælk/smør-blanding. Tilsæt mel, sukker og salt. Dejen skal blot samles, og der må ikke komme for meget mel i, så bliver den for tør.</met>
+    <met>Hæver ca. 40 min, og formes til boller, som efterhæver. Pensles med æg, og drysses evt. med sukker.</met>
+    <met>Bages ved 200°, til de er gyldne.</met>
+  </metode>
+  <tips>
+    <tip>Bollerne kan fryses.</tip>
+  </tips>
+</DOC>

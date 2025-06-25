@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Müsli</navn>
+  <ingredienser>
+    <ing>1 kg grovvalsede havregryn</ing>
+    <ing>500 g speltflager</ing>
+    <ing>500 g rugflager</ing>
+    <ing>500 g hel boghvede</ing>
+    <ing>500 g solsikkekerner</ing>
+    <ing>400 g kokosmel/kokosflager</ing>
+    <ing>500 g sesamfrø</ing>
+    <ing>400 g hørfrø</ing>
+    <ing>4 dl vand</ing>
+    <ing>1 dl olie</ing>
+    <ing>½ glas honning (el. 200 g farin/sirup/mørk rørsukker)</ing>
+    <ing>evt 200 g rosiner el. 200 g stenfri dadler</ing>
+    <ing>300 g hasselnødder</ing>
+    <ing>200 g mandler</ing>
+  </ingredienser>
+  <metode>
+    <met>Ingredienser (uden rosiner/dadler, nødder og evt. kokosflager) blandes. Vand, olie samt honning (el. farin/sirup) blandes og opvarmes, til det er opløst - fordeles derefter i grynene lidt ad gangen, imens der røres grundigt.</met>
+    <met>Bages i ovnen 60-75 min. v. 175 grader - blandingen vendes grundigt efter 20 min., derpå efter 15 og herefter hvert tiende minut. Müslien skal være lysebrun (men selvfølgelig ikke brændt) og må ikke længere dampe ved omrøring.</met>
+    <met>Mandler, nødder (evt. kokosflager) samt rosiner og dadler (hvis müslien ikke skal oven på noget sødt) tilsættes først de sidste 10 min.</met>
+  </metode>
+  <tips>
+    <tip>Dette er en stor portion, som i hvert fald skal fordeles på 2 ovnplader.</tip>
+    <tip>Der kan flexes på ingredienserne, hvis man vil have andre flager el. kerner i (fx. chiafrø, cornflakes, græskarkerner).</tip>
+  </tips>
+</DOC>

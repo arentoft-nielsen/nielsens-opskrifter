@@ -1,0 +1,269 @@
+<HTML>
+
+<HEAD>
+<TITLE>RiSearch - website search script</TITLE>
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+<META NAME="Description" CONTENT="RiSearch - simple and poferfull free search script"> 
+<META NAME="Keywords" CONTENT="perl,script,search,engine,index,database,site,internet,web,free,CGI,program,host,find,indexing,text,server,homepage"> 
+<link rel=stylesheet type="text/css"
+      href="style.css"
+      title="All">
+
+</HEAD>
+
+
+<BODY>
+
+          <table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+            <tr>
+              <td width="90%" class="fs3n" valign="middle">
+              <img src="/img/bar.gif" width="100%" height="2">
+              </td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs8b" valign="middle">
+              <B>ENG/<A HREF="/rus/index.html">RUS</A></B>&nbsp;&nbsp;
+              <A HREF="/index.html">Main</A> :: 
+              <A HREF="/eng/risearch/index.html">RiSearch</A> :: 
+              <A HREF="/eng/pro/index.html">RiSearch Pro</A> :: 
+              RiSearch PHP :: 
+              <A HREF="/eng/sql/index.html">RiSearch SQL</A> :: 
+              <A HREF="/eng/riflex/index.html">RiFlex</A> :: 
+              <A HREF="/eng/rilax/index.html">RiLax</A> :: 
+              <A HREF="/eng/rumor/index.html">RuMor</A> :: 
+              <A HREF="/forum.cgi/2/">Forum</A>
+              </td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs3n" valign="middle">
+              <img src="/img/bar.gif" width="100%" height="2">
+              </td>
+            </tr>
+          </table>
+          <br class="fs3n">
+
+
+
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+<tr>
+<td width="90%" class="fs3n" valign="middle">
+<img src="/img/bar.gif" width="100%" height="1">
+</td>
+</tr>
+<tr>
+<td width="90%" class="fs8b" valign="middle">
+
+<A HREF="index.html"> Introduction</A> ::
+<A HREF="config.htm"> Configuration</A> ::
+<A HREF="license.htm"> License</A>
+
+</td>
+</tr>
+<tr>
+<td width="90%" class="fs3n" valign="middle">
+<img src="/img/bar.gif" width="100%" height="1">
+</td>
+</tr>
+</table>
+<br class="fs3n">
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="10" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+<tr>
+<td width="100%" class="fs8n" valign="middle">
+
+
+
+
+<H3>Configuration</H3>
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Before you can search, you need to index your site. Use <b>index.php</b>
+for local files indexing or <b>spider.php</b> for indexing via HTTP.
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Edit file <B>config.php</B> to set several parameters. Most of them are selfdocumented
+and does not require explanation.
+
+<BR><BR>
+<OL>
+<LI><P ALIGN=justify><code class=code>&nbsp;$base_dir = ".";&nbsp;</code>
+ - path to the directory, where your html files are located. If <B>index.php</B> located
+in the same directory, leave this variable as is. Please note, that in all cases
+you should use or relative path, or absolute, starting from file system root
+(not from webserver root directory).
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$base_url = "http://www.server.com/";&nbsp;</code>
+ - URL of your site.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$site_size = 2;&nbsp;</code>
+ - this variable controls database size and searching speed.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$file_ext = 'html txt htm shtml php';&nbsp;</code>
+ - list of files extensions to be indexed.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$no_index_dir = 'img image temp tmp cgi-bin';&nbsp;</code>
+ - directories, which should not be indexed.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$numbers = '0-9';&nbsp;</code>
+ - during the indexing script removes all non alphabetic characters from page
+ and index what is left. Here you may add other characters, which should be indexed (such as numbers,
+ underscore sign and so on).
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$use_selective_indexing = "NO";&nbsp;</code>
+ - this option is useful for big sites with complex navigation, news postings
+ and other elements, which appear on every page and, probably, should not be
+ indexed. It allows to tell to the script, which parts of page should be cut
+ before indexing. Turn on this option ("YES") and edit following lines.
+<BR> 
+<BR><code class=code>&nbsp;$no_index_strings = array(</code>
+<BR><code class=code>&nbsp;    "&lt;!-- No index start 1 --&gt;" => "&lt;!-- No index end 1 --&gt;",</code>
+<BR><code class=code>&nbsp;    "&lt;!-- No index start 2 --&gt;" => "&lt;!-- No index end 2 --&gt;",</code>
+<BR><code class=code>&nbsp;);</code>
+<BR>
+<BR>
+Inside the quotes you need to write two strings. Everything placed between them
+will be cut (note, if there are several occurrences of this strings
+in file, each occurrence will be processed). For this purpose you may use
+special marks, which divide different elements of design (Note, that slash and quotas
+should be escaped - <b>\/</b> ands <b>\"</b>).
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$cut_default_filenames = 'YES';&nbsp;</code>
+ - this variable allows to cut default filenames (such as index.html) from URl in search results.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$INDEXING_SCHEME = 2;&nbsp;</code>
+ - words indexing scheme. If indexing scheme equal "1", index is build on the whole word base.
+ Most fastest method, but script will find only words equal to the keyword.
+<P ALIGN=justify> When indexing scheme is "2", index is based on the beginning of each word.
+Script will find all words, which begin with given keyword. For example, for query
+"port" the words "<B>port</B>rait" and "<B>port</B>ion" also will be found.
+<P ALIGN=justify> If indexing scheme equal "3" script put in index every substring with length 4.
+ It allows to find documents even in case when only middle part of word is entered as keyword.
+ In above case, for example, next words will be found: "im<B>port</B>ant", "s<B>port</B>", "re<B>port</B>" and so on.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$descr_size = 256;&nbsp;</code>
+ - length of file description (as description may be used first lines
+ of file or content of "META description" tag).
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify>There are many other parameters which are
+self-documented in <B>config.php</B> file.
+
+</OL>
+
+<H3>Spidering</H3>
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Spidering script will use all parameters described above (except
+<code class=code>&nbsp;$base_dir&nbsp;</code> and
+<code class=code>&nbsp;$base_url&nbsp;</code>.
+You have to set up just two additional variables.
+<OL>
+<LI><P ALIGN=justify><code class=code>&nbsp;$start_url&nbsp;</code>
+ - List of starting URLs.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;$allow_url&nbsp;</code>
+ - Script will index only files within allowed servers.
+<P ALIGN=justify>
+</OL>
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If you need to exclude directory from indexing, use 
+<B>$no_index_dir</B> parameter (this parameter is one for all servers
+in <B>$allow_url</B> list).
+
+<H3>Template usage</H3>
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Script uses template to control design of script output.
+Template is placed in file "template.htm". It is standard HTML file, which can be
+opened by every browser. You may look how your page will be displayed and
+edit it.
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Template consists of seven section: "header" and "footer" will be displayed
+in every case; "results_header", "results" and "results_footer" are displayed
+in case of succsessful search; "no_results" is used if no results are found;
+"empty_query" will be displayed if there are no query supplied.
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Each section divided by marks, like this:
+<BR>
+<BR><code class=code>&nbsp;&lt;!-- RiSearch::header::start --&gt;&nbsp;</code>
+<BR>
+You may edit everything between two dividers.
+
+<P ALIGN=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Template uses several predefined parameters, which will be replaced
+by results of script work. Here is full list of parameters:
+
+<OL>
+<LI><P ALIGN=justify><code class=code>&nbsp;%query%&nbsp;</code>
+ - query.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%search_time%&nbsp;</code>
+ - time used by script to perform search.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%query_statistics%&nbsp;</code>
+ - found words statistics (string like - "word1-n1 word2-n2").
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%stpos%&nbsp;</code>
+ - the starting number for results on this page.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%url%, %title%, %size%, %description%&nbsp;</code>
+ - URL of found file, title, size and description.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%rescount%&nbsp;</code>
+ - total number of found files.
+<P ALIGN=justify>
+
+<LI><P ALIGN=justify><code class=code>&nbsp;%next_results%&nbsp;</code>
+ - links to next pages with results.
+<P ALIGN=justify>
+
+</OL>
+
+
+
+</td>
+</tr>
+</table>
+<br class="fs3n">
+
+
+          <br class="fs3n">
+          <table align="center" border="0" cellspacing="0" cellpadding="3" width="80%" bgcolor="#E5E5E5" bordercolor="#E5E5E5">
+            <tr>
+              <td colspan="2" height="1" valign="top"><img src="/img/bar.gif" width="100%" height="1"></td>
+            </tr>
+            <tr>
+              <td width="90%" class="fs8n" valign="middle">
+              <A HREF=http://risearch.org>http://risearch.org</A>
+              </td>
+              <td align="right" nowrap class="fs8n">
+              <A HREF=mailto:risearch@risearch.org><b>S.Tarasov</b></A>, &copy; 2000-2001
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" height="1" valign="top"><img src="/img/bar.gif" width="100%" height="1"></td>
+            </tr>
+          </table>
+
+
+</BODY>
+</HTML>

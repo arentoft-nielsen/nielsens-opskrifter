@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pulled rådyr</navn>
+  <ingredienser>
+    <ing>2 rådyrbove (eller fx 1½ kg svinenakkefilet)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Marinade</subheader>
+    <ing>2 spsk salt</ing>
+    <ing>3 spsk brun farin</ing>
+    <ing>2½ dl ketchup</ing>
+    <ing>1½ spsk paprika</ing>
+    <ing>1 spsk røget paprika</ing>
+    <ing>2 tsk spidskommen</ing>
+    <ing>3 spsk engelsk sauce</ing>
+    <ing>3 tsk sennep (med top)</ing>
+    <ing>1 tsk cayenne</ing>
+    <ing>5 spsk soya</ing>
+    <ing>3 spsk olivenolie</ing>
+    <ing>3 tsk oregano</ing>
+    <ing>2 store fed hvidløg, presset</ing>
+  </ingredienser2>
+  <metode>
+    <met>Start med at fjerne hinder, sener og urenheder fra rådyrbovene, som deles i 2.</met>
+    <met>Gnid kødet godt ind i marinade (gem omkring 1½ dl til serveringen), og læg det derefter i en pose og på køl natten over (dette kan springes over).</met>
+    <met>Læg meget groft skivede rødløg i bunden af en stegeso og kødet i ovenpå. Fyld bunden med ½ cm vand/rødvin.</met>
+    <met>Stegesoen sættes ind i ovnen ved 110 gr. og bages 8-10 timer. Nu er stegen mør som smør, og kødet trækkes fra hinanden med to gafler og vendes med resten af marinaden iblandet noget stegesky.</met>
+    <met>Serveres med gode burgerboller, rødløg, agurkeskiver, coleslaw (el. fint skåret spidskål/rødkål), grillsauce, chilimayonnaise og sød chillisauce.</met>
+  </metode>
+  <tips>
+    <tip>Er der kortere tid til rådighed, så kan der bages ved 150 gr. i 4-5 timer.</tip>
+    <tip>Chilimayo kan laves af 2 dl god mayonnaise, 2 tsk chilisauce (alternativt rød karrypasta), 1 tsk røget eller stærk paprika, 1 fed presset hvidløg, saften af ½ lime.</tip>
+  </tips>
+</DOC>

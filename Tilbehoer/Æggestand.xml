@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Æggestand</navn>
+  <ingredienser>
+    <ing>4 æg</ing>
+    <ing>1½ dl mælk</ing>
+    <ing>½ tsk salt</ing>
+    <ing>lidt smør</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 175 grader, og sæt et ildfast fad med vand i bunden ind til opvarmning.</met>
+    <met>Rør æggene sammen med et piskeris, tilsæt mælk, salt og evt. hvid peber og rør igen. Smør en lille aluform med lidt smør, og passér æggemassen gennem en finmasket sigte ned i den smurte form. Dæk formen med stanniol med nogle lufthuller.</met>
+    <met>Når ovnen er varm stilles formen ind. Bag æggemassen i vandbadet i ovnen i 20-25 minutter ved 175 grader – herefter slukkes der for varmen og æggemassen bager i yderligere 15 minutter. Tjek at massen er stivnet, og tag herefter formen ud og lad æggestanden afkøle helt.</met>
+  </metode>
+</DOC>

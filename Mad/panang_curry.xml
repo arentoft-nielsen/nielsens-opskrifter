@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Panang curry</navn>
+  <ingredienser>
+    <ing>500-600 g kyllinge-/fasanfilet</ing>
+    <ing>1 løg, grofthakket</ing>
+    <ing>3 fed hvidløg, finthakket</ing>
+    <ing>3 gulerødder, skåret i tynde strimler</ing>
+    <ing>20 g ingefær, friskrevet</ing>
+    <ing>2-3 spsk panang karrypasta</ing>
+    <ing>2 ds kokosmælk</ing>
+    <ing>5 kaffir limeblade</ing>
+    <ing>1 rød peberfrugt, i tern</ing>
+    <ing>1 grøn peberfrugt, i tern</ing>
+    <ing>200 g broccoli, i buketter</ing>
+    <ing>1 øko lime, saft og lidt fintrevet skal</ing>
+    <ing>evt. 1 rød chili</ing>
+    <ing>1 spsk soja</ing>
+    <ing>1½ tsk fiskesauce</ing>
+    <ing>1 spsk rørsukker/farin</ing>
+    <ing>1 dl vand</ing>
+    <ing>salt</ing>
+    <ing>olie til stegning</ing>
+  </ingredienser>
+  <metode>
+    <met>Skær kødet i strimler (lad det evt. mørne som beskrevet i tips).</met>
+    <met>Opvarm lidt olie i en gryde eller wok, brun kødstrimlerne af.</met>
+    <met>Tilsæt derefter løg, hvidløg, gulerødder, ingefær, karrypasta, limeblade og kokosmælk. Lad det simre i 15 minutter.</met>
+    <met>Tilsæt peberfrugt, broccoli, halvdelen af lime/limeskaæl, evt. chili, soja, fiskesauce, sukker og vand. Rør rundt og bring retten i kog igen, og lad det simre yderligere yderligere et kvarters tid under låg.</met>
+    <met>Smag til med salt, lime, ekstra sukker, chili, fiskesauce.</met>
+    <met>Servér din panang curry med ris.</met>
+  </metode>
+  <tips>
+    <tip>Saftigt og mørt kød uden marinade (aka “velveting”): Kødet skæres ud, vendes i natron (el. bagepulver) og “marineres” i 20 minutter. Skyl stykkerne grundigt, dup dem tørre, og tilbered som du ønsker. Til 600 gram kød, skal du bruge 1 tsk. natron. Følg fremgangsmåden herover, og tilbered derefter kødet som beskrevet i opskriften</tip>
+  </tips>
+</DOC>

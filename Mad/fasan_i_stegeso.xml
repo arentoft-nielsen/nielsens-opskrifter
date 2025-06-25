@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Fasan i stegeso</navn>
+  <ingredienser>
+    <ing>2 fasaner delt i lår og bryststykker</ing>
+    <ing>bacon</ing>
+    <ing>2 spsk smør</ing>
+    <ing>6 spsk mel</ing>
+    <ing>2½ dl hakket løg</ing>
+    <ing>2½ dl oksebouillon</ing>
+    <ing>1 dl persille</ing>
+    <ing>3 fed hvidløg</ing>
+    <ing>2 tsk sellerisalt</ing>
+    <ing>2 tsk paprika</ing>
+    <ing>½ tsk sort peber</ing>
+    <ing>1½ dl kærnemælk el. yoghurt naturel</ing>
+    <ing>2 spsk worchestershire sauce</ing>
+    <ing>250 g champignons i skiver</ing>
+    <ing>1½ dl mørk øl</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>De flåede fasaner deles i lår- og bryststykker, som omvikles med bacon.</met>
+    <met>Stykkerne brunes hurtigt i smørret i stegesoen og tages op.</met>
+    <met>Mel drysses i gryden sammen med løg. Der steges kort og derpå tilsættes bouillon og de øvrige ingredienser.</met>
+    <met>Kødet lægges forsigtigt tilbage i gryden, som simrer i 3 timer.</met>
+  </metode>
+  <tips>
+    <tip>Black iron pheasant</tip>
+  </tips>
+</DOC>

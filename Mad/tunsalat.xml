@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Tunsalat</navn>
+  <ingredienser>
+    <ing>2 dåser tun i vand</ing>
+    <ing>1 rødløg</ing>
+    <ing>1 rød peberfrugt</ing>
+    <ing>150 gram creme fraiche 18%</ing>
+    <ing>2 spsk limefrugt/citronsaft</ing>
+    <ing>1 tsk revet citronskal</ing>
+    <ing>Hvidløg</ing>
+    <ing>(1 spsk sennep)</ing>
+    <ing>Salt/peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Hæld vandet fra tunen, og kom den i en skål og rør den sammen med creme fraiche.</met>
+    <met>Hak løget fint og kom det over tunen. Skær peberfrugt i tern og tilsæt.</met>
+    <met>Halver citronen og pres saften over salaten. Smid citronkernerne ud. Bland det hele godt sammen.</met>
+  </metode>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtsauce med brombær</navn>
+  <ingredienser>
+    <ing>2 tsk honning</ing>
+    <ing>1 tsk Dijonsennep</ing>
+    <ing>3 dl rødvin</ing>
+    <ing>1 dl portvin</ing>
+    <ing>2 dl vildtfond</ing>
+    <ing>200 g brombær</ing>
+    <ing>20 g smør</ing>
+    <ing>salt og peber</ing>
+    <ing>evt. lidt sukker</ing>
+  </ingredienser>
+  <metode>
+    <met>Honning og Dijon sennep svitses i en varm gryde. Det må ikke brænde på.</met>
+    <met>Tilsæt rødvin, portvin og fond. Saucen koges ind til næsten det halve.</met>
+    <met>Tilsæt brombær, og kog videre i 10 minutter. Smag til med salt og peber. Og evt. lidt sukker, hvis saucen mangler lidt sødme.</met>
+    <met>Inden servering kommes små klatter koldt smør i saucen under omrøring. Det gør den tykkere og mere cremet. Der kan desuden jævnes lewt.</met>
+  </metode>
+</DOC>

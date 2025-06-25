@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Oksekødssuppe</navn>
+  <ingredienser>
+    <ing>2 kg oksekød (bryst, tværben, skank eller bov)</ing>
+    <ing>kraftben</ing>
+    <ing>2½ dl vand</ing>
+    <ing>suppevisk (porretop, selleritop, persille, timian)</ing>
+    <ing>1 løg</ing>
+    <ing>2 gulerødder</ing>
+    <ing>evt. pastinak (150 g)</ing>
+    <ing>½-1 knoldselleri (500 g)</ing>
+    <ing>2-3 porrer (450 g)</ing>
+    <ing>evt. kartofler</ing>
+    <ing>salt og friskkværnet peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Dag 1: Sæt kød og ben over i vand og bring det i langsomt i kog. Skum suppen grundigt. Læg suppevisk og løg i gryden og tilsæt salt. Læg låg på og dæmp varmen.</met>
+    <met>Lad suppen simre videre til kødet er mørt ca. 2-3 timer. Herefter tages kødet op og benene koger videre - i alt ca. 4 timer. Tag ben og suppevisk. Si suppen og skum fedtet af.</met>
+    <met>Stilles koldt til næste dag.</met>
+    <met>Dag 2: Overflødigt fedt fjernes fra den kolde suppe. Gulerødder, pastinak (, kartofler) og selleri skæres i tern. Rens porrerne, skær dem i skiver på skrå.</met>
+    <met>Grønsagerne koges i suppe+vand i ca. 20 min (porrerne evt. kun den halve tid).</met>
+    <met>Lad suppen koge ind under låg, til den har en god smag. Tilsæt grønsager plus kogevand. Smag til med salt og peber. Varm kødboller og melboller i suppen - melboller må ikke koge!</met>
+  </metode>
+</DOC>

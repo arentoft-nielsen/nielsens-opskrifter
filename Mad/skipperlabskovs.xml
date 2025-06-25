@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Skipperlabskovs</navn>
+  <ingredienser>
+    <ing>750g skært oksekød</ing>
+    <ing>2-3 løg</ing>
+    <ing>baconfedt el. olie/smør til stegning</ing>
+    <ing>20 hele peberkorn i en tepose</ing>
+    <ing>½ l vand</ing>
+    <ing>1-2 bouillonterning</ing>
+    <ing>2 kg melede kartofler</ing>
+    <ing>3-4 laurbærblade</ing>
+    <ing>Salt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tilbehør</subheader>
+    <ing>hakket persille</ing>
+    <ing>smør</ing>
+    <ing>groft rugbrød</ing>
+    <ing>syltede rødbeder</ing>
+  </ingredienser2>
+  <metode>
+    <met>Skær kødet i ca. 1x1 cm terninger. Pil og hak løgene.</met>
+    <met>Svits kødet i olie/smør til det bruner let. Tilsæt løgene og svits dem med, til de er klare. Tilsæt vand, laurbærbladene, peber og bouillonterning. Læg låg på og lad retten simre i ca ½ time.</met>
+    <met>Skræl kartoflerne og skær dem i ca. 2 x 2 cm terninger. Hæld dem i gryden og spæd evt med bouillon, så det står et par cm under toppen af kartoflerne. Lad retten simre videre, til kartoflerne begynder at koge ud. Først nu må der forsigtigt røres i gryden. Smag til med salt, når kartoflerne har jævnet retten.</met>
+    <met>Husk at fjerne laurbærblade og evt. tepose med peberkorn før servering. Drys persillen på ved servering og server retten med smørklat, rugbrød og syltede rødbeder.</met>
+  </metode>
+  <tips>
+    <tip>Rødbederne kan skæres i tern og derefter kandiseres som brunede kartofler, kan krydres med lidt lakrids/anis</tip>
+  </tips>
+</DOC>

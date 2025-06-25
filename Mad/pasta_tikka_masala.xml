@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pasta tikka masala</navn>
+  <ingredienser>
+    <ing>pasta</ing>
+    <ing>1 løg</ing>
+    <ing>4 fed hvidløg</ing>
+    <ing>olie</ing>
+    <ing>1 peberfrugt</ing>
+    <ing>evt. blomkålsbuketter</ing>
+    <ing>2 dl mælk</ing>
+    <ing>tomatpuré</ing>
+    <ing>salt</ing>
+    <ing>3-4 tsk tikka masala</ing>
+    <ing>chili</ing>
+    <ing>6-8 æg</ing>
+  </ingredienser>
+  <metode>
+    <met>Løg og hvidløg hakkes men holdes adskilt. Grøntsager skæres i mindre stykker.</met>
+    <met>Sæt pastaen over til kogning. Når den er al dente, så hældes vandet fra, og pastaen rystes i gryden med lidt olie, så den ikke klæber sammen.</met>
+    <met>Imens pastaen koger, hældes der olie på en pande, og løgene svitses. Peberfrugt og blomkål lægges ved. Når løgene bliver klare, så tilsættes også hvidløg, som steges med et par minutter. Tilsæt det meste af masalaen, og lad det svitse i et halvt minut. Tilsæt mælk, lidt tomatpuré, salt og chili efter smag, og lad væsken koge ind, indtil det tykner lidt. Smag til. Herefter vendes saucen i pastaen.</met>
+    <met>Nu slås æggene ud på panden, saltes og krydres med resten af masalaen. Der røres, indtil de sætter sig som blødt røræg, der vendes i pastaen.</met>
+  </metode>
+  <tips>
+    <tip>Serveres straks, evt. med godt madbrød eller naan.</tip>
+  </tips>
+</DOC>

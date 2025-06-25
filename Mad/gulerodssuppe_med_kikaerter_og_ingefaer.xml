@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gulerodssuppe med kikærter og ingefær</navn>
+  <ingredienser>
+    <ing>20 g ingefær</ing>
+    <ing>1 løg</ing>
+    <ing>1 porre</ing>
+    <ing>4 fed hvidløg</ing>
+    <ing>3-4 tsk spidskommen</ing>
+    <ing>2 tsk gurkemeje</ing>
+    <ing>800 g gulerødder</ing>
+    <ing>8 dl grøntsagsbouillon</ing>
+    <ing>2 dåser kokosmælk</ing>
+    <ing>400 g kogte kikærter</ing>
+    <ing>chili</ing>
+    <ing>limesaft</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Skær gulerødderne og porren i stykker.</met>
+    <met>Hak ingefær, løg og hvidløg. Svits det i olie i et par minutter.</met>
+    <met>Tilsæt spidskommen og gurkemeje. Herefter også gulerødder og porre og svits yderligere i 3-4 minutter.</met>
+    <met>Tilsæt bouillon, og lad det simre indtil gulerødderne er helt møre.</met>
+    <met>Tilsæt kokosmælk samt kikærter, giv et opkog og blend suppen. Smag til med lime, chili og salt.</met>
+  </metode>
+</DOC>

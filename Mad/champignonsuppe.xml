@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Champignonsuppe</navn>
+  <ingredienser>
+    <ing>½ kg champignoner</ing>
+    <ing>20 g smør/margarine</ing>
+    <ing>2 finthakkede skalotteløg</ing>
+    <ing>2 spsk mel</ing>
+    <ing>1¼ l suppe</ing>
+    <ing>salt</ing>
+    <ing>hvid peber</ing>
+    <ing>evt. ½ piskefløde</ing>
+    <ing>1-2 spsk citronsaft</ing>
+    <ing>evt. 1-2 spsk tør sherry</ing>
+  </ingredienser>
+  <metode>
+    <met>Rens champignonerne. Skær svampene i tynde skiver.</met>
+    <met>Hak løgene meget fint. Damp løgene i fedtstoffet, til de er klare, men ikke brune.</met>
+    <met>Drys mel over og rør, til alt melet er opsuget. Tilsæt kogende suppe lidt efter lidt ved konstant omrøring.</met>
+    <met>Smag til med salt og hvid peber. Tilsæt champignonskiverne. Rør fløden i suppen. Lad suppen småkoge uden</met>
+    <met>Lad suppen småkoge uden låg i 8 -10 min. Smag til med citronsaft og evt. sherry.</met>
+  </metode>
+</DOC>

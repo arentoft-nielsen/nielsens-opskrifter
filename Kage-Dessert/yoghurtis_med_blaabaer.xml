@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Yoghurtis med blåbær</navn>
+  <ingredienser>
+    <ing>2½ dl blåbær (friske eller fra frost)</ing>
+    <ing>1 dl sukker</ing>
+    <ing>2 spsk ahornsirup</ing>
+    <ing>2 dl græsk yoghurt 10%</ing>
+    <ing>1 spsk glukosesirup</ing>
+  </ingredienser>
+  <metode>
+    <met>Varm blåbær, sukker og ahornsirup op ved middelvarme under omrøring, til sukkeret er smeltet.</met>
+    <met>Lad bærrene køle lidt af, blend dem grundigt og pres dem evt. gennem en sigte, hvis isen skal være helt uden bærstykker.</met>
+    <met>Bland bærsaften med yoghurt og glukosesirup, køl den helt ned (gerne natten over i køleskab så den kan trække smag), og frys den på ismaskinen til den tykner. Frys færdig i lukket beholder i fryseren.</met>
+  </metode>
+</DOC>

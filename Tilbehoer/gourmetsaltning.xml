@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gourmetsaltning</navn>
+  <ingredienser>
+    <ing>Salt 1% af kødvægt</ing>
+  </ingredienser>
+  <metode>
+    <met>Grundlæggende handler gourmetsaltning blot om, at man salter kødet i god tid, før det tilberedes.</met>
+    <met>Ved at gourmetsalte kødet opnås mere smag i kødet, større mørhed, mere saftighed og lavere stegesvind.</met>
+    <met>Tommelfingerregelen siger 1 procent salt af kødets vægt. Denne saltmængde giver en god effekt, kødet bliver ikke oversaltet, og så er det nemt at huske.</met>
+  </metode>
+</DOC>

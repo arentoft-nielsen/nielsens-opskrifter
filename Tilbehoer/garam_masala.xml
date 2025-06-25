@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Garam masala</navn>
+  <ingredienser>
+    <ing>3 tsk stødt spidskommen</ing>
+    <ing>4½ tsk stødt koriander</ing>
+    <ing>3 tk stødt kardemomme</ing>
+    <ing>1 tsk friskkværnet peber</ing>
+    <ing>1 tsk stødte nelliker</ing>
+    <ing>1 tsk kanel</ing>
+    <ing>1 tsk gurkemeje</ing>
+    <ing>½ tsk stødt muskatnød</ing>
+    <ing>½ tsk chili/cayennepeber</ing>
+  </ingredienser>
+  <metode>
+    <met>Eventuelt hele krydderier stødes eller kværnes i blender. Ingredienser blandes grundigt sammen.</met>
+  </metode>
+</DOC>

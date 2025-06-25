@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Chokolademousse</navn>
+  <ingredienser>
+    <ing>200 g mørk chokolade (60-70%)</ing>
+    <ing>8 pasteuriserede æggeblommer</ing>
+    <ing>5 dl piskefløde</ing>
+    <ing>3 tsk cognac el. rom</ing>
+    <ing>50 g sukker</ing>
+    <ing>½ tsk nescafé</ing>
+    <ing>evt. lidt fintrevet skal af økoappelsin</ing>
+  </ingredienser>
+  <metode>
+    <met>Æg og fløde må ikke være for koldt.</met>
+    <met>Kaffen opløses i en smule vand, som tilsættes fløden. Fløden piskes til en rimelig fast konsistens.</met>
+    <met>Chokoladen smeltes forsigtigt.</met>
+    <met>Æggeblommer piskes hvide med sukker samt evt. appelsinskal. Cognac tilsættes og gives en omrøring.</met>
+    <met>Den smeltede chokolade røres med piskeris sammen med æggeblommer - pas på at æggemassen ikke er for kold, og rør kun, til massen er blandet, ellers kan det stivne før tid.</met>
+    <met>Flødeskummet vendes hurtigt i choko-massen. Pyntes med snittet chokolade.</met>
+  </metode>
+  <tips>
+    <tip>Opskriften er til 8-10 personer.</tip>
+  </tips>
+</DOC>

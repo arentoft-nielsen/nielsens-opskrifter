@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Falafel</navn>
+  <ingredienser>
+    <ing>400 g kikærter (tørvægt)</ing>
+    <ing>2 håndfulde persille</ing>
+    <ing>4-6 fed hvidløg</ing>
+    <ing>2 mindre løg</ing>
+    <ing>4 tsk stødt koriander</ing>
+    <ing>4 tsk spidskommen</ing>
+    <ing>evt. chilipulver el. cayenne (efter smag)</ing>
+    <ing>2½ tsk salt</ing>
+    <ing>1 æg</ing>
+    <ing>saft af ½ citron</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>evt. et par skefulde mel</ing>
+  </ingredienser>
+  <metode>
+    <met>Kikærterne udblødes i vand (omkring 12 - 20 timer). Ærterne skal ikke koges. Derefter sies vandet fra.</met>
+    <met>Alle ingredienser blendes, evt. med en stavblender. Kør maskinen, til du får en grov dej. Mærk, om du kan forme en falafel, uden at den falder alt for meget fra hinanden. Tilsæt evt. en smule mel, hvis du synes, der er behov for at binde dejen mere sammmen. Dejen sættes på køl i en halv time men gerne længere.</met>
+    <met>Dejen formes til små boller med en ske i hånden. Bollerne frituresteges eller steges i olie på panden.</met>
+    <met>Serveres i pitabrød med salat, yoghurt-dressing og hvad man ellers har lyst til</met>
+  </metode>
+  <tips>
+    <tip>Kikærter på dåse kan bruges, men de er kogt og giver et ringere resultat.</tip>
+  </tips>
+</DOC>

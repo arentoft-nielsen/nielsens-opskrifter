@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pølsebrød</navn>
+  <ingredienser>
+    <ing>500 g hvedemel</ing>
+    <ing>55 g sukker</ing>
+    <ing>10 g bageenzymer (kan udelades)</ing>
+    <ing>14 g tørgær (el. 50 g alm. gær)</ing>
+    <ing>80 g grahamsmel</ing>
+    <ing>½ dl rapsolie</ing>
+    <ing>1 æg</ing>
+    <ing>2¾ dl mælk</ing>
+  </ingredienser>
+  <metode>
+    <met>Kom alle de tørre ingredienser i røreskålen, og bland det godt. Tilsæt rapsolie. Tilsæt sammenpisket æg og mælk (hvis der æltes i hånden, så lunes mælken lidt).</met>
+    <met>Ælt langsomt i 3 minutter og derefter 10 minutter hurtigt. Dejen virkes op til en kugle, som hviler under plast i 15 minutter.</met>
+    <met>Dejen deles i 16 dele på 62-66 g. Virkes op til små kugler, som hviler 15 minutter under plast.</met>
+    <met>Med lidt durummel på bordet trykkes kuglerne flade med hånden, trækkes/trykkes mellem fingrene ud i en en aflang firkant, hvorefter siderne foldes ind over midten og de korte ender ind over igen. Nu trykkes dejen mellem fingrene til en pølse på ca. 14 cm, som trykkes let flad og lægges på bageplade med bagepapir, ca 1½ cm imellem hver. Hæver under plast på pladen i ca. 1 time.</met>
+    <met>Brødene bages i ca. 12 minutter - til de er gyldne - på andennederste rille ved 200 grader (over/undervarme).</met>
+  </metode>
+</DOC>

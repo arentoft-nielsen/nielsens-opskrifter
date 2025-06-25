@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+	<navn>Squash-tomat-tærte</navn>
+	<ingredienser>
+		<ing>400 g squash</ing>
+		<ing>1 stort løg</ing>
+		<ing>3 fed hvidløg</ing>
+		<ing>200 g feta</ing>
+		<ing>6-7 tomater</ing>
+		<ing>oregano + merian</ing>
+		<ing>3 æg + de to hvider</ing>
+		<ing>1 dl mælk</ing>
+		<ing>1 dl. yoghurt/creme fraiche/skyr</ing>
+		<ing>peber</ing>
+		<ing>salt</ing>
+		<ing>evt. gratineringsost</ing>
+	</ingredienser>
+	<ingredienser2>
+		<subheader>Tærtedej</subheader>
+		<ing>125g hvedemel</ing>
+		<ing>100 g grahamsmel</ing>
+		<ing>½ tsk salt</ing>
+		<ing>75 g koldt smør</ing>
+		<ing>2 æggeblommer</ing>
+		<ing>2-3 spsk koldt vand</ing>
+	</ingredienser2>
+	<metode>
+		<met>Kom mel og salt i en skål. Hak smørret i mindre stykker og arbejd det ind i melet til det krumler.	Brug hænderne så lidt som muligt.	Tilsæt æg og vand og saml dejen til en kugle, som trykkes lidt flad og lægges i køleskab ½-1 time.</met>
+		<met>Rul dejen ud og beklæd en tærteform. Prik bunden med en gaffel og forbag den ved 225 grader i 10 min.</met>
+		<met>Løgene strimles, og squash skæres i tynde skiver. Løgene brunes i lidt olie, og tilsættes derpå squash og hvidløg. Steges videre til grønsagerne er brunet lidt og væden er fordampet.</met>
+		<met>Tomaterne skæres i skiver. Fetaosten hakkes i mindre stykker. Æg, mælk, salt og peber piskes sammen.</met>
+		<met>Løg/squash-blandingen fordeles på den forbagte bund. Herover spredes feta, og der fordeles tomater over.	Der drysses oregano og merian over tomaterne. Æggeblandingen hældes over, og der drysses med lidt ost.</met>
+		<met>Bages ved 200 grader i ca. 30 min.</met>
+	</metode>
+</DOC>

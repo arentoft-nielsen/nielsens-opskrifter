@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Salatdressing</navn>
+  <ingredienser>
+    <ing>2 spsk olivenolie</ing>
+    <ing>2 spsk creme fraiche(-dressing)</ing>
+    <ing>2 spsk citronsaft</ing>
+    <ing>2 tsk honning</ing>
+    <ing>2 tsk dijonsennep</ing>
+    <ing>salt</ing>
+    <ing>sort peber, friskkværnet</ing>
+    <ing>evt 1 fed hvidløg</ing>
+    <ing>* til ca. ½ hoved spidskål</ing>
+  </ingredienser>
+  <metode>
+    <met>Hvis honningen er fast, røres den flydende med ganske lidt kogende vand. Ellers piskes ingredienserne blot grundigt sammen.</met>
+  </metode>
+</DOC>

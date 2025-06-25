@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Vildtkrydderi - Nielsens</navn>
+  <ingredienser>
+    <ing>1 spsk sort peber</ing>
+    <ing>1 tsk cayennepeber</ing>
+    <ing>2 spsk sød paprika</ing>
+    <ing>2 tsk røget paprika</ing>
+    <ing>1 spsk brun farin</ing>
+    <ing>1 spsk sukker</ing>
+    <ing>2 spsk tørret timian</ing>
+    <ing>2 spsk tørret rosmarin</ing>
+    <ing>1 spsk enebær</ing>
+    <ing>2 spsk hvidløgspulver</ing>
+    <ing>1 tsk koriander</ing>
+    <ing>3 spsk fint salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Krydderierne (minus salt) afmåles og finmales i en blender. Herefter tilsættes salt og køres med ganske kort.</met>
+  </metode>
+</DOC>

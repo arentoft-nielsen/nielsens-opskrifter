@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pølsegryde - Nielsens special</navn>
+  <ingredienser>
+    <ing>10 wienerpølser</ing>
+    <ing>3 fed hvidløg</ing>
+    <ing>1 stort løg</ing>
+    <ing>1 stor dåse koncentreret tomatpuré</ing>
+    <ing>1-2 bouillonterninger</ing>
+    <ing>4 tsk oregano</ing>
+    <ing>3 tsk mild paprika (delikatesse-/Edelsüss)</ing>
+    <ing>1 tsk rosenpaprika</ing>
+    <ing>2 tsk basilikum</ing>
+    <ing>1 tsk sukker</ing>
+    <ing>chili (efter smag og behag)</ing>
+    <ing>evt. 200 g shii-take svampe</ing>
+    <ing>olie</ing>
+    <ing>vand</ing>
+    <ing>maizena til jævning</ing>
+  </ingredienser>
+  <metode>
+    <met>Skær løget i små tern og svits det i olien, indtil løgstykkerne er klare. Tilsæt pølserne skåret i ca 1 cm tykke skiver, og lad dem riste med nogle minutter.</met>
+    <met>Hæld omkring 8 dl vand på og tilsæt presset hvidløg, tomatpuré, bouillonterninger samt tørrede krydderier (+ evt ituskårne shii-take).</met>
+    <met>Koger for svag varme i ca. 10 minutter og smages til med salt og evt. ekstra krydderi. Jævnes med maizene udrørt i koldt vand.</met>
+  </metode>
+</DOC>

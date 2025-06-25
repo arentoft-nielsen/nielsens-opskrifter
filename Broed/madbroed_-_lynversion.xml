@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Madbrød - lynversion</navn>
+  <ingredienser>
+    <ing>3 dl lunkent vand (evt. halvt mælk)</ing>
+    <ing>25 gram gær (el. 2 tsk tørgær)</ing>
+    <ing>1 tsk salt</ing>
+    <ing>1 tsk sukker/honning</ing>
+    <ing>75 g havregryn el. rugmel</ing>
+    <ing>300 g manitoba-mel (el. pizzamel/alm. hvedemel)</ing>
+    <ing>1 spsk olie</ing>
+    <ing>evt. 2 tsk bageenzym</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>topping</subheader>
+    <ing>1½ spsk olie</ing>
+    <ing>2 tsk oregano el. 1 rosmarin</ing>
+    <ing>¾ tsk flagesalt</ing>
+    <ing>evt. 2 fed hvidløg, presset</ing>
+  </ingredienser2>
+  <metode>
+    <met>Opløs gæren i den lunkne væske, og rør sukker i. Hvis der bruges tørgær, blandes gæren i melet.</met>
+    <met>Tilsæt rugmel/havregryn, hvedemel, salt samt olie, og rør godt rundt med en grydeske. Dejen er meget blød.</met>
+    <met>Beklæd et stort ovnfad med bagepapir, og hæld dejen heri. Træk dejen ud med en fugtet dejskraber. Alternativt hældes dejen i cirkelform på bagepapir direkte på en plade.</met>
+    <met>Lav topping: Pres hvidløg og bland med olie og krydderier. Dryp olien på dejen og træk det ud med en dejskraber. Stik også skraberen i dejen med mellemrum. Drys med flagesalt.</met>
+    <met>Sæt brødet til lynhævning et kvarter i ovnen på 40 grader varmluft eller 1 time på køkkenbordet.</met>
+    <met>Skru herefter temperaturen op på 200 grader varmluft, og bag brødet ca. 25-30 minutter nederst i ovnen, indtil det er sprødt, gyldent og lyder hult, når det bankes på undersiden.</met>
+  </metode>
+</DOC>

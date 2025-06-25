@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Pizza - the real deal</navn>
+  <ingredienser>
+    <ing>340 ml vand (koldt)</ing>
+    <ing>1 g gær / ¼ g tørgær (se også tips)</ing>
+    <ing>ca. 560 g mel (helst tipo 00-pizzamel)</ing>
+    <ing>10½ g salt</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Tomatsauce</subheader>
+    <ing>1 ds flåede tomater (helst San Marzano-tomater, fx dem fra Mutti)</ing>
+    <ing>1 mellemstort løg</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>1 tsk salt</ing>
+    <ing>½ tsk rørsukker</ing>
+    <ing>1 spsk vineddike</ing>
+    <ing>olivenolie</ing>
+  </ingredienser2>
+  <metode>
+    <met>Dejen skal optimalt startes ca. 24 timer før bagning. Rør vand og gær sammen. Tilsæt derefter halvdelen af melet. Dette røres ud, til der ikke er flere klumper.</met>
+    <met>Tilsæt salt, rør lidt, tilsæt derpå resten af melet over to omgange (føles dejen for våd, så spæd op med mel). Og ælt så grundigt (kan gøres på maskine med dejkrog, ved lav hastighed de første 4-5 min og så ved en lidt højere hastighed, indtil gluten er aktiveret ordentligt). Efter yderligere 10-20 minutter skulle dejen begynde at blive glat og let elastisk, når du trækker i den - man skal helst kunne trække en snip af dejen helt tyndt ud i et lille vindue, uden at den knækker over.</met>
+	<met>Tag dejen ud og lav en håndæltning. Juster også melmængden her.</met>
+    <met>Lad dejen hæve i en lukket skål i 1 time ved stuetemperatur.</met>
+    <met>Dejen skæres ud til 4 boller á ca. 220 g. Spænd bollerne op ved at folde hjørnerne (først 4 og så 4 mere) ind mod midtpunktet i bollen, så den bliver fint rund og får en glat og spændstig overflade. Bollen skal rette sig op af sig selv, når man trykker på den. Læg bollerne på en bakke, beklæd med film, og lad hæve 4-5 timer ved stuetemperatur. Slutteligt sætter du bollerne på køl i 20-24 timer, hvor de hæver færdigt (bruges den store mængde gær, kan de 4+24 timer reduceres til 1 time på køkkenbordet).</met>
+    <met>Imens forberedes saucen. Løg og lidt senere hvidløg steges blanke i lidt ovenolie. Tomater hældes i, og der koges i ca. 5 min. Derefter tilsættes salt, sukker og vineddike, og der koges i yderligere 5 minutter. Saucen blendes glat.</met>
+    <met>Tag dejen ud af køleskabet ca. 1-2 timer før, den skal formes til pizzabunde. Start med at hælde godt med mel ud på dit bord, og vend din pizzabolle i melet et par gange, så der intet klæbrigt er tilbage. Herefter lægger du bollen på bordet i melet og begynder med 3 fingre på hver hånd at trykke hele vejen rundt ca. 1½ cm fra kanten - kanten må ikke trykkes. Herefter lægges fingrene mere fladt på dejen, som trækkes stille og roligt, idet hænderne trækkes udad og lidt fra hinanden. Tryk ikke på den yderste rand. Vend pizzadejen nogle gange undervejs. Når dejen har diameter som en frokosttallerken, så skal den strækkes: Tag fat i dejen og vend toppen ud over din anden hånd. Herefter skiftes dejen mellem hænderne, imens der roteres. Til sidst lægges dejen op over knoerne og strækkes på de lidt tykkere steder, indtil den rette størrelse er nået.</met>
+    <met>Smør din pizzabund med 3-4 skefulde sauce - bare et tyndt lag og ikke helt til kanten. Læg nu din favorittopping på - fx den klassiske (napolitanske) margarita med mozzarella, parmesan, olivenolie og basilikumblade eller måske pizza prosciutto (mozzarella og god skinke). Pas på med ikke at overfylde bunden (less is more) og med ikke at bruge fyld, som afgiver meget væske, så bliver bunden blød og snasket.</met>
+    <met>Bag pizzaen på bagestål/-sten (forvarmet i ovnen i ca. 20 minutter) ved højest mulige varme i ovnen på over/-undervarme (ikke varmluft) til pizzaen er færdig (5-10 minutter)</met>
+  </metode>
+  <tips>
+    <tip>Har du travlt, så tilsæt 10 g gær. Herved kan hævetiderne reduceres til 2x1 time.</tip>
+    <tip>Tutorial til udrulning:</tip>
+    <tip>https://www.youtube.com/watch?v=9f9-xTcKzZo</tip>
+    <tip>https://madsvin.com/hjemmelavet-pizza-den-ultimative-guide/</tip>
+    <tip>Brug generelt frisk mozzarella som basisost på pizzaen. Den billige fra supermarkedet er ok, bare det er den friske.</tip>
+    <tip>I stedet for at lægge fyldet ovenpå hinanden, så læg det mere ved siden af hinanden. Det holder pizzaen elegant, og alt bliver bagt nok. Fyldet kan varieres i det uendelige, fx: mozzarella, parmesan, hvidløg, løg, forstegte champignons, skinke, chili, salami, rucola, oregano, frisk basilikum, oliven.</tip>
+  </tips>
+</DOC>

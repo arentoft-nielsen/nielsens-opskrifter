@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Ingefærkager II</navn>
+  <ingredienser>
+    <ing>125 g brun farin</ing>
+    <ing>50 g sirup</ing>
+    <ing>75 g sukker</ing>
+    <ing>100 g smør</ing>
+    <ing>1 æg</ing>
+    <ing>250 g hvedemel</ing>
+    <ing>½ tsk natron</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>3 tsk stødt ingefær</ing>
+    <ing>fintrevet frisk ingefær (20 g skrællet rod)</ing>
+    <ing>1 tsk stødt kanel el. ½ tsk stødt nellike</ing>
+    <ing>2 tsk vaniljesukker</ing>
+    <ing>1 nip salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Skræl den friske ingefær og riv den - trådene i roden sorteres fra. Bland de tørre ingredienser (undtagen sukkertyperne).</met>
+    <met>Rør smør og farin/sukker/sirup sammen. Rør ægget i, og derefter de tørre ingredienser.</met>
+    <met>Ælt hurtigt dejen sammen. Del dejen i 4, og rul den ud i lange pølser (diameter som en 5-krone). Læg dem på køl i nogle timer, gerne natten over.</met>
+    <met>Skær rullerne ca ½ cm tynde skiver, læg dem ikke for tæt på en bageplade, og bag dem i 7-8 minutter ved 200 grader, til de er smukt lysebrune.</met>
+  </metode>
+  <tips>
+    <tip>OBS: Stødt ingefær kan blive for gammelt og smagløst, så brug nyt eller smag på det inden brug.</tip>
+  </tips>
+</DOC>

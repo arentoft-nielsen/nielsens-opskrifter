@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rabarberkage - Susannes</navn>
+  <ingredienser>
+    <ing>250 g blødt smør</ing>
+    <ing>250 g sukker</ing>
+    <ing>2 æg</ing>
+    <ing>(200 g hakkede, smuttede mandler)</ing>
+    <ing>120 g mel (150 g hvis mandler udelades)</ing>
+    <ing>½ tsk bagepulver</ing>
+    <ing>2 tsk vanillesukker</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Fyld</subheader>
+    <ing>700 g finthakkede rabarberstilke</ing>
+    <ing>250 g sukker</ing>
+    <ing>1 tsk vanillesukker</ing>
+  </ingredienser2>
+  <metode>
+    <met>Dejen røres sammen, og halvdelen fyldes i en tærteform (el. anden form beklædt med bagepapir).</met>
+    <met>Fyldet fordeles over dejen.</met>
+    <met>Resten af dejen hældes på. Evt. kan den fyldes i en sprøjtepose for nemmere at kunne fordele den ret linde dej.</met>
+    <met>Tærten bages 35-40 min. i forvarmet ovn ved 225 grader.</met>
+  </metode>
+  <tips>
+    <tip>Den lune tærte serveres med creme fraiche/flødeskum</tip>
+  </tips>
+</DOC>

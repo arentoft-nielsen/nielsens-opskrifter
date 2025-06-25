@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kartoffel-porre-suppe</navn>
+  <ingredienser>
+    <ing>1 kg kartofler i tern</ing>
+    <ing>3 porrer, skåret i ringe (alternativt 3 løg)</ing>
+    <ing>1 fed hvidløg, knust</ing>
+    <ing>1 spsk olivenolie</ing>
+    <ing>1,2 liter grøntsagsbouillon</ing>
+    <ing>1 knivspids vaniljepulver</ing>
+    <ing>½ dl piskefløde</ing>
+    <ing>½ appelsin, evt saften herfra til at smage til</ing>
+    <ing>sort peber, friskkværnet</ing>
+    <ing>salt</ing>
+  </ingredienser>
+  <metode>
+    <met>Sautér kartofler, porrer og hvidløg i en gryde med olivenolie i et par minutter under omrøring. Tilsæt bouillon og vanilje, læg låg på gryden, og lad det koge i 20 minutter, eller til kartoflerne er møre.</met>
+    <met>Blend suppen med lidt piskefløde, og juster konsistensen med lidt mere grøntsagsbouillon, hvis nødvendigt.</met>
+    <met>Smag til med salt, peber og evt. lidt appelsinsaft.</met>
+    <met>Server den luftige suppe med fx ristet rugbrød, græskarkerner, sprødristet bacon og lidt frisk timian.</met>
+  </metode>
+  <tips>
+    <tip>Der kan rives lidt muskatnød i.</tip>
+  </tips>
+</DOC>

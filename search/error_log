@@ -1,0 +1,2 @@
+[11-Jan-2025 13:46:39 Europe/Copenhagen] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/arentoft/public_html/Opskrifter/search/search.php on line 206
+[13-Feb-2025 11:18:11 Europe/Copenhagen] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/arentoft/public_html/Opskrifter/search/search.php on line 206

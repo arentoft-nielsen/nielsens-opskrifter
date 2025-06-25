@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Forloren hare</navn>
+  <ingredienser>
+    <ing>1 kg hakket kalv/flæsk</ing>
+    <ing>2½ tsk salt</ing>
+    <ing>peber</ing>
+    <ing>1 tsk stødt ingefær</ing>
+    <ing>2 tsk sennep</ing>
+    <ing>1 tsk røget paprika</ing>
+    <ing>2 æg</ing>
+    <ing>2 mellemstore løg, finthakket</ing>
+    <ing>2 fed hvidløg, finthakket</ing>
+    <ing>2 dl bouillon</ing>
+    <ing>½ dl fløde</ing>
+    <ing>1½ dl havregryn</ing>
+    <ing>bacon</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Sauce</subheader>
+    <ing>4 dl bouillon (til fadet)</ing>
+    <ing>2 dl mælk</ing>
+    <ing>2 dl fløde</ing>
+    <ing>4 tsk ribsgelé</ing>
+    <ing>1 tsk timian</ing>
+    <ing>lidt engelsk sauce</ing>
+    <ing>kulør</ing>
+    <ing>salt og peber</ing>
+    <ing>maizena</ing>
+  </ingredienser2>
+  <metode>
+    <met>Kødet røres, først kun med salt - derefter med de øvrige ingredienser. Farsen formes aflangt i et smurt fad. 1 pk. bacon fordeles tværs over og ind under "dyret".</met>
+    <met>Fadet sættes i ovnen i 15 min. ved 225 grader.</met>
+    <met>Der hældes 4 dl kogende vand og en bouillonterning samt 1 dl madlavningsfløde i fadet, så bunden er dækket. Herefter står fadet yderligere 45 min. i ovnen ved 170 grader. Om nødvendigt kan der tilsættes lidt mælk eller vand til fadet undervejs.</met>
+    <met>Skyen fra fadet hældes efter endt stegetid igennem en sigte over i en gryde. Lav en sauce ved at tilsætte mælk, fløde, timian, ribsgelé og lidt engelsk sauce til gryden. Tilsæt kulør til saucen har den ønskede farve. Lad det koge op og smag saucen til med med salt/peber. Endelig jævnes saucen lidt med maizena oprørt i en smule koldt vand.</met>
+    <met>Serveres fx med hasselback-kartofler.</met>
+  </metode>
+</DOC>

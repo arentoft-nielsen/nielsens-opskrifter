@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kold karrykartoffelsalat</navn>
+  <ingredienser>
+    <ing>2,5 kg kartofler</ing>
+    <ing>1 dl mayonnaise</ing>
+    <ing>3 dl creme fraiche 18%</ing>
+    <ing>1 tsk sennep</ing>
+    <ing>1 tsk citronsaft, friskpresset</ing>
+    <ing>½ løg el. 3 forårsløg</ing>
+    <ing>2 tsk karry</ing>
+    <ing>1 tsk salt</ing>
+    <ing>½ tsk peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Kartoflerne koges, og afkøles i køleskabet.</met>
+    <met>Man blander mayonnaise og cremefraiche. Derefter tilsættes sennep og citronsaft samt det hakkede løg. Der smages til med karry, salt og peber.</met>
+    <met>Kartoflerne skæres i stykker (ikke skiver), og tilsættes den flydende blanding. Det er en god idé at kartoflerne "søber" lidt, da det flydende kan blive lidt stift, når det kommer i køleskabet.</met>
+  </metode>
+</DOC>

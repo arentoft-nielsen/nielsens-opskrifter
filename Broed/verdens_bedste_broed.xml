@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Verdens Bedste Brød</navn>
+  <ingredienser>
+    <ing>5½ dl koldt vand</ing>
+    <ing>5 g gær</ing>
+    <ing>625 g mel (gerne manitoba-mel, udskift evt. 125-150 g af melet med en grovere meltype, fx rug-/ølandsmel)</ing>
+    <ing>2-3 tsk salt</ing>
+    <ing>evt. 1 tsk honning</ing>
+    <ing>evt. 8 g bageenzym (2½ tsk)</ing>
+  </ingredienser>
+  <metode>
+    <met>Man starter på brødet 15 timer før man skal bruge det. Rør først gær (og honning) ud i vandet i en stor skål. Bland salt og mel. Først røres omkring halvdelen af melet i vandet derpå resten, og der røres sammen med en grydeske, blot indtil alt melet er vådt.</met>
+    <met>Lad dejen hæve i 10-12 timer på køkkenbordet (evt. kan den hæves i køleskab først (2 timer tæller for 1), og så tages ud til færdighævning om morgenen). Når dejen er hævet færdig, er den let, luftig og fyldt med store bobler. Den lange hævning er grunden til, at man ikke behøver at ælte brødet. Gæren gør det arbejde, som du ellers skulle gøre selv.</met>
+    <met>Efter hævning løsnes dejen fra skålen med lidt mel og en dejskraber. Fold den ind over sig selv 4-5 gange. Først den ene vej, så på tværs osv. Læg den i en skål, som forud er smurt med olie og evt. også bestrøet med durummel, og lad den hæve i 2 timer mere.</met>
+    <met>Du skal bage brødet i en gryde inde i ovnen. Grydens låg holder dampen fra dejen inde. Så varer det længere for skorpen at sætte sig og blive hård. Det gør, at brødet hæver mere op inde i ovnen.</met>
+    <met>Varm ovnen op til 250 grader. Kom en (4-5 liters) ovnfast gryde/stegeso ind i ovnen en halv time før slut af sidste hævetid. Dejen må kun kunne fylde gryden halvt op. Når dejen er hævet færdig vendes den over i den varme gryde (der skal ikke smøres men der kan fx fordeles en håndfuld solsikkekerner i bunden af gryden - så slipper brødet nemmere senere). Der kommes låg på, og den sættes ind i ovnen på varmluft. Vær sikker på at ovn/gryde er varm nok - vent 15 minutter, efter at ovnens termostat siger den er varm nok. Er gryden ikke varm nok bliver skorpen nemt for tynd og blød.</met>
+    <met>Brødet skal bage i 30 minutter ved 250 grader med låg. Derefter bages videre i 15 minutter ved 210 grader uden låg.</met>
+    <met>Lad brødet køle i mindst 20-30 minutter inden servering, ellers kan det virke lidt klægt.</met>
+  </metode>
+  <tips>
+    <tip>Der kan laves en lynversion på i alt 4 timer. Gærmængden øges til lidt under ½ pk (ca. 20-22 g), der anvendes fingerlunt vand, og der kan tilsættes 1 spsk eddike. Hæld vandet i en skål, og opløs gæren heri. Tilsæt salt, mel og evt. eddike, og rør dejen let sammen. Lad dejen hæve tildækket i ca. 2 timer. Fold forsigtigt dejen ind over sig selv 5-6 gange. Smør en ren skål med olie og kom dejen heri. Lad den hæve tildækket i yderligere 1 time (½ time inde i denne hævetid tændes ovnen med gryden i på 250° varmluft). Bagning som ovenfor.</tip>
+    <tip>Har du 8 timer, så brug ¼ pk gær og forøg hævetiderne til 5+2.</tip>
+  </tips>
+</DOC>

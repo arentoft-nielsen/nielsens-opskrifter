@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Naan bagt på pande</navn>
+  <ingredienser>
+    <ing>300 g hvedemel</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>½ tsk natron</ing>
+    <ing>1 tsk salt</ing>
+    <ing>1 dl vand</ing>
+    <ing>1½ dl græsk yoghurt (10 %)</ing>
+    <ing>olie (til stegning)</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>hvidløgssmør</subheader>
+    <ing>40 gram smør</ing>
+    <ing>3 fed hvidløg (finthakket el. presset)</ing>
+  </ingredienser2>
+  <metode>
+    <met>Mel, bagepulver, natron og salt æltes sammen med vand og græsk yoghurt. Ælt dejen i 5 minutter – med røremaskine eller med dine hænder. Er dejen lidt for klistret, kan du tilsætte en spsk mel mere.</met>
+    <met>Del dejen i 6 stykker. Drys lidt mel på bordet, og rul stykkerne meget tyndt ud.</met>
+    <met>Steg brødene ét ad gangen på en meget varm, stor pande i lidt olie. Når det har fået god farve på den ene side, vender du og steger på den anden side. Som hovedregel ikke mere end cirka 30 sekunder på hver side. Fortsæt med resten.</met>
+    <met>Pak dem ind i et rent viskestykke, hvis du vil holde dem lune og bløde.</met>
+  </metode>
+  <tips>
+    <tip>Naanbrød er fryseegnede i op til 3 måneder.</tip>
+    <tip>Brødene kan drysses med nigellafrø eller andre frø/krydderurter (f.eks. sesam, birkes, koriander, bredbladet persille).</tip>
+  </tips>
+</DOC>

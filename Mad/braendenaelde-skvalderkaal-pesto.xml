@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brændenælde-skvalderkål-pesto</navn>
+  <ingredienser>
+    <ing>1 skål friske skud af brændenælde og skvalderkål</ing>
+    <ing>1 dusk persille</ing>
+    <ing>10 blade frisk basilikum</ing>
+    <ing>1 fed hvidløg</ing>
+    <ing>1 lille pose pinjekerner</ing>
+    <ing>1 spk parmesan</ing>
+    <ing>citronsaft</ing>
+    <ing>olivenolie</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+  </ingredienser>
+  <metode>
+    <met>Urterne skylles godt.</met>
+    <met>Brændenælde, skvalderkål og persille gives et opkog i ganske lidt vand, til det falder sammen.</met>
+    <met>Pinjekernerne ristes.</met>
+    <met>Vandet knuges af urterne, og de blendes med de øvrige ingredienser. Smages til med salt og peber.</met>
+  </metode>
+</DOC>

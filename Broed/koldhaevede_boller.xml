@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Koldhævede boller</navn>
+  <ingredienser>
+    <ing>8½ dl vand</ing>
+    <ing>12 g gær el. 1 tsk tørgær</ing>
+    <ing>100 g hørfrø</ing>
+    <ing>200 g solsikkekerner</ing>
+    <ing>200 g havregryn</ing>
+    <ing>evt. 2 spsk bageenzym</ing>
+    <ing>evt. 1 spsk mørkt maltmel</ing>
+    <ing>2 spsk honning</ing>
+    <ing>3 tsk olivenolie</ing>
+    <ing>3 tsk salt</ing>
+    <ing>125 g fuldkornshvedemel/grahamsmel</ing>
+    <ing>675 g hvedemel (evt. manitoba)</ing>
+  </ingredienser>
+  <metode>
+    <met>Med autolyse: Vand, gær og hvedemel (ikke fuldkorn) røres hurtigt sammen. Lad det stå i 30-60 min. Herefter tilsættes de øvrige ingredienser, og dejen æltes godt sammen.</met>
+    <met>Uden autolyse: Rør gæren ud i vandet, tørgær skal dog blandes i melet. Tilsæt hørfrø, solsikkekerner, havregryn, bageenzym, honning, olie, salt og fuldkornsmel. Rør det godt sammen, og tilsæt derefter mel lidt efter lidt. Dejen æltes grundigt sammen.</met>
+    <met>Lad dejen hæve køligt natten over.</met>
+    <met>Form boller, og læg dem på en bageplade med bagepapir, strø med sesamfrø og lad dem efterhæve en halv times tid.</met>
+    <met>Bag bollerne i en forvarmet ovn ved 230 grader varmluft, først i 10 minutter og derefter i yderligere 7-9 minutter ved 190 grader varmluft.</met>
+  </metode>
+  <tips>
+    <tip>Autolyse går ud på at blande mel, vand og gær (eller surdej) uden salt godt sammen og lade det stå i 30-60 minutter inden æltning. Så får melet tid til at opsuge vandet uden saltets forstyrrende effekt på glutennetværket. Det nedsætter den efterfølgende æltetid og gør dejen mere smidig. Når autolyse processen er færdig, tilsættes salt, og der æltes.</tip>
+    <tip>Hydrering: 70%</tip>
+  </tips>
+</DOC>

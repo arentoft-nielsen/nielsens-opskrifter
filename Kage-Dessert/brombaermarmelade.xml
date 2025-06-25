@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Brombærmarmelade</navn>
+  <ingredienser>
+    <ing>750 g brombær</ing>
+    <ing>1 spsk. citronsaft</ing>
+    <ing>375 g sukker</ing>
+    <ing>1¾ tsk. geleringspulver (rød melatin)</ing>
+    <ing>evt. 1 tsk. vaniljesukker</ing>
+  </ingredienser>
+  <metode>
+    <met>Stil en tallerken i køleskab (se tips).</met>
+    <met>Skyl marmeladeglas og låg med atamon. Stil dem omvendt på køkkenrulle.</met>
+    <met>Kom brombær og citronsaft i en gryde, og varm langsomt op, til det koger. Lad dernæst brombærrene simre i 5 minutter. Imens kan man skumme overfladen for bl.a. at fjerne urenheder.</met>
+    <met>Drys sukker i under omrøring, og kog det med i 2 min.</met>
+    <met>Tilsæt geleringsmiddel under omrøring, og lad nu marmeladen koge i 2 minutter mere. Tjek konsistens på den kolde tallerken, tilsæt evt. lidt mere melatin nu.</met>
+    <met>Tag gryden af varmen, og tilsæt evt. vaniljesukker, inden marmeladen fyldes på steriliserede glas, der straks lukkes tæt til.</met>
+  </metode>
+  <tips>
+    <tip>Allerførst stilles en lille tallerken i køleskabet, så den når at blive helt kold. Når marmeladen er kogt, kan du komme en teskefuld på den kolde tallerken, og lade den stå et minut på køl. Så har du en ret god fornemmelse af konsistensen, og der kan tilsættes ekstra geleringmiddel om ønsket.</tip>
+  </tips>
+</DOC>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gelato med ribs og solbær</navn>
+  <ingredienser>
+    <ing>200 g ribs</ing>
+    <ing>100 g solbær</ing>
+    <ing>220 g sukker</ing>
+    <ing>190 g flormelis</ing>
+    <ing>2 dl vand</ing>
+    <ing>2 dl letmælk</ing>
+    <ing>2 spsk citronsaft</ing>
+    <ing>2 æggeblommer</ing>
+  </ingredienser>
+  <metode>
+    <met>Kog vand og 120 g sukker i en kasserolle med vand og lad det småkoge i 30 minutter uden låg.</met>
+    <met>Hæld blandingen gennem en sigte og ned i en skål. Pres bærrene i sigten, så mest muligt saft presses igennem. Sæt skålen med bærsaften i køleskab.</met>
+    <met>Pisk æggeblommer og resten af sukkeret grundigt, indtil massen er tyk og skummende. Tilsæt mælk, mens der piskes. Rør bærsaften i og bland grundigt.</met>
+    <met>Hæld ismassen i din ismaskine og lad det køle ned i cirka 45 minutter. Stil herefter isen i fryseren i mindst 2 timer.</met>
+  </metode>
+</DOC>

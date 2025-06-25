@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Kagecreme</navn>
+  <ingredienser>
+    <ing>2 æg</ing>
+    <ing>3 spsk sukker</ing>
+    <ing>1 spsk maizena</ing>
+    <ing>2,5 dl mælk</ing>
+    <ing>1/2 stang vanilje (el. vaniljesukker)</ing>
+  </ingredienser>
+  <metode>
+    <met>Æg og sukker piskes sammen i en gryde. De øvrige ingredienser tilsættes, og der piskes igen.</met>
+    <met>Alt bringes til kogepunktet under stadig piskning hele vejen rundt i gryden.</met>
+    <met>Hvis der bruges vaniljesukker tilsættes det efter kogning. Cremen bestrøs med sukker for at undgå skind og afkøles.</met>
+  </metode>
+</DOC>

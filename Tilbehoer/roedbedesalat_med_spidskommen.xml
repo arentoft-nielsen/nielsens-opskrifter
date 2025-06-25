@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Rødbedesalat med spidskommen</navn>
+  <ingredienser>
+    <ing>2 mellemstore rødbeder</ing>
+    <ing>saft af ½ citron</ing>
+    <ing>2 spsk olivenolie</ing>
+    <ing>½ tsk spidskommen</ing>
+    <ing>et lille drys chili</ing>
+    <ing>evt. 2 knivspids lakridspulver</ing>
+    <ing>en smule salt</ing>
+    <ing>en god håndfuld rosiner</ing>
+  </ingredienser>
+  <metode>
+    <met>Rødbederne rives groft og vendes sammen med de øvrige ingredienser. Må gerne stå og trække en halv times tid ved stuetemperatur.</met>
+  </metode>
+</DOC>

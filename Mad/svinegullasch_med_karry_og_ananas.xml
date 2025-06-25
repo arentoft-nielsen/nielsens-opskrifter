@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Svinegullasch med karry og ananas</navn>
+  <ingredienser>
+    <ing>1 kg skært svinekød</ing>
+    <ing>madraskarry</ing>
+    <ing>salt</ing>
+    <ing>mel</ing>
+    <ing>1 ds. ananasringe</ing>
+    <ing>1 stort løg</ing>
+    <ing>2 grønne pebre</ing>
+    <ing>1 tsk revet citronskal</ing>
+    <ing>fløde</ing>
+    <ing>evt. cocktailpølser</ing>
+  </ingredienser>
+  <metode>
+    <met>2 tsk karry blandes med mel og salt - heri vendes kødternene. Pebrene skæres i tern, løg udskæres groft.</met>
+    <met>Kødet brunes ad et par gange på en pande ved høj temperatur. Lægges i en gryde. Pebre ristes derefter, så løg, og endelig ananasringe skåret i kvarte. Lægges ved kødet.</met>
+    <met>Ananassaften hældes ved kød og grønsager, og der suppleres med bouillon til det hele er næsten dækket. Koges ved svag varme i ca. 45 min. Undervejs smages til med salt, karry og citronskal.</met>
+    <met>Til slut tilsættes fløde og cocktailpølser, og evt. jævnes saucen med maizena. Server løse ris, (mangochutney) og salat til.</met>
+  </metode>
+</DOC>

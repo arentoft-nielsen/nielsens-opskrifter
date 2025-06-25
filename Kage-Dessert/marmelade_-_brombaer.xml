@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Marmelade - brombær</navn>
+  <ingredienser>
+    <ing>500 g brombær</ing>
+    <ing>300 g sukker</ing>
+    <ing>3 spsk citronsaft</ing>
+    <ing>ca. 1 tsk rød melatin</ing>
+    <ing>1 tsk vaniljesukker</ing>
+  </ingredienser>
+  <metode>
+    <met>Sæt en lille tallerken på køl eller frys.</met>
+    <met>Læg brombærrene i en gryde, og tilsæt sukker (minus en spiseskefuld) og citronsaft.</met>
+    <met>Lad din brombærmarmelade koge op, hvorefter den koges ved svag varme i et par minutter.</met>
+    <met>I en lille skål blander du den sidste spiseskefuld sukker sammen med melatin eller et andet gelateringsmiddel, og rører det derefter i marmeladen.</met>
+    <met>Lad nu din brombærmarmelade koge op igen, hvorefter du tager gryden af varmen, irører vaniljesukker, og lægger en lille teskefuld marmelade på den nu kolde tallerken for at få tjekket konsistensen. Der justeres evt. med gelateringsmiddel.</met>
+    <met>Herefter er marmeladen klar til at blive fyldt på rengjorte glas.</met>
+  </metode>
+</DOC>

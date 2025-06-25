@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Salatdressing med sød chilisauce</navn>
+  <ingredienser>
+    <ing>2 spsk olie</ing>
+    <ing>2 spsk creme fraiche(-dressing)</ing>
+    <ing>4 spsk sød chilisauce</ing>
+    <ing>2 fed hvidløg, presset</ing>
+    <ing>1 spsk citronsaft</ing>
+    <ing>lidt salt</ing>
+    <ing>et drys cayenne</ing>
+    <ing>et drys spidskommen</ing>
+  </ingredienser>
+  <metode>
+    <met>Ingredienserne piskes grundigt sammen og smages til.</met>
+  </metode>
+  <tips>
+    <tip>Portionen passer til fx til salat af et halvt rigtig stort spidskål.</tip>
+  </tips>
+</DOC>

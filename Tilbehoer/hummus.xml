@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Hummus</navn>
+  <ingredienser>
+    <ing>250 g kikærter (tørrede)</ing>
+    <ing>2 spsk tahin</ing>
+    <ing>saft af ½-1 citron</ing>
+    <ing>½-1 dl olivenolie</ing>
+    <ing>2+ spsk spidskommen</ing>
+    <ing>1 tsk stødt koriander</ing>
+    <ing>2-4 fed hvidløg</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+    <ing>lidt chilipulver</ing>
+  </ingredienser>
+  <metode>
+    <met>Kikærterne lægges i blød i koldt vand 10-12 timer. Vandet skiftes, dårlige ærter sorteres fra, og ærterne koges i 4-5 kvarter i vand, så det lige dækker. Tilsæt salt el. en bouillon-terning.</met>
+    <met>Kikærterne afkøles en smule og hældes i en blender sammen med citronsaft, olie og hvidløg. Tilsæt noget af kogevandet, så det næsten dækker ærterne i blenderen. Kikærterne blendes fint.</met>
+    <met>Kikærtemosen hældes i en skål og røres grundigt sammen med tahin og spidskommen (der skal som regel bruges en del spidskommen - ca et par spiseskefulde).</met>
+    <met>Smag hummus'en til med salt, peber, chili og spidskommen efter smag.</met>
+  </metode>
+  <tips>
+    <tip>Der kan anvendes forkogte kikærter fra dåse, vandet kasseres. Nettovægten af en normal dåse er ca. 240 g, så der skal bruges 2 dåser. Der laves lidt bouillon til erstatning for kogevand. Bruges der kikærter fra dåse, så vær forsigtig med citronen.</tip>
+    <tip>For at få ekstra cremet hummus kan kikærterne koges blot med en teskefuld natron i vandet- hold øje med væskestanden undervejs. Ærterne skylles let i koldt vand, når de er godt møre, og der tilsættes bouillon ved blendningen.</tip>
+  </tips>
+</DOC>

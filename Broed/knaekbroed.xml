@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Knækbrød</navn>
+  <ingredienser>
+    <ing>1 dl havregryn</ing>
+    <ing>1 dl sesamfrø</ing>
+    <ing>1 dl hørfrø</ing>
+    <ing>1 dl solsikkekerner</ing>
+    <ing>1 dl græskarkerner</ing>
+    <ing>1 dl hvedemel</ing>
+    <ing>1½ dl rugmel</ing>
+    <ing>1 tsk bagepulver</ing>
+    <ing>evt. smagsgivere (1½ hvidløgspulver, 1½ tsk spidskommen, 1 tsk rosmarin, chili etc.)</ing>
+    <ing>1 tsk fint salt</ing>
+    <ing>½ dl oliven-/rapsolie</ing>
+    <ing>ca. 2½-3 dl vand</ing>
+    <ing>1 tsk flagesalt (drysses over)</ing>
+  </ingredienser>
+  <metode>
+    <met>Tænd ovnen på 180°. Bland de tørre ingredienser grundigt. Tilsæt derefter olie, som fordeles omhyggeligt. Tilsæt vand, og rør dejen hurtigt sammen med en grydeske.</met>
+    <met>Fordel dejen på to stykker bagepapir direkte på bordet. Læg et stykke plastfolie (evt. opskåret frysepose) over, og rul ud i firkant med en kagerulle (alternativt bredes dejen tyndt ud med en olieret dejskraber dyppet i vand løbende). Tykkelsen skal være 2-3 mm - der kan evt. afpasses nogenlunde efter græskarkernernes tykkelse. Del dejpladerne i passende stykker ved at trykke en fugtet kniv igennem dejpladen. Drys med flagesalt. Træk bagepapir med dejen over på en bageplade.</met>
+    <met>Bag ved 180° varmluft, først i ca. 22 minutter. Det er vigtigt, at knækbrødet bliver bagt nok for at blive sprødt: det må ikke være blødt og skal være lysebrunt (men ikke for mørkt, for så smager det lidt brændt). Eventuelt kan midterdelen af dejpladerne få 4-5 minutter ekstra, efter at kanterne er fjernet. Yderligere kan knækbrødet sættes i ovnen på eftervarme med lågen på klem for at udtørre yderligere.</met>
+    <met>Afkøles på rist.</met>
+  </metode>
+  <tips>
+    <tip>Kernerne i opskriften kan varieres, som man har lyst, bare man bruger dem i den angivne mængde.</tip>
+    <tip>Der kan tilsættes 50 g revne grøntsager til dejen, f.eks. rødbede, gulerod, selleri. Dejen kan sagtens bære denne mængde grøntsager, uden at du tilsætter ekstra mel. Lidt blancheret, hakket spinat eller brændenælder i dejen er også godt. Husk blot at vride urterne godt for vand, inden du kommer dem i dejen.</tip>
+    <tip>Plaststykket kan rengøres med fugtig køkkenrulle og genbruges.</tip>
+  </tips>
+</DOC>

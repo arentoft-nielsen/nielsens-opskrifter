@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Boller i karry</navn>
+  <ingredienser>
+    <ing>500 g hakket kalv og flæsk</ing>
+    <ing>1¼ tsk. salt</ing>
+    <ing>1 æg</ing>
+    <ing>1 mellem løg, finthakket</ing>
+    <ing>3 spsk. hvedemel</ing>
+    <ing>1 dl havregryn</ing>
+    <ing>ca. 1 dl mælk</ing>
+    <ing>½ tsk. peber</ing>
+    <ing>1 tsk karry</ing>
+  </ingredienser>
+  <ingredienser2>
+    <subheader>Sauce</subheader>
+    <ing>50 g smør</ing>
+    <ing>1 løg, finthakket</ing>
+    <ing>1 æble i fine tern</ing>
+    <ing>1½-2 spsk madraskarry, efter styrke</ing>
+    <ing>1 fed hvidløg, finthakket</ing>
+    <ing>3 spsk. hvedemel</ing>
+    <ing>½ dl mælk</ing>
+    <ing>salt</ing>
+    <ing>peber</ing>
+  </ingredienser2>
+  <metode>
+    <met>Rør kødet med salt og æg (æg kan evt. blendes med løg og tilsættes bagefter)</met>
+    <met>Tilsæt løg, mel, havregryn, karry og peber. Rør mælk i farsen (lidt ad gangen) til passende konsistens, og lad den trække tildækket i køleskabet, helst mindst et par timer.</met>
+    <met>Form farsen til små boller med en våd ikke for stor ske, og læg dem forsigtigt i kogende vand tilsat en bouillonterning i 3-5 min. Tages op og lægges på en tallerken. Gem kogevandet, det skal bruges til saucen.</met>
+    <met>Sauce:</met>
+    <met>Kom smørret i en gryde, og når det er bruset af, kommes hakket æble og løg i og steges blødt.</met>
+    <met>Så tilsættes hvidløg, karry, hvedemel, og rør godt nu. Tilsæt det varme kogevand lidt ad gangen, mens du rører hele tiden. Tilsæt også lidt mælk. Fortsæt indtil saucen har den rigtige konsistens.</met>
+    <met>Smag til med salt, ekstra karry samt peber, og lad den koge et par minutter, for at få melsmagen væk.</met>
+    <met>Læg kødbollerne i saucen og varm retten hurtigt igennem.</met>
+  </metode>
+  <tips>
+    <tip>Farven kan justeres med gurkemeje</tip>
+  </tips>
+</DOC>

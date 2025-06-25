@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='../viewxml.xsl'?>
+<DOC>
+  <navn>Gryderugbrød</navn>
+  <ingredienser>
+    <ing>75 g perlerug</ing>
+    <ing>gær som en lille ært (el. 1 tsk hvis du ikke bruger surdej)</ing>
+    <ing>2 spsk rugsurdej (kan købes i en helsekostbutik - men det kan også udelades)</ing>
+    <ing>2½ dl koldt vand</ing>
+    <ing>2 dl øl</ing>
+    <ing>3 tsk salt</ing>
+    <ing>1 tsk råsukker</ing>
+    <ing>75 g rugflager</ing>
+    <ing>50 g solsikkefrø</ing>
+    <ing>50 g græskarkerner (gem lidt til drys)</ing>
+    <ing>60 g hørfrø</ing>
+    <ing>200 g rugmel</ing>
+    <ing>ca. 200 g hvedemel</ing>
+  </ingredienser>
+  <metode>
+    <met>Kog rugkernerne i dobbelt mængde vand ca. 15 minutter. Afdryp og afkøl kernerne.</met>
+    <met>Rør gæren helt ud i vandet. Tilsæt evt. surdej. Rør øl, salt og sukker i væden. Rør de kogte korn, flagerne og frø og kerner i. Tilsæt rugmelet og rør til sidst hvedemelet i.</met>
+    <met>Dejen skal være fast, men ikke mere fast end at du lige netop kan røre den med en ske.</met>
+    <met>Tildæk skålen med et klæde og lad dejen stå ved stuetemperatur mindst 12 timer.</met>
+    <met>Tag dejen ud på et godt melet bord og fold den 4-5 gange fra hver side. Hæld lidt olie i hæveskålen og lad dejen hæve endnu 2 timer.</met>
+    <met>Tænd ovnen på 250 grader og sæt bageform/gryde med låg i ovnen. Tag formen ud, når de 250 grader er nået. Drys godt med mel i formen og læg dejen i gryden. Pas på fingrene - gryden er MEGET varm! Brug flere lag grydelapper.</met>
+    <met>Drys med resten af græskarkernerne, når dejen er lagt i den varme form. Pres kernerne lidt ned i dejen med en våd bagepensel.</met>
+    <met>Bag rugbrødet 30 minutter ved 250 grader. Tag låget af og skru varmen ned til 225 grader. Bag brødet færdigt, endnu ca. 20 minutter.</met>
+    <met>Pak rugbrødet ind i et klæde og lad det hvile til næste dag, før du skærer skiver af det.</met>
+  </metode>
+</DOC>
